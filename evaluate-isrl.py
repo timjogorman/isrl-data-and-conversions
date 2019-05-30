@@ -14,21 +14,34 @@ from typing import List, Dict
 
 class Candidate:
     def __init__(self, file, sentence, start, end, heads=None):
+        '''
+        Simple file for comparing two spans
+        Start and end are inclusive, and are scored with dice coefficeint
+        
+        '''
         self.file:str = file
         self.sentence:int = sentence
         self.start:int = start
         self.inclusive_end:int = end  
         self.headindices = heads
     def score(self, gold_other_candidate)-> float:
-        if self.sentence == gold_other_candidate.sentence:
+        '''
+        I'm assuming the commonly assumed relaxation of Ruppenhofer et al. 2010 -- dice overlap between gold span and 
+        predicted span.  This returns that score.
 
+        Technical quibble: Laparra and Rigau's scorer used the additional headedness constraint, which we aren't currently applying. 
+        That returns partial overlap if the syntactic head of the gold span is within predicted partial span, and 0 otherwise. 
+        
+        Issue: It hasn't been consistently used, gives roughly the same scores as simple dice score, requires consistent notion/annotation of 
+        a head, and headedness over BeyondNomBank was a bit of a wreck (annotated on PTB3, before the addition of hieararchical adnominal structure of 
+        Vadas and Curran '07').  
+
+        '''
+        if self.sentence == gold_other_candidate.sentence:
             pred_candidate_tokens = set(range(self.start, self.inclusive_end+1))
             gold_candidate_tokens = set(range(gold_other_candidate.start, gold_other_candidate.inclusive_end+1))
             intersection = list(pred_candidate_tokens.intersection(gold_candidate_tokens))
-            if self.headindices is None or len(set(gold_other_candidate.headindices).intersection(pred_candidate_tokens)) > 0:
-                return (2.0 * len(intersection))/float((len(list(gold_candidate_tokens))+len(list(pred_candidate_tokens))))
-            else:
-                return 0.0
+            return (2.0 * len(intersection))/float((len(list(gold_candidate_tokens))+len(list(pred_candidate_tokens))))
         else:
             return 0.0
 
@@ -49,6 +62,7 @@ class ComparisonSet:
         if not self.gold:
             logging.error("wrong direction, treating predicted arguments as gold")
         best:float = 0.0
+        logging.debug(f"has {implicit_role_id}  in file: {implicit_role_id in self.implicit_role_candidates}")
         for gold_candidate in self.implicit_role_candidates.get(implicit_role_id,[]):
             partial_overlap = candidate.score(gold_candidate)
 
@@ -96,6 +110,24 @@ class ComparisonSet:
                         c= Candidate(file, int(candidate.attrib['sentence']), int(candidate.attrib['start']), int(candidate.attrib['end']))
                         self.process_arg(its_role,c)
 
+    def process_path(self, some_path):
+        if some_path.is_dir():
+            for each_indiv_path in some_path.iterdir():
+                if each_indiv_path.name.endswith(".json"):
+                    self.add_json_file(each_indiv_path)
+                elif each_indiv_path.name.endswith(".xml"):
+                    self.add_xml_file(each_indiv_path)                
+                else:
+                    self.add_txt_file(each_indiv_path, has_head=self.gold)
+        else:
+            if some_path.name.endswith(".json"):
+                self.add_json_file(some_path)
+            elif some_path.name.endswith(".xml"):
+                self.add_xml_file(some_path)                
+            else:
+                self.add_txt_file(some_path, has_head=self.gold)
+            
+        
 def score_predictions(golds, predictions) -> Dict:
     
     total_score:float = 0
@@ -127,15 +159,7 @@ if __name__ == "__main__":
     scores:Dict = {"precision":[], "recall":[]}
     distance_histo = []
     golds= ComparisonSet(is_gold=True)
-    if gold_path.is_dir():
-        for each_gold_path in gold_path.iterdir():
-            if each_gold_path.name.endswith(".json"):
-                golds.add_json_file(each_gold_path)
-            else:
-                golds.add_xml_file(each_gold_path)
-    else:
-        golds.add_txt_file(gold_path, has_head=True)
+    golds.process_path(gold_path)
     predictions= ComparisonSet(is_gold=False)    
-    for each_predicted_path in predicted_path.iterdir():
-        predictions.add_json_file(each_predicted_path)
+    predictions.process_path(predicted_path)
     score_predictions(golds, predictions)

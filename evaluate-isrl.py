@@ -63,6 +63,7 @@ class ComparisonSet:
             logging.error("wrong direction, treating predicted arguments as gold")
         best:float = 0.0
         logging.debug(f"has {implicit_role_id}  in file: {implicit_role_id in self.implicit_role_candidates}")
+
         for gold_candidate in self.implicit_role_candidates.get(implicit_role_id,[]):
             partial_overlap = candidate.score(gold_candidate)
 
@@ -135,7 +136,16 @@ def score_predictions(golds, predictions) -> Dict:
         option = predictions.implicit_role_candidates[role_candidate][0]
         ts = golds.evaluate_candidate(role_candidate, option)
         total_score +=ts
-    prec, recall = total_score/predictions.size_of_recoverable_mentions(), total_score/golds.size_of_recoverable_mentions()
+    if predictions.size_of_recoverable_mentions() == 0:
+        prec = 0.0
+        logging.error("no predicted roles!!")
+    else:
+        prec = total_score/predictions.size_of_recoverable_mentions()
+    if golds.size_of_recoverable_mentions() == 0:
+        recall = 0.0
+        logging.error("no gold implicit roles!!")
+    else:
+        recall = total_score/golds.size_of_recoverable_mentions()
     logging.info(f"precision {prec}, recall {recall}, and f1 {calculate_f1(prec, recall)}")
     
 def calculate_f1(precision, recall):

@@ -1,0 +1,19 @@
+[
+    {
+        "role": "arg0|loan.01",
+        "predicate-sentence": "1",
+        "predicate-start-inclusive": "7",
+        "predicate-end-inclusive": "7",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "missing"
+        },
+        "candidates": [
+            {
+                "sentence": "1",
+                "start-inclusive": "22",
+                "end-inclusive": "26"
+            }
+        ]
+    }
+]

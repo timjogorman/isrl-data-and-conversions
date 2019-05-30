@@ -1,0 +1,104 @@
+[
+    {
+        "role": "arg0|sell.01",
+        "predicate-sentence": "6",
+        "predicate-start-inclusive": "30",
+        "predicate-end-inclusive": "30",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "same-sentence"
+        },
+        "candidates": [
+            {
+                "sentence": "4",
+                "start-inclusive": "0",
+                "end-inclusive": "0"
+            }
+        ]
+    },
+    {
+        "role": "arg1|sell.01",
+        "predicate-sentence": "6",
+        "predicate-start-inclusive": "30",
+        "predicate-end-inclusive": "30",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "missing"
+        },
+        "candidates": [
+            {
+                "sentence": "6",
+                "start-inclusive": "14",
+                "end-inclusive": "18"
+            }
+        ]
+    },
+    {
+        "role": "arg0|price.01",
+        "predicate-sentence": "11",
+        "predicate-start-inclusive": "0",
+        "predicate-end-inclusive": "0",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "cross-sentence-anaphora"
+        },
+        "candidates": [
+            {
+                "sentence": "8",
+                "start-inclusive": "0",
+                "end-inclusive": "0"
+            }
+        ]
+    },
+    {
+        "role": "arg0|price.01",
+        "predicate-sentence": "19",
+        "predicate-start-inclusive": "5",
+        "predicate-end-inclusive": "5",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "cross-sentence-anaphora"
+        },
+        "candidates": [
+            {
+                "sentence": "17",
+                "start-inclusive": "2",
+                "end-inclusive": "2"
+            }
+        ]
+    },
+    {
+        "role": "arg1|price.01",
+        "predicate-sentence": "19",
+        "predicate-start-inclusive": "5",
+        "predicate-end-inclusive": "5",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "cross-sentence-anaphora"
+        },
+        "candidates": [
+            {
+                "sentence": "18",
+                "start-inclusive": "18",
+                "end-inclusive": "31"
+            }
+        ]
+    },
+    {
+        "role": "arg1|plan.01",
+        "predicate-sentence": "6",
+        "predicate-start-inclusive": "40",
+        "predicate-end-inclusive": "40",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "same-sentence"
+        },
+        "candidates": [
+            {
+                "sentence": "6",
+                "start-inclusive": "14",
+                "end-inclusive": "18"
+            }
+        ]
+    }
+]

@@ -15,7 +15,7 @@
 </implicit>
 
 <implicit role="arg3|read.01" recoverable="True" implicit-role-type="same-sentence" predstart="25" predend="25" sentence="0">
-    <candidate sentence="0" start="0" end="74"/>
+    <candidate sentence="0" start="1" end="1"/>
 </implicit>
 
 <implicit role="arg0|tackle.01" recoverable="True" implicit-role-type="same-sentence" predstart="54" predend="54" sentence="0">

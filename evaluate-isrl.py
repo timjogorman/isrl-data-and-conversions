@@ -96,7 +96,7 @@ class ComparisonSet:
                         c= Candidate(file, int(candidate.attrib['sentence']), int(candidate.attrib['start']), int(candidate.attrib['end']))
                         self.process_arg(its_role,c)
 
-def compare_two_sets(golds, predictions) -> Dict:
+def score_predictions(golds, predictions) -> Dict:
     
     total_score:float = 0
     for role_candidate in sorted(predictions.implicit_role_candidates):
@@ -104,10 +104,8 @@ def compare_two_sets(golds, predictions) -> Dict:
         ts = golds.evaluate_candidate(role_candidate, option)
         total_score +=ts
     prec, recall = total_score/predictions.size_of_recoverable_mentions(), total_score/golds.size_of_recoverable_mentions()
-    print(prec, recall, calculate_f1(prec, recall))
-    print(golds.size_of_recoverable_mentions(), predictions.size_of_recoverable_mentions())
-    print(total_score)
-
+    logging.info(f"precision {prec}, recall {recall}, and f1 {calculate_f1(prec, recall)}")
+    
 def calculate_f1(precision, recall):
     if (precision+recall) == 0:
         return 0
@@ -140,30 +138,4 @@ if __name__ == "__main__":
     predictions= ComparisonSet(is_gold=False)    
     for each_predicted_path in predicted_path.iterdir():
         predictions.add_json_file(each_predicted_path)
-    compare_two_sets(golds, predictions)
-    input("UHH")
-    if gold_path.is_file() and predicted_path.is_file():
-        its_scores =  compare_two_files(gold_path, predicted_path)
-        #logging.info(f'precision of {np.average(its_scores["precision"])} and recall of {np.average(its_scores["recall"])} for file {its_name}')
-        #scores['precision'].extend(its_scores["precision"])
-        #scores['recall'].extend(its_scores["recall"])
-    elif gold_path.is_dir() and predicted_path.is_dir():
-        for each_gold_path in gold_path.iterdir():
-            if each_gold_path.name.endswith("json"):
-                its_name = each_gold_path.name
-                equivalent_predicted_file = [each_file for each_file in predicted_path.iterdir() if each_gold_path.name.replace(".json",".predicted.json") == each_file.name]
-                if len(equivalent_predicted_file) == 1:
-                    its_scores = compare_two_files(each_gold_path, equivalent_predicted_file[0])
-                    
-                    logging.debug(f'precision of {np.average(its_scores["precision"])} and recall of {np.average(its_scores["recall"])} for file {its_name}')
-                    scores['precision'].extend(its_scores["precision"])
-                    scores['recall'].extend(its_scores["recall"])
-                elif (equivalent_predicted_file) == 0:
-                    logging.error(f'not match for file {its_name}')
-                else:
-                    logging.error(f'too many matches for file {its_name}')
-    else:
-        logging.error("must be either two files or two folders, not a mix of both")
-    f1 = calculate_f1(np.average(scores["precision"]), np.average(scores["recall"]))
-    logging.info(f'precision of {np.average(scores["precision"])} and recall of {np.average(scores["recall"])} and f1 {f1} for all files')
-    
+    score_predictions(golds, predictions)

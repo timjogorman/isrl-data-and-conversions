@@ -3,11 +3,11 @@
 <ISRLSPANS sourcefile="amrsamesent_3979">
 
 <implicit role="arg1|refuel.01" recoverable="True" implicit-role-type="same-sentence" predstart="13" predend="13" sentence="0">
-    <candidate sentence="0" start="0" end="26"/>
+    <candidate sentence="0" start="9" end="9"/>
 </implicit>
 
 <implicit role="arg1|load.01" recoverable="True" implicit-role-type="same-sentence" predstart="15" predend="15" sentence="0">
-    <candidate sentence="0" start="0" end="26"/>
+    <candidate sentence="0" start="9" end="9"/>
 </implicit>
 <implicit role="arg0|schedule.01" recoverable="False" implicit-role-type="missing" predstart="9" predend="9" sentence="0"/>
 <implicit role="arg0|make.01" recoverable="False" implicit-role-type="missing" predstart="3" predend="3" sentence="0"/>

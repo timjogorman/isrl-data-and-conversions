@@ -1,0 +1,36 @@
+[
+    {
+        "role": "arg0|sell.01",
+        "predicate-sentence": "2",
+        "predicate-start-inclusive": "4",
+        "predicate-end-inclusive": "4",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "same-sentence"
+        },
+        "candidates": [
+            {
+                "sentence": "2",
+                "start-inclusive": "19",
+                "end-inclusive": "19"
+            }
+        ]
+    },
+    {
+        "role": "arg1|sell.01",
+        "predicate-sentence": "2",
+        "predicate-start-inclusive": "4",
+        "predicate-end-inclusive": "4",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "cross-sentence-anaphora"
+        },
+        "candidates": [
+            {
+                "sentence": "2",
+                "start-inclusive": "12",
+                "end-inclusive": "39"
+            }
+        ]
+    }
+]

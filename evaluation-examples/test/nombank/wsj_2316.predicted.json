@@ -1,0 +1,19 @@
+[
+    {
+        "role": "arg1|plan.01",
+        "predicate-sentence": "10",
+        "predicate-start-inclusive": "4",
+        "predicate-end-inclusive": "4",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "same-sentence"
+        },
+        "candidates": [
+            {
+                "sentence": "9",
+                "start-inclusive": "34",
+                "end-inclusive": "34"
+            }
+        ]
+    }
+]

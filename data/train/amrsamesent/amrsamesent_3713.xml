@@ -3,7 +3,7 @@
 <ISRLSPANS sourcefile="amrsamesent_3713">
 
 <implicit role="arg0|write.01" recoverable="True" implicit-role-type="same-sentence" predstart="6" predend="6" sentence="0">
-    <candidate sentence="0" start="0" end="12"/>
+    <candidate sentence="0" start="0" end="0"/>
 </implicit>
 <implicit role="arg1|have_concession.91" recoverable="False" implicit-role-type="missing" predstart="11" predend="11" sentence="0"/>
 <implicit role="arg2|take.01" recoverable="False" implicit-role-type="missing" predstart="2" predend="2" sentence="0"/>

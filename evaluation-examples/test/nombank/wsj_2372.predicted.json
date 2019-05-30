@@ -1,0 +1,223 @@
+[
+    {
+        "role": "arg0|plan.01",
+        "predicate-sentence": "39",
+        "predicate-start-inclusive": "7",
+        "predicate-end-inclusive": "7",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "cross-sentence-anaphora"
+        },
+        "candidates": [
+            {
+                "sentence": "36",
+                "start-inclusive": "1",
+                "end-inclusive": "1"
+            }
+        ]
+    },
+    {
+        "role": "arg0|fund.01",
+        "predicate-sentence": "41",
+        "predicate-start-inclusive": "14",
+        "predicate-end-inclusive": "14",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "missing"
+        },
+        "candidates": [
+            {
+                "sentence": "38",
+                "start-inclusive": "19",
+                "end-inclusive": "20"
+            }
+        ]
+    },
+    {
+        "role": "arg0|loan.01",
+        "predicate-sentence": "51",
+        "predicate-start-inclusive": "14",
+        "predicate-end-inclusive": "14",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "same-sentence"
+        },
+        "candidates": [
+            {
+                "sentence": "51",
+                "start-inclusive": "21",
+                "end-inclusive": "21"
+            }
+        ]
+    },
+    {
+        "role": "arg4|loan.01",
+        "predicate-sentence": "51",
+        "predicate-start-inclusive": "14",
+        "predicate-end-inclusive": "14",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "same-sentence"
+        },
+        "candidates": [
+            {
+                "sentence": "50",
+                "start-inclusive": "2",
+                "end-inclusive": "25"
+            }
+        ]
+    },
+    {
+        "role": "arg2|loan.01",
+        "predicate-sentence": "51",
+        "predicate-start-inclusive": "14",
+        "predicate-end-inclusive": "14",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "missing"
+        },
+        "candidates": [
+            {
+                "sentence": "51",
+                "start-inclusive": "21",
+                "end-inclusive": "21"
+            }
+        ]
+    },
+    {
+        "role": "arg0|plan.01",
+        "predicate-sentence": "50",
+        "predicate-start-inclusive": "8",
+        "predicate-end-inclusive": "8",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "missing"
+        },
+        "candidates": [
+            {
+                "sentence": "50",
+                "start-inclusive": "21",
+                "end-inclusive": "25"
+            }
+        ]
+    },
+    {
+        "role": "arg1|plan.01",
+        "predicate-sentence": "38",
+        "predicate-start-inclusive": "5",
+        "predicate-end-inclusive": "5",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "same-sentence"
+        },
+        "candidates": [
+            {
+                "sentence": "38",
+                "start-inclusive": "14",
+                "end-inclusive": "26"
+            }
+        ]
+    },
+    {
+        "role": "arg0|plan.01",
+        "predicate-sentence": "32",
+        "predicate-start-inclusive": "11",
+        "predicate-end-inclusive": "11",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "same-sentence"
+        },
+        "candidates": [
+            {
+                "sentence": "31",
+                "start-inclusive": "1",
+                "end-inclusive": "1"
+            }
+        ]
+    },
+    {
+        "role": "arg1|plan.01",
+        "predicate-sentence": "32",
+        "predicate-start-inclusive": "11",
+        "predicate-end-inclusive": "11",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "same-sentence"
+        },
+        "candidates": [
+            {
+                "sentence": "32",
+                "start-inclusive": "21",
+                "end-inclusive": "23"
+            }
+        ]
+    },
+    {
+        "role": "arg0|loss.01",
+        "predicate-sentence": "48",
+        "predicate-start-inclusive": "15",
+        "predicate-end-inclusive": "15",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "same-sentence"
+        },
+        "candidates": [
+            {
+                "sentence": "46",
+                "start-inclusive": "0",
+                "end-inclusive": "3"
+            }
+        ]
+    },
+    {
+        "role": "arg0|plan.01",
+        "predicate-sentence": "40",
+        "predicate-start-inclusive": "5",
+        "predicate-end-inclusive": "5",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "cross-sentence-anaphora"
+        },
+        "candidates": [
+            {
+                "sentence": "37",
+                "start-inclusive": "3",
+                "end-inclusive": "3"
+            }
+        ]
+    },
+    {
+        "role": "arg1|plan.01",
+        "predicate-sentence": "63",
+        "predicate-start-inclusive": "1",
+        "predicate-end-inclusive": "1",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "same-sentence"
+        },
+        "candidates": [
+            {
+                "sentence": "62",
+                "start-inclusive": "20",
+                "end-inclusive": "22"
+            }
+        ]
+    },
+    {
+        "role": "arg0|plan.01",
+        "predicate-sentence": "63",
+        "predicate-start-inclusive": "1",
+        "predicate-end-inclusive": "1",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "missing"
+        },
+        "candidates": [
+            {
+                "sentence": "63",
+                "start-inclusive": "0",
+                "end-inclusive": "1"
+            }
+        ]
+    }
+]

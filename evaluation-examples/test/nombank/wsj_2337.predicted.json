@@ -1,0 +1,104 @@
+[
+    {
+        "role": "arg1|price.01",
+        "predicate-sentence": "25",
+        "predicate-start-inclusive": "5",
+        "predicate-end-inclusive": "5",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "cross-sentence-anaphora"
+        },
+        "candidates": [
+            {
+                "sentence": "23",
+                "start-inclusive": "20",
+                "end-inclusive": "27"
+            }
+        ]
+    },
+    {
+        "role": "arg0|price.01",
+        "predicate-sentence": "25",
+        "predicate-start-inclusive": "5",
+        "predicate-end-inclusive": "5",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "missing"
+        },
+        "candidates": [
+            {
+                "sentence": "25",
+                "start-inclusive": "24",
+                "end-inclusive": "24"
+            }
+        ]
+    },
+    {
+        "role": "arg1|price.01",
+        "predicate-sentence": "25",
+        "predicate-start-inclusive": "29",
+        "predicate-end-inclusive": "29",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "cross-sentence-anaphora"
+        },
+        "candidates": [
+            {
+                "sentence": "23",
+                "start-inclusive": "20",
+                "end-inclusive": "27"
+            }
+        ]
+    },
+    {
+        "role": "arg0|sell.01",
+        "predicate-sentence": "2",
+        "predicate-start-inclusive": "46",
+        "predicate-end-inclusive": "46",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "missing"
+        },
+        "candidates": [
+            {
+                "sentence": "2",
+                "start-inclusive": "8",
+                "end-inclusive": "11"
+            }
+        ]
+    },
+    {
+        "role": "arg1|price.01",
+        "predicate-sentence": "24",
+        "predicate-start-inclusive": "25",
+        "predicate-end-inclusive": "25",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "same-sentence"
+        },
+        "candidates": [
+            {
+                "sentence": "23",
+                "start-inclusive": "20",
+                "end-inclusive": "27"
+            }
+        ]
+    },
+    {
+        "role": "arg0|price.01",
+        "predicate-sentence": "24",
+        "predicate-start-inclusive": "25",
+        "predicate-end-inclusive": "25",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "missing"
+        },
+        "candidates": [
+            {
+                "sentence": "22",
+                "start-inclusive": "4",
+                "end-inclusive": "5"
+            }
+        ]
+    }
+]

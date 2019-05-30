@@ -1,0 +1,53 @@
+[
+    {
+        "role": "arg0|loan.01",
+        "predicate-sentence": "2",
+        "predicate-start-inclusive": "7",
+        "predicate-end-inclusive": "7",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "missing"
+        },
+        "candidates": [
+            {
+                "sentence": "0",
+                "start-inclusive": "0",
+                "end-inclusive": "5"
+            }
+        ]
+    },
+    {
+        "role": "arg2|loan.01",
+        "predicate-sentence": "2",
+        "predicate-start-inclusive": "7",
+        "predicate-end-inclusive": "7",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "missing"
+        },
+        "candidates": [
+            {
+                "sentence": "0",
+                "start-inclusive": "14",
+                "end-inclusive": "15"
+            }
+        ]
+    },
+    {
+        "role": "arg3|cost.01",
+        "predicate-sentence": "4",
+        "predicate-start-inclusive": "27",
+        "predicate-end-inclusive": "27",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "same-sentence"
+        },
+        "candidates": [
+            {
+                "sentence": "4",
+                "start-inclusive": "6",
+                "end-inclusive": "7"
+            }
+        ]
+    }
+]

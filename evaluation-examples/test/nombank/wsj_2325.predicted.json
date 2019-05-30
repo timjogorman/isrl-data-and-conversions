@@ -1,0 +1,70 @@
+[
+    {
+        "role": "arg0|price.01",
+        "predicate-sentence": "11",
+        "predicate-start-inclusive": "6",
+        "predicate-end-inclusive": "6",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "cross-sentence-anaphora"
+        },
+        "candidates": [
+            {
+                "sentence": "11",
+                "start-inclusive": "0",
+                "end-inclusive": "7"
+            }
+        ]
+    },
+    {
+        "role": "arg0|price.01",
+        "predicate-sentence": "6",
+        "predicate-start-inclusive": "14",
+        "predicate-end-inclusive": "14",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "same-sentence"
+        },
+        "candidates": [
+            {
+                "sentence": "6",
+                "start-inclusive": "4",
+                "end-inclusive": "4"
+            }
+        ]
+    },
+    {
+        "role": "arg0|price.01",
+        "predicate-sentence": "3",
+        "predicate-start-inclusive": "13",
+        "predicate-end-inclusive": "13",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "same-sentence"
+        },
+        "candidates": [
+            {
+                "sentence": "3",
+                "start-inclusive": "23",
+                "end-inclusive": "25"
+            }
+        ]
+    },
+    {
+        "role": "arg0|price.01",
+        "predicate-sentence": "33",
+        "predicate-start-inclusive": "4",
+        "predicate-end-inclusive": "4",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "cross-sentence-anaphora"
+        },
+        "candidates": [
+            {
+                "sentence": "33",
+                "start-inclusive": "14",
+                "end-inclusive": "14"
+            }
+        ]
+    }
+]

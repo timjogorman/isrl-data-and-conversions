@@ -17,7 +17,7 @@ def represent_instance(document, predicate, candidates, role):
             each_sentence =its_sentence[:]
             if line_id == predicate[0]:
                 each_sentence[predicate[1]] = "<<<"+each_sentence[predicate[1]]
-                each_sentence[predicate[2]] = each_sentence[predicate[2]]+" (s="+str(predicate[0])+" role = "+role+">"
+                each_sentence[predicate[2]] = each_sentence[predicate[2]]+' ('+role+')>>>'
             for c in candidates:
                 if c[0] == line_id:
                     each_sentence[c[1]] = "{{{{"+each_sentence[c[1]]

@@ -1,0 +1,19 @@
+[
+    {
+        "role": "arg2|invest.01",
+        "predicate-sentence": "2",
+        "predicate-start-inclusive": "14",
+        "predicate-end-inclusive": "14",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "cross-sentence-anaphora"
+        },
+        "candidates": [
+            {
+                "sentence": "1",
+                "start-inclusive": "0",
+                "end-inclusive": "54"
+            }
+        ]
+    }
+]

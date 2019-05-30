@@ -1,0 +1,53 @@
+[
+    {
+        "role": "arg3|cost.01",
+        "predicate-sentence": "14",
+        "predicate-start-inclusive": "16",
+        "predicate-end-inclusive": "16",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "missing"
+        },
+        "candidates": [
+            {
+                "sentence": "11",
+                "start-inclusive": "4",
+                "end-inclusive": "4"
+            }
+        ]
+    },
+    {
+        "role": "arg3|cost.01",
+        "predicate-sentence": "4",
+        "predicate-start-inclusive": "8",
+        "predicate-end-inclusive": "8",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "same-sentence"
+        },
+        "candidates": [
+            {
+                "sentence": "4",
+                "start-inclusive": "3",
+                "end-inclusive": "3"
+            }
+        ]
+    },
+    {
+        "role": "arg1|cost.01",
+        "predicate-sentence": "4",
+        "predicate-start-inclusive": "8",
+        "predicate-end-inclusive": "8",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "cross-sentence-anaphora"
+        },
+        "candidates": [
+            {
+                "sentence": "4",
+                "start-inclusive": "19",
+                "end-inclusive": "26"
+            }
+        ]
+    }
+]

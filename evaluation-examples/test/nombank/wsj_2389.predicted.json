@@ -1,0 +1,36 @@
+[
+    {
+        "role": "arg0|price.01",
+        "predicate-sentence": "0",
+        "predicate-start-inclusive": "4",
+        "predicate-end-inclusive": "4",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "missing"
+        },
+        "candidates": [
+            {
+                "sentence": "0",
+                "start-inclusive": "9",
+                "end-inclusive": "9"
+            }
+        ]
+    },
+    {
+        "role": "arg1|price.01",
+        "predicate-sentence": "3",
+        "predicate-start-inclusive": "0",
+        "predicate-end-inclusive": "0",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "missing"
+        },
+        "candidates": [
+            {
+                "sentence": "3",
+                "start-inclusive": "15",
+                "end-inclusive": "40"
+            }
+        ]
+    }
+]

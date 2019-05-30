@@ -1,0 +1,19 @@
+[
+    {
+        "role": "arg0|sell.01",
+        "predicate-sentence": "4",
+        "predicate-start-inclusive": "14",
+        "predicate-end-inclusive": "14",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "same-sentence"
+        },
+        "candidates": [
+            {
+                "sentence": "4",
+                "start-inclusive": "5",
+                "end-inclusive": "5"
+            }
+        ]
+    }
+]

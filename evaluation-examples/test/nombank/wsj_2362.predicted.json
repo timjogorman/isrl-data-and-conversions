@@ -1,0 +1,104 @@
+[
+    {
+        "role": "arg0|plan.01",
+        "predicate-sentence": "2",
+        "predicate-start-inclusive": "6",
+        "predicate-end-inclusive": "6",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "same-sentence"
+        },
+        "candidates": [
+            {
+                "sentence": "1",
+                "start-inclusive": "0",
+                "end-inclusive": "10"
+            }
+        ]
+    },
+    {
+        "role": "arg0|sell.01",
+        "predicate-sentence": "21",
+        "predicate-start-inclusive": "25",
+        "predicate-end-inclusive": "25",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "same-sentence"
+        },
+        "candidates": [
+            {
+                "sentence": "20",
+                "start-inclusive": "0",
+                "end-inclusive": "2"
+            }
+        ]
+    },
+    {
+        "role": "arg1|sell.01",
+        "predicate-sentence": "21",
+        "predicate-start-inclusive": "25",
+        "predicate-end-inclusive": "25",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "missing"
+        },
+        "candidates": [
+            {
+                "sentence": "18",
+                "start-inclusive": "7",
+                "end-inclusive": "7"
+            }
+        ]
+    },
+    {
+        "role": "arg1|bid.01",
+        "predicate-sentence": "16",
+        "predicate-start-inclusive": "2",
+        "predicate-end-inclusive": "2",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "same-sentence"
+        },
+        "candidates": [
+            {
+                "sentence": "16",
+                "start-inclusive": "8",
+                "end-inclusive": "13"
+            }
+        ]
+    },
+    {
+        "role": "arg1|sell.01",
+        "predicate-sentence": "1",
+        "predicate-start-inclusive": "15",
+        "predicate-end-inclusive": "15",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "same-sentence"
+        },
+        "candidates": [
+            {
+                "sentence": "1",
+                "start-inclusive": "0",
+                "end-inclusive": "10"
+            }
+        ]
+    },
+    {
+        "role": "arg1|bid.01",
+        "predicate-sentence": "15",
+        "predicate-start-inclusive": "4",
+        "predicate-end-inclusive": "4",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "same-sentence"
+        },
+        "candidates": [
+            {
+                "sentence": "12",
+                "start-inclusive": "14",
+                "end-inclusive": "14"
+            }
+        ]
+    }
+]

@@ -1,0 +1,19 @@
+[
+    {
+        "role": "arg3|cost.01",
+        "predicate-sentence": "42",
+        "predicate-start-inclusive": "2",
+        "predicate-end-inclusive": "2",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "missing"
+        },
+        "candidates": [
+            {
+                "sentence": "41",
+                "start-inclusive": "3",
+                "end-inclusive": "6"
+            }
+        ]
+    }
+]

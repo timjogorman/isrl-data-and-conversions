@@ -1,0 +1,36 @@
+[
+    {
+        "role": "arg0|loan.01",
+        "predicate-sentence": "11",
+        "predicate-start-inclusive": "16",
+        "predicate-end-inclusive": "16",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "same-sentence"
+        },
+        "candidates": [
+            {
+                "sentence": "11",
+                "start-inclusive": "3",
+                "end-inclusive": "3"
+            }
+        ]
+    },
+    {
+        "role": "arg2|loan.01",
+        "predicate-sentence": "11",
+        "predicate-start-inclusive": "16",
+        "predicate-end-inclusive": "16",
+        "predinfo": {
+            "is-recoverable": "True",
+            "type": "same-sentence"
+        },
+        "candidates": [
+            {
+                "sentence": "9",
+                "start-inclusive": "0",
+                "end-inclusive": "2"
+            }
+        ]
+    }
+]

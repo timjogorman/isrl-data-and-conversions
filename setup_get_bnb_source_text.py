@@ -35,5 +35,5 @@ if __name__ == "__main__":
     parser.add_argument('tb3', help='Location of the treebank 3 wsj data')
     args = parser.parse_args()
     if not 'treebank_3/parsed/mrg/wsj/' in args.tb3:
-        logging.errors(f"double check if this looks right -- {args.tb3} should probably point to parsed/mrg/wsj/ within treebank 3")
+        logging.error(f"double check if this looks right -- {args.tb3} should probably point to parsed/mrg/wsj/ within treebank 3")
     load_all_bnb_data(args.tb3)

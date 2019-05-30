@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_3554">
+
+<implicit role="arg0|save.02" recoverable="True" implicit-role-type="same-sentence" predstart="14" predend="14" sentence="0">
+    <candidate sentence="0" start="32" end="34"/>
+</implicit>
+
+<implicit role="arg0|donate.01" recoverable="True" implicit-role-type="same-sentence" predstart="16" predend="16" sentence="0">
+    <candidate sentence="0" start="32" end="34"/>
+</implicit>
+
+<implicit role="arg2|engage.01" recoverable="True" implicit-role-type="same-sentence" predstart="10" predend="10" sentence="0">
+    <candidate sentence="0" start="23" end="24"/>
+</implicit>
+
+<implicit role="arg0|behave.01" recoverable="True" implicit-role-type="same-sentence" predstart="23" predend="23" sentence="0">
+    <candidate sentence="0" start="32" end="34"/>
+</implicit>
+<implicit role="arg0|flash.02" recoverable="False" implicit-role-type="missing" predstart="30" predend="30" sentence="0"/>
+<implicit role="arg0|come_to_mind.09" recoverable="False" implicit-role-type="missing" predstart="5" predend="5" sentence="0"/>
+</ISRLSPANS>
+

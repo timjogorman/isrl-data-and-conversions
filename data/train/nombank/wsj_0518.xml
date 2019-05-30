@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="wsj_0518">
+<implicit role="arg2|cost.01" recoverable="False" implicit-role-type="missing" predstart="13" predend="13" sentence="19"/>
+
+<implicit role="arg3|cost.01" recoverable="False" implicit-role-type="missing" predstart="13" predend="13" sentence="19"/>
+
+<implicit role="arg3|cost.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" predstart="9" predend="9" sentence="31">
+			<candidate sentence="0" start="0" end="1"/>
+			<candidate sentence="1" start="2" end="2"/>
+			<candidate sentence="7" start="4" end="5"/>
+			<candidate sentence="7" start="18" end="18"/>
+			<candidate sentence="16" start="0" end="0"/>
+			<candidate sentence="18" start="40" end="40"/>
+			<candidate sentence="26" start="10" end="10"/>
+			<candidate sentence="26" start="23" end="24"/>
+			<candidate sentence="26" start="25" end="25"/>
+			<candidate sentence="27" start="1" end="1"/>
+			<candidate sentence="27" start="53" end="56"/>
+</implicit>
+
+<implicit role="arg2|cost.01" recoverable="False" implicit-role-type="missing" predstart="9" predend="9" sentence="31"/>
+
+<implicit role="arg2|cost.01" recoverable="False" implicit-role-type="missing" predstart="13" predend="13" sentence="16"/>
+
+<implicit role="arg3|cost.01" recoverable="False" implicit-role-type="missing" predstart="13" predend="13" sentence="16"/>
+
+<implicit role="arg3|cost.01" recoverable="True" implicit-role-type="same-sentence" predstart="11" predend="11" sentence="7">
+			<candidate sentence="0" start="0" end="1"/>
+			<candidate sentence="1" start="2" end="2"/>
+			<candidate sentence="7" start="4" end="5"/>
+			<candidate sentence="7" start="18" end="18"/>
+</implicit>
+
+<implicit role="arg2|cost.01" recoverable="False" implicit-role-type="missing" predstart="11" predend="11" sentence="7"/>
+
+
+</ISRLSPANS>

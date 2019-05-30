@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_3027">
+
+<implicit role="arg1|interest.01" recoverable="True" implicit-role-type="same-sentence" predstart="8" predend="8" sentence="0">
+    <candidate sentence="0" start="30" end="33"/>
+</implicit>
+
+<implicit role="arg0|meet.03" recoverable="True" implicit-role-type="same-sentence" predstart="18" predend="18" sentence="0">
+    <candidate sentence="0" start="30" end="33"/>
+</implicit>
+<implicit role="arg2|process.01" recoverable="False" implicit-role-type="missing" predstart="13" predend="13" sentence="0"/>
+<implicit role="arg2|express.01" recoverable="False" implicit-role-type="missing" predstart="7" predend="7" sentence="0"/>
+<implicit role="arg1|promise.01" recoverable="False" implicit-role-type="missing" predstart="27" predend="27" sentence="0"/>
+<implicit role="arg2|study.01" recoverable="False" implicit-role-type="missing" predstart="29" predend="29" sentence="0"/>
+<implicit role="arg2|state.01" recoverable="False" implicit-role-type="missing" predstart="3" predend="3" sentence="0"/>
+<implicit role="arg2|request.01" recoverable="False" implicit-role-type="missing" predstart="33" predend="33" sentence="0"/>
+<implicit role="arg2|purchase.01" recoverable="False" implicit-role-type="missing" predstart="35" predend="35" sentence="0"/>
+</ISRLSPANS>
+

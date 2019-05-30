@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_2710">
+
+<implicit role="arg1|assign.01" recoverable="True" implicit-role-type="same-sentence" predstart="38" predend="38" sentence="0">
+    <candidate sentence="0" start="11" end="18"/>
+</implicit>
+<implicit role="arg0|abstain.01" recoverable="False" implicit-role-type="missing" predstart="18" predend="18" sentence="0"/>
+<implicit role="arg2|general.02" recoverable="False" implicit-role-type="missing" predstart="41" predend="41" sentence="0"/>
+<implicit role="arg1|study.01" recoverable="False" implicit-role-type="missing" predstart="12" predend="12" sentence="0"/>
+<implicit role="arg4|have_degree.91" recoverable="False" implicit-role-type="missing" predstart="50" predend="50" sentence="0"/>
+<implicit role="arg0|sex.01" recoverable="False" implicit-role-type="missing" predstart="51" predend="51" sentence="0"/>
+<implicit role="arg2|have_quant.91" recoverable="False" implicit-role-type="missing" predstart="23" predend="23" sentence="0"/>
+<implicit role="arg2|start.01" recoverable="False" implicit-role-type="missing" predstart="22" predend="22" sentence="0"/>
+<implicit role="arg0|sex.01" recoverable="False" implicit-role-type="missing" predstart="24" predend="24" sentence="0"/>
+<implicit role="arg1|teach.01" recoverable="False" implicit-role-type="missing" predstart="48" predend="48" sentence="0"/>
+<implicit role="arg1|research.01" recoverable="False" implicit-role-type="missing" predstart="4" predend="4" sentence="0"/>
+</ISRLSPANS>
+

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="wsj_2394">
+<implicit role="arg1|cost.01" recoverable="False" implicit-role-type="missing" predstart="8" predend="8" sentence="16"/>
+
+<implicit role="arg2|cost.01" recoverable="False" implicit-role-type="missing" predstart="8" predend="8" sentence="16"/>
+
+<implicit role="arg2|plan.01" recoverable="False" implicit-role-type="missing" predstart="24" predend="24" sentence="5"/>
+
+<implicit role="arg3|plan.01" recoverable="False" implicit-role-type="missing" predstart="24" predend="24" sentence="5"/>
+
+<implicit role="arg2|cost.01" recoverable="False" implicit-role-type="missing" predstart="16" predend="16" sentence="14"/>
+
+<implicit role="arg3|cost.01" recoverable="False" implicit-role-type="missing" predstart="16" predend="16" sentence="14"/>
+
+<implicit role="arg2|cost.01" recoverable="False" implicit-role-type="missing" predstart="4" predend="4" sentence="13"/>
+
+<implicit role="arg3|cost.01" recoverable="True" implicit-role-type="same-sentence" predstart="8" predend="8" sentence="4">
+			<candidate sentence="0" start="0" end="1"/>
+			<candidate sentence="0" start="11" end="11"/>
+			<candidate sentence="1" start="0" end="7"/>
+			<candidate sentence="1" start="9" end="9"/>
+			<candidate sentence="2" start="1" end="1"/>
+			<candidate sentence="3" start="3" end="4"/>
+			<candidate sentence="4" start="3" end="3"/>
+</implicit>
+
+<implicit role="arg1|cost.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" predstart="8" predend="8" sentence="4">
+			<candidate sentence="0" start="16" end="20"/>
+			<candidate sentence="1" start="13" end="33"/>
+			<candidate sentence="2" start="5" end="16"/>
+			<candidate sentence="3" start="8" end="10"/>
+</implicit>
+
+<implicit role="arg2|cost.01" recoverable="True" implicit-role-type="same-sentence" predstart="8" predend="8" sentence="4">
+			<candidate sentence="3" start="12" end="19"/>
+			<candidate sentence="4" start="25" end="26"/>
+</implicit>
+
+
+</ISRLSPANS>

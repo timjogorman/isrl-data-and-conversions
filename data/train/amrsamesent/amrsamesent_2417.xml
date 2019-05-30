@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_2417">
+
+<implicit role="arg0|battle.01" recoverable="True" implicit-role-type="same-sentence" predstart="15" predend="15" sentence="0">
+    <candidate sentence="0" start="1" end="2"/>
+</implicit>
+</ISRLSPANS>
+

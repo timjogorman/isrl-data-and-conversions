@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_4173">
+
+<implicit role="arg1|size.01" recoverable="True" implicit-role-type="same-sentence" predstart="9" predend="9" sentence="0">
+    <candidate sentence="0" start="44" end="45"/>
+</implicit>
+
+<implicit role="arg2|measure.02" recoverable="True" implicit-role-type="same-sentence" predstart="6" predend="6" sentence="0">
+    <candidate sentence="0" start="43" end="44"/>
+</implicit>
+
+<implicit role="arg1|own.01" recoverable="True" implicit-role-type="same-sentence" predstart="15" predend="15" sentence="0">
+    <candidate sentence="0" start="44" end="45"/>
+</implicit>
+
+<implicit role="arg1|size.01" recoverable="True" implicit-role-type="same-sentence" predstart="13" predend="13" sentence="0">
+    <candidate sentence="0" start="44" end="45"/>
+</implicit>
+<implicit role="arg1|compete.02" recoverable="False" implicit-role-type="missing" predstart="57" predend="57" sentence="0"/>
+<implicit role="arg0|decrease.01" recoverable="False" implicit-role-type="missing" predstart="49" predend="49" sentence="0"/>
+<implicit role="arg0|relieve.01" recoverable="False" implicit-role-type="missing" predstart="5" predend="5" sentence="0"/>
+<implicit role="arg0|restructure.01" recoverable="False" implicit-role-type="missing" predstart="38" predend="38" sentence="0"/>
+<implicit role="arg0|implement.01" recoverable="False" implicit-role-type="missing" predstart="3" predend="3" sentence="0"/>
+<implicit role="arg0|form.01" recoverable="False" implicit-role-type="missing" predstart="68" predend="68" sentence="0"/>
+<implicit role="arg0|strengthen.01" recoverable="False" implicit-role-type="missing" predstart="41" predend="41" sentence="0"/>
+<implicit role="arg0|accelerate.01" recoverable="False" implicit-role-type="missing" predstart="27" predend="27" sentence="0"/>
+<implicit role="arg0|merge.01" recoverable="False" implicit-role-type="missing" predstart="35" predend="35" sentence="0"/>
+<implicit role="arg0|reform.01" recoverable="False" implicit-role-type="missing" predstart="24" predend="24" sentence="0"/>
+<implicit role="arg0|estimate.01" recoverable="False" implicit-role-type="missing" predstart="47" predend="47" sentence="0"/>
+</ISRLSPANS>
+

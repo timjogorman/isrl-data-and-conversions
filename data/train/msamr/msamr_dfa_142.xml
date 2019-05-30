@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ISRLSPANS sourcefile="msamr_dfa_142">
+  <implicit role="arg2|look.02" recoverable="True" implicit-role-type="same-sentence" sentence="3" predstart="3" predend="3" pos="VERB">
+    <candidate sentence="3" start="0" end="0"/>
+    <candidate sentence="4" start="0" end="0"/>
+    <candidate sentence="6" start="0" end="0"/>
+  </implicit>
+  <implicit role="arg3|sound.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" sentence="5" predstart="6" predend="6" pos="VERB">
+    <candidate sentence="3" start="0" end="0"/>
+    <candidate sentence="4" start="0" end="0"/>
+    <candidate sentence="6" start="0" end="0"/>
+  </implicit>
+  <implicit role="arg0|mention.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" sentence="5" predstart="2" predend="2" pos="VERB">
+    <candidate sentence="3" start="0" end="0"/>
+    <candidate sentence="4" start="0" end="0"/>
+    <candidate sentence="6" start="0" end="0"/>
+  </implicit>
+  <implicit role="arg2|grate.02" recoverable="False" implicit-role-type="missing" sentence="4" predstart="24" predend="24" pos="VERB"/>
+  <implicit role="arg1|act.01" recoverable="False" implicit-role-type="missing" sentence="4" predstart="6" predend="6" pos="NOUN"/>
+  <implicit role="arg0|come_out.09" recoverable="False" implicit-role-type="missing" sentence="0" predstart="16" predend="16" pos="VERB"/>
+  <implicit role="arg3|play.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="1" predend="1" pos="VERB"/>
+  <implicit role="arg2|play.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="1" predend="1" pos="VERB"/>
+</ISRLSPANS>

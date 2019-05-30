@@ -1,0 +1,15 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_2631">
+
+<implicit role="arg0|stiffen.01" recoverable="True" implicit-role-type="same-sentence" predstart="19" predend="19" sentence="0">
+    <candidate sentence="0" start="0" end="16"/>
+</implicit>
+
+<implicit role="arg2|call_on.05" recoverable="True" implicit-role-type="same-sentence" predstart="4" predend="4" sentence="0">
+    <candidate sentence="0" start="19" end="20"/>
+</implicit>
+<implicit role="arg0|produce.01" recoverable="False" implicit-role-type="missing" predstart="11" predend="11" sentence="0"/>
+<implicit role="arg1|state.01" recoverable="False" implicit-role-type="missing" predstart="3" predend="3" sentence="0"/>
+</ISRLSPANS>
+

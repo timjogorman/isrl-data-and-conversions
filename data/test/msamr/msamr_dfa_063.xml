@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ISRLSPANS sourcefile="msamr_dfa_063">
+  <implicit role="arg0|pay.01" recoverable="False" implicit-role-type="missing" sentence="6" predstart="3" predend="3" pos="VERB"/>
+  <implicit role="arg2|pay.01" recoverable="False" implicit-role-type="missing" sentence="6" predstart="16" predend="16" pos="VERB"/>
+  <implicit role="arg3|pay.01" recoverable="False" implicit-role-type="missing" sentence="6" predstart="16" predend="16" pos="VERB"/>
+  <implicit role="arg2|pay.01" recoverable="False" implicit-role-type="missing" sentence="6" predstart="3" predend="3" pos="VERB"/>
+  <implicit role="arg3|pay.01" recoverable="False" implicit-role-type="missing" sentence="6" predstart="3" predend="3" pos="VERB"/>
+  <implicit role="arg2|take.01" recoverable="False" implicit-role-type="missing" sentence="5" predstart="0" predend="0" pos="VERB"/>
+  <implicit role="arg0|get.05" recoverable="False" implicit-role-type="missing" sentence="5" predstart="13" predend="13" pos="VERB"/>
+  <implicit role="arg3|take.01" recoverable="False" implicit-role-type="missing" sentence="5" predstart="0" predend="0" pos="VERB"/>
+  <implicit role="arg3|want.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="3" predend="3" pos="VERB"/>
+  <implicit role="arg4|want.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="3" predend="3" pos="VERB"/>
+  <implicit role="arg2|deliver.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="17" predend="17" pos="VERB"/>
+  <implicit role="arg2|want.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="3" predend="3" pos="VERB"/>
+  <implicit role="arg2|take.01" recoverable="False" implicit-role-type="missing" sentence="2" predstart="7" predend="7" pos="VERB"/>
+  <implicit role="arg3|take.01" recoverable="False" implicit-role-type="missing" sentence="2" predstart="7" predend="7" pos="VERB"/>
+  <implicit role="arg3|get.01" recoverable="False" implicit-role-type="missing" sentence="1" predstart="8" predend="8" pos="VERB"/>
+</ISRLSPANS>

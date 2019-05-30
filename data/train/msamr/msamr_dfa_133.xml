@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ISRLSPANS sourcefile="msamr_dfa_133">
+  <implicit role="arg0|get.04" recoverable="True" implicit-role-type="cross-sentence-anaphoric" sentence="5" predstart="4" predend="4" pos="VERB">
+    <candidate sentence="4" start="0" end="0"/>
+    <candidate sentence="6" start="0" end="0"/>
+    <candidate sentence="1" start="7" end="8"/>
+    <candidate sentence="2" start="7" end="7"/>
+    <candidate sentence="0" start="0" end="0"/>
+  </implicit>
+  <implicit role="arg0|move.03" recoverable="True" implicit-role-type="cross-sentence-anaphoric" sentence="5" predstart="7" predend="7" pos="VERB">
+    <candidate sentence="4" start="0" end="0"/>
+    <candidate sentence="6" start="0" end="0"/>
+    <candidate sentence="1" start="7" end="8"/>
+    <candidate sentence="2" start="7" end="7"/>
+    <candidate sentence="0" start="0" end="0"/>
+  </implicit>
+  <implicit role="arg0|mend.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" sentence="5" predstart="0" predend="0" pos="VERB">
+    <candidate sentence="4" start="0" end="0"/>
+    <candidate sentence="6" start="0" end="0"/>
+    <candidate sentence="1" start="7" end="8"/>
+    <candidate sentence="2" start="7" end="7"/>
+    <candidate sentence="0" start="0" end="0"/>
+  </implicit>
+  <implicit role="arg3|sell.01" recoverable="False" implicit-role-type="missing" sentence="7" predstart="2" predend="2" pos="VERB"/>
+  <implicit role="arg0|sell.01" recoverable="False" implicit-role-type="missing" sentence="7" predstart="2" predend="2" pos="VERB"/>
+  <implicit role="arg0|hire.01" recoverable="False" implicit-role-type="missing" sentence="7" predstart="5" predend="5" pos="VERB"/>
+  <implicit role="arg2|sell.01" recoverable="False" implicit-role-type="missing" sentence="7" predstart="2" predend="2" pos="VERB"/>
+  <implicit role="arg2|make.05" recoverable="False" implicit-role-type="missing" sentence="1" predstart="2" predend="2" pos="VERB"/>
+  <implicit role="arg1|follow.02" recoverable="False" implicit-role-type="missing" sentence="2" predstart="3" predend="3" pos="VERB"/>
+  <implicit role="arg0|recommend.01" recoverable="False" implicit-role-type="missing" sentence="2" predstart="6" predend="6" pos="VERB"/>
+  <implicit role="arg2|recommend.01" recoverable="False" implicit-role-type="missing" sentence="2" predstart="6" predend="6" pos="VERB"/>
+  <implicit role="arg4|recommend.01" recoverable="False" implicit-role-type="missing" sentence="2" predstart="6" predend="6" pos="VERB"/>
+  <implicit role="arg1|apologize.01" recoverable="False" implicit-role-type="missing" sentence="2" predstart="8" predend="8" pos="VERB"/>
+  <implicit role="arg2|apologize.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="8" predend="8" pos="VERB"/>
+  <implicit role="arg1|apologize.01" recoverable="False" implicit-role-type="missing" sentence="3" predstart="2" predend="2" pos="VERB"/>
+</ISRLSPANS>

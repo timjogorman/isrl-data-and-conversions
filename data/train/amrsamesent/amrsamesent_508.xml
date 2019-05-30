@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_508">
+
+<implicit role="arg1|bear.02" recoverable="True" implicit-role-type="same-sentence" predstart="95" predend="95" sentence="0">
+    <candidate sentence="0" start="88" end="89"/>
+</implicit>
+<implicit role="arg1|think.01" recoverable="False" implicit-role-type="missing" predstart="101" predend="101" sentence="0"/>
+<implicit role="arg0|strip.01" recoverable="False" implicit-role-type="missing" predstart="30" predend="30" sentence="0"/>
+<implicit role="arg0|extend.01" recoverable="False" implicit-role-type="missing" predstart="43" predend="43" sentence="0"/>
+<implicit role="arg0|engage.01" recoverable="False" implicit-role-type="missing" predstart="89" predend="89" sentence="0"/>
+<implicit role="arg0|pain.01" recoverable="False" implicit-role-type="missing" predstart="39" predend="39" sentence="0"/>
+<implicit role="arg0|contrast.01" recoverable="False" implicit-role-type="missing" predstart="46" predend="46" sentence="0"/>
+<implicit role="arg3|differ.02" recoverable="False" implicit-role-type="missing" predstart="103" predend="103" sentence="0"/>
+<implicit role="arg2|get.01" recoverable="False" implicit-role-type="missing" predstart="81" predend="81" sentence="0"/>
+<implicit role="arg0|farm.01" recoverable="False" implicit-role-type="missing" predstart="26" predend="26" sentence="0"/>
+<implicit role="arg0|justify.01" recoverable="False" implicit-role-type="missing" predstart="108" predend="108" sentence="0"/>
+<implicit role="arg1|mention.01" recoverable="False" implicit-role-type="missing" predstart="2" predend="2" sentence="0"/>
+<implicit role="arg1|live.01" recoverable="False" implicit-role-type="missing" predstart="36" predend="36" sentence="0"/>
+<implicit role="arg2|long.03" recoverable="False" implicit-role-type="missing" predstart="42" predend="42" sentence="0"/>
+<implicit role="arg0|view.02" recoverable="False" implicit-role-type="missing" predstart="9" predend="9" sentence="0"/>
+</ISRLSPANS>
+

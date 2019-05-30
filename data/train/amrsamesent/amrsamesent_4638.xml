@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_4638">
+
+<implicit role="arg0|cast.01" recoverable="True" implicit-role-type="same-sentence" predstart="42" predend="42" sentence="0">
+    <candidate sentence="0" start="22" end="26"/>
+</implicit>
+<implicit role="arg0|end.01" recoverable="False" implicit-role-type="missing" predstart="3" predend="3" sentence="0"/>
+<implicit role="arg0|discover.01" recoverable="False" implicit-role-type="missing" predstart="29" predend="29" sentence="0"/>
+<implicit role="arg1|fall_out.03" recoverable="False" implicit-role-type="missing" predstart="23" predend="23" sentence="0"/>
+<implicit role="arg1|knock_out.03" recoverable="False" implicit-role-type="missing" predstart="25" predend="25" sentence="0"/>
+<implicit role="arg0|load.01" recoverable="False" implicit-role-type="missing" predstart="34" predend="34" sentence="0"/>
+<implicit role="arg2|fight.01" recoverable="False" implicit-role-type="missing" predstart="40" predend="40" sentence="0"/>
+<implicit role="arg2|use.01" recoverable="False" implicit-role-type="missing" predstart="32" predend="32" sentence="0"/>
+<implicit role="arg1|win.01" recoverable="False" implicit-role-type="missing" predstart="49" predend="49" sentence="0"/>
+</ISRLSPANS>
+

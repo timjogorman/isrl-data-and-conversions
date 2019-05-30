@@ -1,0 +1,265 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ISRLSPANS sourcefile="msamr_dfb_102">
+  <implicit role="arg0|place.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" sentence="37" predstart="0" predend="0" pos="VERB">
+    <candidate sentence="35" start="3" end="3"/>
+    <candidate sentence="6" start="3" end="3"/>
+    <candidate sentence="14" start="3" end="3"/>
+    <candidate sentence="3" start="0" end="0"/>
+    <candidate sentence="4" start="2" end="2"/>
+    <candidate sentence="32" start="3" end="3"/>
+    <candidate sentence="21" start="0" end="0"/>
+    <candidate sentence="25" start="4" end="4"/>
+    <candidate sentence="20" start="7" end="7"/>
+    <candidate sentence="20" start="0" end="0"/>
+    <candidate sentence="9" start="0" end="0"/>
+    <candidate sentence="16" start="1" end="1"/>
+    <candidate sentence="33" start="6" end="6"/>
+    <candidate sentence="45" start="1" end="1"/>
+    <candidate sentence="26" start="23" end="23"/>
+    <candidate sentence="2" start="15" end="15"/>
+    <candidate sentence="18" start="0" end="0"/>
+  </implicit>
+  <implicit role="arg1|elect.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" sentence="34" predstart="5" predend="5" pos="NOUN">
+    <candidate sentence="35" start="3" end="3"/>
+    <candidate sentence="6" start="3" end="3"/>
+    <candidate sentence="14" start="3" end="3"/>
+    <candidate sentence="3" start="0" end="0"/>
+    <candidate sentence="4" start="2" end="2"/>
+    <candidate sentence="32" start="3" end="3"/>
+    <candidate sentence="21" start="0" end="0"/>
+    <candidate sentence="25" start="4" end="4"/>
+    <candidate sentence="20" start="7" end="7"/>
+    <candidate sentence="20" start="0" end="0"/>
+    <candidate sentence="9" start="0" end="0"/>
+    <candidate sentence="16" start="1" end="1"/>
+    <candidate sentence="33" start="6" end="6"/>
+    <candidate sentence="45" start="1" end="1"/>
+    <candidate sentence="26" start="23" end="23"/>
+    <candidate sentence="2" start="15" end="15"/>
+    <candidate sentence="18" start="0" end="0"/>
+  </implicit>
+  <implicit role="arg2|speak.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" sentence="3" predstart="2" predend="2" pos="VERB">
+    <candidate sentence="19" start="0" end="0"/>
+    <candidate sentence="0" start="0" end="0"/>
+    <candidate sentence="2" start="0" end="0"/>
+  </implicit>
+  <implicit role="arg0|import.01" recoverable="True" implicit-role-type="cross-sentence-cataphoric" sentence="12" predstart="3" predend="3" pos="NOUN">
+    <candidate sentence="32" start="9" end="10"/>
+    <candidate sentence="54" start="0" end="0"/>
+    <candidate sentence="50" start="5" end="5"/>
+    <candidate sentence="38" start="10" end="12"/>
+  </implicit>
+  <implicit role="arg2|ally.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" sentence="49" predstart="6" predend="6" pos="NOUN">
+    <candidate sentence="32" start="9" end="10"/>
+    <candidate sentence="54" start="0" end="0"/>
+    <candidate sentence="50" start="5" end="5"/>
+    <candidate sentence="38" start="10" end="12"/>
+  </implicit>
+  <implicit role="arg0|toss.01" recoverable="True" implicit-role-type="cross-sentence-cataphoric" sentence="1" predstart="8" predend="8" pos="VERB">
+    <candidate sentence="41" start="4" end="4"/>
+  </implicit>
+  <implicit role="arg0|hate.01" recoverable="False" implicit-role-type="missing" sentence="42" predstart="14" predend="14" pos="VERB"/>
+  <implicit role="arg0|legitimate.02" recoverable="False" implicit-role-type="missing" sentence="42" predstart="11" predend="11" pos="ADJ"/>
+  <implicit role="arg2|hate.01" recoverable="False" implicit-role-type="missing" sentence="42" predstart="14" predend="14" pos="VERB"/>
+  <implicit role="arg0|need.01" recoverable="False" implicit-role-type="missing" sentence="43" predstart="1" predend="1" pos="NOUN"/>
+  <implicit role="arg0|drum_up.01" recoverable="False" implicit-role-type="missing" sentence="43" predstart="3" predend="3" pos="VERB"/>
+  <implicit role="arg0|blather.01" recoverable="False" implicit-role-type="missing" sentence="40" predstart="14" predend="14" pos="NOUN"/>
+  <implicit role="arg2|hate.01" recoverable="False" implicit-role-type="missing" sentence="40" predstart="9" predend="9" pos="VERB"/>
+  <implicit role="arg2|blather.01" recoverable="False" implicit-role-type="missing" sentence="40" predstart="14" predend="14" pos="NOUN"/>
+  <implicit role="arg4|bring.01" recoverable="False" implicit-role-type="missing" sentence="40" predstart="16" predend="16" pos="VERB"/>
+  <implicit role="arg0|make.18" recoverable="False" implicit-role-type="missing" sentence="41" predstart="14" predend="14" pos="VERB"/>
+  <implicit role="arg1|attend.02" recoverable="False" implicit-role-type="missing" sentence="41" predstart="22" predend="22" pos="NOUN"/>
+  <implicit role="arg3|get.01" recoverable="False" implicit-role-type="missing" sentence="41" predstart="21" predend="21" pos="VERB"/>
+  <implicit role="arg2|debate.01" recoverable="False" implicit-role-type="missing" sentence="41" predstart="4" predend="4" pos="VERB"/>
+  <implicit role="arg0|attend.02" recoverable="False" implicit-role-type="missing" sentence="41" predstart="22" predend="22" pos="NOUN"/>
+  <implicit role="arg1|debate.01" recoverable="False" implicit-role-type="missing" sentence="41" predstart="4" predend="4" pos="VERB"/>
+  <implicit role="arg2|get.01" recoverable="False" implicit-role-type="missing" sentence="41" predstart="21" predend="21" pos="VERB"/>
+  <implicit role="arg3|take.01" recoverable="False" implicit-role-type="missing" sentence="47" predstart="4" predend="4" pos="VERB"/>
+  <implicit role="arg1|approach.01" recoverable="False" implicit-role-type="missing" sentence="47" predstart="6" predend="6" pos="NOUN"/>
+  <implicit role="arg4|recommend.01" recoverable="False" implicit-role-type="missing" sentence="47" predstart="11" predend="11" pos="VERB"/>
+  <implicit role="arg0|recommend.01" recoverable="False" implicit-role-type="missing" sentence="47" predstart="11" predend="11" pos="VERB"/>
+  <implicit role="arg2|recommend.01" recoverable="False" implicit-role-type="missing" sentence="47" predstart="11" predend="11" pos="VERB"/>
+  <implicit role="arg1|administer.01" recoverable="False" implicit-role-type="missing" sentence="47" predstart="3" predend="3" pos="NOUN"/>
+  <implicit role="arg2|take.01" recoverable="False" implicit-role-type="missing" sentence="47" predstart="4" predend="4" pos="VERB"/>
+  <implicit role="arg2|approach.01" recoverable="False" implicit-role-type="missing" sentence="47" predstart="6" predend="6" pos="NOUN"/>
+  <implicit role="arg2|administer.01" recoverable="False" implicit-role-type="missing" sentence="47" predstart="3" predend="3" pos="NOUN"/>
+  <implicit role="arg1|end.01" recoverable="False" implicit-role-type="missing" sentence="48" predstart="9" predend="9" pos="NOUN"/>
+  <implicit role="arg2|end.01" recoverable="False" implicit-role-type="missing" sentence="48" predstart="9" predend="9" pos="NOUN"/>
+  <implicit role="arg0|ally.01" recoverable="False" implicit-role-type="missing" sentence="50" predstart="9" predend="9" pos="NOUN"/>
+  <implicit role="arg2|respect.01" recoverable="False" implicit-role-type="missing" sentence="51" predstart="9" predend="9" pos="VERB"/>
+  <implicit role="arg0|ally.01" recoverable="False" implicit-role-type="missing" sentence="51" predstart="8" predend="8" pos="NOUN"/>
+  <implicit role="arg2|respect.01" recoverable="False" implicit-role-type="missing" sentence="52" predstart="2" predend="2" pos="VERB"/>
+  <implicit role="arg1|word.01" recoverable="False" implicit-role-type="missing" sentence="3" predstart="8" predend="8" pos="NOUN"/>
+  <implicit role="arg1|act.02" recoverable="False" implicit-role-type="missing" sentence="3" predstart="1" predend="1" pos="NOUN"/>
+  <implicit role="arg1|aid.01" recoverable="False" implicit-role-type="missing" sentence="4" predstart="15" predend="15" pos="NOUN"/>
+  <implicit role="arg2|stop.01" recoverable="False" implicit-role-type="missing" sentence="4" predstart="12" predend="12" pos="VERB"/>
+  <implicit role="arg0|aid.01" recoverable="False" implicit-role-type="missing" sentence="4" predstart="15" predend="15" pos="NOUN"/>
+  <implicit role="arg2|consider.02" recoverable="False" implicit-role-type="missing" sentence="4" predstart="19" predend="19" pos="VERB"/>
+  <implicit role="arg0|look.01" recoverable="False" implicit-role-type="missing" sentence="4" predstart="0" predend="0" pos="VERB"/>
+  <implicit role="arg2|sanction.02" recoverable="False" implicit-role-type="missing" sentence="5" predstart="8" predend="8" pos="NOUN"/>
+  <implicit role="arg0|present.01" recoverable="False" implicit-role-type="missing" sentence="5" predstart="15" predend="15" pos="VERB"/>
+  <implicit role="arg0|populate.01" recoverable="False" implicit-role-type="missing" sentence="6" predstart="17" predend="17" pos="NOUN"/>
+  <implicit role="arg1|populate.01" recoverable="False" implicit-role-type="missing" sentence="6" predstart="17" predend="17" pos="NOUN"/>
+  <implicit role="arg0|grow.01" recoverable="False" implicit-role-type="missing" sentence="6" predstart="8" predend="8" pos="VERB"/>
+  <implicit role="arg4|grow.01" recoverable="False" implicit-role-type="missing" sentence="6" predstart="8" predend="8" pos="VERB"/>
+  <implicit role="arg3|defend.01" recoverable="False" implicit-role-type="missing" sentence="6" predstart="4" predend="4" pos="VERB"/>
+  <implicit role="arg2|grow.01" recoverable="False" implicit-role-type="missing" sentence="6" predstart="8" predend="8" pos="VERB"/>
+  <implicit role="arg0|pander.01" recoverable="False" implicit-role-type="missing" sentence="6" predstart="10" predend="10" pos="NOUN"/>
+  <implicit role="arg2|defend.01" recoverable="False" implicit-role-type="missing" sentence="6" predstart="4" predend="4" pos="VERB"/>
+  <implicit role="arg3|grow.01" recoverable="False" implicit-role-type="missing" sentence="6" predstart="8" predend="8" pos="VERB"/>
+  <implicit role="arg3|protect.01" recoverable="False" implicit-role-type="missing" sentence="7" predstart="5" predend="5" pos="VERB"/>
+  <implicit role="arg0|sanction.02" recoverable="False" implicit-role-type="missing" sentence="8" predstart="7" predend="7" pos="NOUN"/>
+  <implicit role="arg2|take.01" recoverable="False" implicit-role-type="missing" sentence="8" predstart="12" predend="12" pos="VERB"/>
+  <implicit role="arg1|stand.11" recoverable="False" implicit-role-type="missing" sentence="8" predstart="15" predend="15" pos="NOUN"/>
+  <implicit role="arg3|take.01" recoverable="False" implicit-role-type="missing" sentence="8" predstart="12" predend="12" pos="VERB"/>
+  <implicit role="arg2|sanction.02" recoverable="False" implicit-role-type="missing" sentence="8" predstart="7" predend="7" pos="NOUN"/>
+  <implicit role="arg1|push.02" recoverable="False" implicit-role-type="missing" sentence="8" predstart="5" predend="5" pos="VERB"/>
+  <implicit role="arg1|policy.01" recoverable="False" implicit-role-type="missing" sentence="9" predstart="14" predend="14" pos="NOUN"/>
+  <implicit role="arg2|policy.01" recoverable="False" implicit-role-type="missing" sentence="9" predstart="14" predend="14" pos="NOUN"/>
+  <implicit role="arg3|do.02" recoverable="False" implicit-role-type="missing" sentence="9" predstart="2" predend="2" pos="VERB"/>
+  <implicit role="arg4|do.02" recoverable="False" implicit-role-type="missing" sentence="9" predstart="2" predend="2" pos="VERB"/>
+  <implicit role="arg0|shake.01" recoverable="False" implicit-role-type="missing" sentence="10" predstart="4" predend="4" pos="VERB"/>
+  <implicit role="arg2|state.01" recoverable="False" implicit-role-type="missing" sentence="10" predstart="4" predend="4" pos="VERB"/>
+  <implicit role="arg0|bond.01" recoverable="False" implicit-role-type="missing" sentence="10" predstart="10" predend="10" pos="NOUN"/>
+  <implicit role="arg3|bond.01" recoverable="False" implicit-role-type="missing" sentence="10" predstart="10" predend="10" pos="NOUN"/>
+  <implicit role="arg2|fund.01" recoverable="False" implicit-role-type="missing" sentence="11" predstart="6" predend="6" pos="NOUN"/>
+  <implicit role="arg1|call.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="8" predend="8" pos="VERB"/>
+  <implicit role="arg2|say.01" recoverable="False" implicit-role-type="missing" sentence="1" predstart="1" predend="1" pos="VERB"/>
+  <implicit role="arg0|label.01" recoverable="False" implicit-role-type="missing" sentence="1" predstart="4" predend="4" pos="NOUN"/>
+  <implicit role="arg1|label.01" recoverable="False" implicit-role-type="missing" sentence="1" predstart="4" predend="4" pos="NOUN"/>
+  <implicit role="arg0|say.01" recoverable="False" implicit-role-type="missing" sentence="1" predstart="1" predend="1" pos="VERB"/>
+  <implicit role="arg2|keep_up.10" recoverable="False" implicit-role-type="missing" sentence="28" predstart="0" predend="0" pos="VERB"/>
+  <implicit role="arg0|squeak.01" recoverable="False" implicit-role-type="missing" sentence="28" predstart="4" predend="4" pos="NOUN"/>
+  <implicit role="arg2|end.01" recoverable="False" implicit-role-type="missing" sentence="53" predstart="5" predend="5" pos="VERB"/>
+  <implicit role="arg0|end.01" recoverable="False" implicit-role-type="missing" sentence="53" predstart="5" predend="5" pos="VERB"/>
+  <implicit role="arg2|work_out.02" recoverable="False" implicit-role-type="missing" sentence="29" predstart="5" predend="5" pos="VERB"/>
+  <implicit role="arg2|know.01" recoverable="False" implicit-role-type="missing" sentence="29" predstart="2" predend="2" pos="VERB"/>
+  <implicit role="arg2|free.04" recoverable="False" implicit-role-type="missing" sentence="26" predstart="34" predend="34" pos="NOUN"/>
+  <implicit role="arg0|list.01" recoverable="False" implicit-role-type="missing" sentence="26" predstart="42" predend="42" pos="NOUN"/>
+  <implicit role="arg2|loose.03" recoverable="False" implicit-role-type="missing" sentence="26" predstart="36" predend="36" pos="ADJ"/>
+  <implicit role="arg1|pirate.01" recoverable="False" implicit-role-type="missing" sentence="26" predstart="2" predend="2" pos="NOUN"/>
+  <implicit role="arg2|pirate.01" recoverable="False" implicit-role-type="missing" sentence="26" predstart="2" predend="2" pos="NOUN"/>
+  <implicit role="arg1|list.01" recoverable="False" implicit-role-type="missing" sentence="26" predstart="42" predend="42" pos="NOUN"/>
+  <implicit role="arg2|list.01" recoverable="False" implicit-role-type="missing" sentence="26" predstart="42" predend="42" pos="NOUN"/>
+  <implicit role="arg2|say.01" recoverable="False" implicit-role-type="missing" sentence="26" predstart="17" predend="17" pos="VERB"/>
+  <implicit role="arg0|say.01" recoverable="False" implicit-role-type="missing" sentence="26" predstart="17" predend="17" pos="VERB"/>
+  <implicit role="arg2|choose.01" recoverable="False" implicit-role-type="missing" sentence="44" predstart="7" predend="7" pos="VERB"/>
+  <implicit role="arg3|grow.01" recoverable="False" implicit-role-type="missing" sentence="27" predstart="11" predend="11" pos="VERB"/>
+  <implicit role="arg0|fold.01" recoverable="False" implicit-role-type="missing" sentence="27" predstart="8" predend="8" pos="NOUN"/>
+  <implicit role="arg2|recognize.02" recoverable="False" implicit-role-type="missing" sentence="27" predstart="2" predend="2" pos="VERB"/>
+  <implicit role="arg2|grow.01" recoverable="False" implicit-role-type="missing" sentence="27" predstart="11" predend="11" pos="VERB"/>
+  <implicit role="arg4|grow.01" recoverable="False" implicit-role-type="missing" sentence="27" predstart="11" predend="11" pos="VERB"/>
+  <implicit role="arg2|fold.01" recoverable="False" implicit-role-type="missing" sentence="27" predstart="8" predend="8" pos="NOUN"/>
+  <implicit role="arg0|grow.01" recoverable="False" implicit-role-type="missing" sentence="27" predstart="11" predend="11" pos="VERB"/>
+  <implicit role="arg1|fold.01" recoverable="False" implicit-role-type="missing" sentence="27" predstart="8" predend="8" pos="NOUN"/>
+  <implicit role="arg0|think.01" recoverable="False" implicit-role-type="missing" sentence="27" predstart="0" predend="0" pos="VERB"/>
+  <implicit role="arg0|blame.01" recoverable="False" implicit-role-type="missing" sentence="45" predstart="0" predend="0" pos="VERB"/>
+  <implicit role="arg0|bad.07" recoverable="False" implicit-role-type="missing" sentence="45" predstart="11" predend="11" pos="ADJ"/>
+  <implicit role="arg2|remove.01" recoverable="False" implicit-role-type="missing" sentence="24" predstart="13" predend="13" pos="VERB"/>
+  <implicit role="arg1|talk.01" recoverable="False" implicit-role-type="missing" sentence="24" predstart="18" predend="18" pos="VERB"/>
+  <implicit role="arg1|mean.01" recoverable="False" implicit-role-type="missing" sentence="24" predstart="1" predend="1" pos="VERB"/>
+  <implicit role="arg2|talk.01" recoverable="False" implicit-role-type="missing" sentence="24" predstart="18" predend="18" pos="VERB"/>
+  <implicit role="arg2|left.19" recoverable="False" implicit-role-type="missing" sentence="24" predstart="26" predend="26" pos="NOUN"/>
+  <implicit role="arg1|left.19" recoverable="False" implicit-role-type="missing" sentence="24" predstart="26" predend="26" pos="NOUN"/>
+  <implicit role="arg3|mean.01" recoverable="False" implicit-role-type="missing" sentence="24" predstart="1" predend="1" pos="VERB"/>
+  <implicit role="arg3|left.19" recoverable="False" implicit-role-type="missing" sentence="24" predstart="26" predend="26" pos="NOUN"/>
+  <implicit role="arg1|notice.01" recoverable="False" implicit-role-type="missing" sentence="24" predstart="7" predend="7" pos="VERB"/>
+  <implicit role="arg1|administer.01" recoverable="False" implicit-role-type="missing" sentence="56" predstart="1" predend="1" pos="NOUN"/>
+  <implicit role="arg2|administer.01" recoverable="False" implicit-role-type="missing" sentence="56" predstart="1" predend="1" pos="NOUN"/>
+  <implicit role="arg2|responsible.03" recoverable="False" implicit-role-type="missing" sentence="56" predstart="6" predend="6" pos="NOUN"/>
+  <implicit role="arg0|ally.01" recoverable="False" implicit-role-type="missing" sentence="56" predstart="9" predend="9" pos="NOUN"/>
+  <implicit role="arg2|ally.01" recoverable="False" implicit-role-type="missing" sentence="58" predstart="4" predend="4" pos="NOUN"/>
+  <implicit role="arg0|ally.01" recoverable="False" implicit-role-type="missing" sentence="58" predstart="4" predend="4" pos="NOUN"/>
+  <implicit role="arg1|administer.01" recoverable="False" implicit-role-type="missing" sentence="57" predstart="4" predend="4" pos="NOUN"/>
+  <implicit role="arg4|do.02" recoverable="False" implicit-role-type="missing" sentence="57" predstart="5" predend="5" pos="VERB"/>
+  <implicit role="arg2|administer.01" recoverable="False" implicit-role-type="missing" sentence="57" predstart="4" predend="4" pos="NOUN"/>
+  <implicit role="arg3|do.02" recoverable="False" implicit-role-type="missing" sentence="57" predstart="5" predend="5" pos="VERB"/>
+  <implicit role="arg2|weak.02" recoverable="False" implicit-role-type="missing" sentence="25" predstart="5" predend="5" pos="ADJ"/>
+  <implicit role="arg1|ask.01" recoverable="False" implicit-role-type="missing" sentence="25" predstart="7" predend="7" pos="VERB"/>
+  <implicit role="arg0|ask.01" recoverable="False" implicit-role-type="missing" sentence="25" predstart="7" predend="7" pos="VERB"/>
+  <implicit role="arg2|fight.01" recoverable="False" implicit-role-type="missing" sentence="13" predstart="8" predend="8" pos="VERB"/>
+  <implicit role="arg2|kill.01" recoverable="False" implicit-role-type="missing" sentence="13" predstart="5" predend="5" pos="VERB"/>
+  <implicit role="arg0|war.01" recoverable="False" implicit-role-type="missing" sentence="13" predstart="10" predend="10" pos="NOUN"/>
+  <implicit role="arg2|war.01" recoverable="False" implicit-role-type="missing" sentence="13" predstart="10" predend="10" pos="NOUN"/>
+  <implicit role="arg4|increase.01" recoverable="False" implicit-role-type="missing" sentence="12" predstart="7" predend="7" pos="VERB"/>
+  <implicit role="arg0|increase.01" recoverable="False" implicit-role-type="missing" sentence="12" predstart="7" predend="7" pos="VERB"/>
+  <implicit role="arg3|increase.01" recoverable="False" implicit-role-type="missing" sentence="12" predstart="7" predend="7" pos="VERB"/>
+  <implicit role="arg2|increase.01" recoverable="False" implicit-role-type="missing" sentence="12" predstart="7" predend="7" pos="VERB"/>
+  <implicit role="arg2|bullshit.01" recoverable="False" implicit-role-type="missing" sentence="15" predstart="16" predend="16" pos="NOUN"/>
+  <implicit role="arg2|end.01" recoverable="False" implicit-role-type="missing" sentence="15" predstart="20" predend="20" pos="NOUN"/>
+  <implicit role="arg0|bad.07" recoverable="False" implicit-role-type="missing" sentence="15" predstart="3" predend="3" pos="ADJ"/>
+  <implicit role="arg0|call.01" recoverable="False" implicit-role-type="missing" sentence="15" predstart="8" predend="8" pos="VERB"/>
+  <implicit role="arg1|call.01" recoverable="False" implicit-role-type="missing" sentence="15" predstart="8" predend="8" pos="VERB"/>
+  <implicit role="arg0|end.01" recoverable="False" implicit-role-type="missing" sentence="15" predstart="20" predend="20" pos="NOUN"/>
+  <implicit role="arg1|end.01" recoverable="False" implicit-role-type="missing" sentence="15" predstart="20" predend="20" pos="NOUN"/>
+  <implicit role="arg1|bullshit.01" recoverable="False" implicit-role-type="missing" sentence="15" predstart="16" predend="16" pos="NOUN"/>
+  <implicit role="arg0|argue.01" recoverable="False" implicit-role-type="missing" sentence="15" predstart="17" predend="17" pos="NOUN"/>
+  <implicit role="arg0|bullshit.01" recoverable="False" implicit-role-type="missing" sentence="15" predstart="16" predend="16" pos="NOUN"/>
+  <implicit role="arg2|talk.01" recoverable="False" implicit-role-type="missing" sentence="15" predstart="2" predend="2" pos="VERB"/>
+  <implicit role="arg2|argue.01" recoverable="False" implicit-role-type="missing" sentence="15" predstart="17" predend="17" pos="NOUN"/>
+  <implicit role="arg2|save.02" recoverable="False" implicit-role-type="missing" sentence="15" predstart="35" predend="35" pos="VERB"/>
+  <implicit role="arg0|commit.01" recoverable="False" implicit-role-type="missing" sentence="14" predstart="14" predend="14" pos="VERB"/>
+  <implicit role="arg3|sell.01" recoverable="False" implicit-role-type="missing" sentence="14" predstart="5" predend="5" pos="VERB"/>
+  <implicit role="arg2|high.02" recoverable="False" implicit-role-type="missing" sentence="14" predstart="6" predend="6" pos="ADJ"/>
+  <implicit role="arg1|elect.01" recoverable="False" implicit-role-type="missing" sentence="23" predstart="31" predend="31" pos="NOUN"/>
+  <implicit role="arg2|state.01" recoverable="False" implicit-role-type="missing" sentence="23" predstart="21" predend="21" pos="NOUN"/>
+  <implicit role="arg3|mean.01" recoverable="False" implicit-role-type="missing" sentence="23" predstart="24" predend="24" pos="VERB"/>
+  <implicit role="arg0|elect.01" recoverable="False" implicit-role-type="missing" sentence="23" predstart="31" predend="31" pos="NOUN"/>
+  <implicit role="arg1|state.01" recoverable="False" implicit-role-type="missing" sentence="23" predstart="21" predend="21" pos="NOUN"/>
+  <implicit role="arg2|elect.01" recoverable="False" implicit-role-type="missing" sentence="23" predstart="31" predend="31" pos="NOUN"/>
+  <implicit role="arg0|mean.01" recoverable="False" implicit-role-type="missing" sentence="23" predstart="24" predend="24" pos="VERB"/>
+  <implicit role="arg2|public.02" recoverable="False" implicit-role-type="missing" sentence="23" predstart="20" predend="20" pos="ADJ"/>
+  <implicit role="arg1|mean.01" recoverable="False" implicit-role-type="missing" sentence="23" predstart="24" predend="24" pos="VERB"/>
+  <implicit role="arg2|stop.01" recoverable="False" implicit-role-type="missing" sentence="22" predstart="2" predend="2" pos="VERB"/>
+  <implicit role="arg1|pelt.01" recoverable="False" implicit-role-type="missing" sentence="22" predstart="3" predend="3" pos="VERB"/>
+  <implicit role="arg0|pelt.01" recoverable="False" implicit-role-type="missing" sentence="22" predstart="3" predend="3" pos="VERB"/>
+  <implicit role="arg0|safe.01" recoverable="False" implicit-role-type="missing" sentence="38" predstart="15" predend="15" pos="NOUN"/>
+  <implicit role="arg1|issue.02" recoverable="False" implicit-role-type="missing" sentence="38" predstart="20" predend="20" pos="NOUN"/>
+  <implicit role="arg3|free.04" recoverable="False" implicit-role-type="missing" sentence="38" predstart="27" predend="27" pos="NOUN"/>
+  <implicit role="arg2|free.04" recoverable="False" implicit-role-type="missing" sentence="38" predstart="27" predend="27" pos="NOUN"/>
+  <implicit role="arg2|secure.02" recoverable="False" implicit-role-type="missing" sentence="38" predstart="13" predend="13" pos="NOUN"/>
+  <implicit role="arg3|secure.02" recoverable="False" implicit-role-type="missing" sentence="38" predstart="13" predend="13" pos="NOUN"/>
+  <implicit role="arg2|stand.11" recoverable="False" implicit-role-type="missing" sentence="38" predstart="4" predend="4" pos="NOUN"/>
+  <implicit role="arg0|secure.02" recoverable="False" implicit-role-type="missing" sentence="38" predstart="13" predend="13" pos="NOUN"/>
+  <implicit role="arg2|safe.01" recoverable="False" implicit-role-type="missing" sentence="38" predstart="15" predend="15" pos="NOUN"/>
+  <implicit role="arg0|issue.02" recoverable="False" implicit-role-type="missing" sentence="38" predstart="20" predend="20" pos="NOUN"/>
+  <implicit role="arg1|threaten.01" recoverable="False" implicit-role-type="missing" sentence="38" predstart="22" predend="22" pos="NOUN"/>
+  <implicit role="arg2|take.01" recoverable="False" implicit-role-type="missing" sentence="38" predstart="1" predend="1" pos="VERB"/>
+  <implicit role="arg2|single.02" recoverable="False" implicit-role-type="missing" sentence="38" predstart="19" predend="19" pos="ADJ"/>
+  <implicit role="arg3|take.01" recoverable="False" implicit-role-type="missing" sentence="38" predstart="1" predend="1" pos="VERB"/>
+  <implicit role="arg0|threaten.01" recoverable="False" implicit-role-type="missing" sentence="38" predstart="22" predend="22" pos="NOUN"/>
+  <implicit role="arg1|free.04" recoverable="False" implicit-role-type="missing" sentence="38" predstart="27" predend="27" pos="NOUN"/>
+  <implicit role="arg2|sad.02" recoverable="False" implicit-role-type="missing" sentence="39" predstart="13" predend="13" pos="ADJ"/>
+  <implicit role="arg3|vote.01" recoverable="False" implicit-role-type="missing" sentence="39" predstart="0" predend="0" pos="VERB"/>
+  <implicit role="arg0|vote.01" recoverable="False" implicit-role-type="missing" sentence="39" predstart="0" predend="0" pos="VERB"/>
+  <implicit role="arg2|vote.01" recoverable="False" implicit-role-type="missing" sentence="39" predstart="0" predend="0" pos="VERB"/>
+  <implicit role="arg0|sad.02" recoverable="False" implicit-role-type="missing" sentence="39" predstart="13" predend="13" pos="ADJ"/>
+  <implicit role="arg0|elect.01" recoverable="False" implicit-role-type="missing" sentence="31" predstart="13" predend="13" pos="NOUN"/>
+  <implicit role="arg3|vote.01" recoverable="False" implicit-role-type="missing" sentence="31" predstart="9" predend="9" pos="VERB"/>
+  <implicit role="arg2|elect.01" recoverable="False" implicit-role-type="missing" sentence="31" predstart="13" predend="13" pos="NOUN"/>
+  <implicit role="arg2|vote.01" recoverable="False" implicit-role-type="missing" sentence="31" predstart="9" predend="9" pos="VERB"/>
+  <implicit role="arg1|elect.01" recoverable="False" implicit-role-type="missing" sentence="31" predstart="13" predend="13" pos="NOUN"/>
+  <implicit role="arg4|do.02" recoverable="False" implicit-role-type="missing" sentence="32" predstart="6" predend="6" pos="VERB"/>
+  <implicit role="arg3|do.02" recoverable="False" implicit-role-type="missing" sentence="32" predstart="6" predend="6" pos="VERB"/>
+  <implicit role="arg3|vote.01" recoverable="False" implicit-role-type="missing" sentence="33" predstart="4" predend="4" pos="VERB"/>
+  <implicit role="arg2|vote.01" recoverable="False" implicit-role-type="missing" sentence="33" predstart="4" predend="4" pos="VERB"/>
+  <implicit role="arg3|win.01" recoverable="False" implicit-role-type="missing" sentence="34" predstart="3" predend="3" pos="VERB"/>
+  <implicit role="arg1|stuff.01" recoverable="False" implicit-role-type="missing" sentence="34" predstart="11" predend="11" pos="VERB"/>
+  <implicit role="arg5|win.01" recoverable="False" implicit-role-type="missing" sentence="34" predstart="3" predend="3" pos="VERB"/>
+  <implicit role="arg4|win.01" recoverable="False" implicit-role-type="missing" sentence="34" predstart="3" predend="3" pos="VERB"/>
+  <implicit role="arg2|win.01" recoverable="False" implicit-role-type="missing" sentence="34" predstart="3" predend="3" pos="VERB"/>
+  <implicit role="arg0|riot.01" recoverable="False" implicit-role-type="missing" sentence="35" predstart="13" predend="13" pos="NOUN"/>
+  <implicit role="arg2|set.08" recoverable="False" implicit-role-type="missing" sentence="35" predstart="8" predend="8" pos="VERB"/>
+  <implicit role="arg0|set.08" recoverable="False" implicit-role-type="missing" sentence="35" predstart="8" predend="8" pos="VERB"/>
+  <implicit role="arg1|riot.01" recoverable="False" implicit-role-type="missing" sentence="35" predstart="13" predend="13" pos="NOUN"/>
+  <implicit role="arg3|read.01" recoverable="False" implicit-role-type="missing" sentence="35" predstart="11" predend="11" pos="VERB"/>
+  <implicit role="arg2|govern.01" recoverable="False" implicit-role-type="missing" sentence="35" predstart="21" predend="21" pos="NOUN"/>
+  <implicit role="arg0|reelect.01" recoverable="False" implicit-role-type="missing" sentence="36" predstart="7" predend="7" pos="NOUN"/>
+  <implicit role="arg2|throw.01" recoverable="False" implicit-role-type="missing" sentence="36" predstart="14" predend="14" pos="VERB"/>
+  <implicit role="arg2|free.04" recoverable="False" implicit-role-type="missing" sentence="36" predstart="12" predend="12" pos="NOUN"/>
+  <implicit role="arg2|worry.01" recoverable="False" implicit-role-type="missing" sentence="36" predstart="3" predend="3" pos="VERB"/>
+  <implicit role="arg0|obligate.01" recoverable="False" implicit-role-type="missing" sentence="36" predstart="1" predend="1" pos="VERB"/>
+  <implicit role="arg0|wrap.01" recoverable="False" implicit-role-type="missing" sentence="36" predstart="22" predend="22" pos="VERB"/>
+  <implicit role="arg2|reelect.01" recoverable="False" implicit-role-type="missing" sentence="36" predstart="7" predend="7" pos="NOUN"/>
+  <implicit role="arg1|obligate.01" recoverable="False" implicit-role-type="missing" sentence="36" predstart="1" predend="1" pos="VERB"/>
+</ISRLSPANS>

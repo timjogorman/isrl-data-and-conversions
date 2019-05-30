@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_2456">
+
+<implicit role="arg1|decide.01" recoverable="True" implicit-role-type="same-sentence" predstart="42" predend="42" sentence="0">
+    <candidate sentence="0" start="31" end="36"/>
+</implicit>
+
+<implicit role="arg0|decide.01" recoverable="True" implicit-role-type="same-sentence" predstart="42" predend="42" sentence="0">
+    <candidate sentence="0" start="7" end="9"/>
+</implicit>
+<implicit role="arg0|commend.01" recoverable="False" implicit-role-type="missing" predstart="23" predend="23" sentence="0"/>
+<implicit role="arg2|do.02" recoverable="False" implicit-role-type="missing" predstart="30" predend="30" sentence="0"/>
+<implicit role="arg2|report.01" recoverable="False" implicit-role-type="missing" predstart="14" predend="14" sentence="0"/>
+<implicit role="arg0|fault.01" recoverable="False" implicit-role-type="missing" predstart="11" predend="11" sentence="0"/>
+<implicit role="arg2|seem.01" recoverable="False" implicit-role-type="missing" predstart="3" predend="3" sentence="0"/>
+<implicit role="arg1|have_rel_role.91" recoverable="False" implicit-role-type="missing" predstart="41" predend="41" sentence="0"/>
+<implicit role="arg2|appropriate.02" recoverable="False" implicit-role-type="missing" predstart="33" predend="33" sentence="0"/>
+<implicit role="arg2|report.01" recoverable="False" implicit-role-type="missing" predstart="26" predend="26" sentence="0"/>
+<implicit role="arg2|agree.01" recoverable="False" implicit-role-type="missing" predstart="5" predend="5" sentence="0"/>
+</ISRLSPANS>
+

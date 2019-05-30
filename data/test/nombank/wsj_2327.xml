@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="wsj_2327">
+<implicit role="arg2|invest.01" recoverable="True" implicit-role-type="same-sentence" predstart="13" predend="13" sentence="8">
+			<candidate sentence="0" start="18" end="23"/>
+			<candidate sentence="1" start="12" end="18"/>
+			<candidate sentence="2" start="29" end="33"/>
+			<candidate sentence="3" start="20" end="20"/>
+			<candidate sentence="4" start="10" end="11"/>
+			<candidate sentence="5" start="4" end="5"/>
+			<candidate sentence="6" start="11" end="13"/>
+			<candidate sentence="7" start="9" end="17"/>
+			<candidate sentence="8" start="4" end="6"/>
+			<candidate sentence="8" start="29" end="29"/>
+</implicit>
+
+<implicit role="arg1|invest.01" recoverable="False" implicit-role-type="missing" predstart="13" predend="13" sentence="8"/>
+
+<implicit role="arg0|price.01" recoverable="True" implicit-role-type="same-sentence" predstart="2" predend="2" sentence="5">
+			<candidate sentence="0" start="0" end="3"/>
+			<candidate sentence="0" start="0" end="11"/>
+			<candidate sentence="0" start="13" end="13"/>
+			<candidate sentence="1" start="8" end="8"/>
+			<candidate sentence="5" start="16" end="17"/>
+</implicit>
+
+<implicit role="arg3|price.01" recoverable="False" implicit-role-type="missing" predstart="2" predend="2" sentence="5"/>
+
+<implicit role="arg0|price.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" predstart="36" predend="36" sentence="2">
+			<candidate sentence="0" start="0" end="3"/>
+			<candidate sentence="0" start="0" end="11"/>
+			<candidate sentence="0" start="13" end="13"/>
+			<candidate sentence="1" start="8" end="8"/>
+</implicit>
+
+<implicit role="arg3|price.01" recoverable="False" implicit-role-type="missing" predstart="36" predend="36" sentence="2"/>
+
+<implicit role="arg0|price.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" predstart="21" predend="21" sentence="3">
+			<candidate sentence="0" start="0" end="3"/>
+			<candidate sentence="0" start="0" end="11"/>
+			<candidate sentence="0" start="13" end="13"/>
+			<candidate sentence="1" start="8" end="8"/>
+</implicit>
+
+<implicit role="arg3|price.01" recoverable="False" implicit-role-type="missing" predstart="21" predend="21" sentence="3"/>
+
+
+</ISRLSPANS>

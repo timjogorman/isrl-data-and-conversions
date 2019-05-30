@@ -1,0 +1,22 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_658">
+
+<implicit role="arg1|fear.01" recoverable="True" implicit-role-type="same-sentence" predstart="17" predend="17" sentence="0">
+    <candidate sentence="0" start="37" end="44"/>
+</implicit>
+<implicit role="arg1|live.01" recoverable="False" implicit-role-type="missing" predstart="103" predend="103" sentence="0"/>
+<implicit role="arg0|resist.01" recoverable="False" implicit-role-type="missing" predstart="78" predend="78" sentence="0"/>
+<implicit role="arg2|go.01" recoverable="False" implicit-role-type="missing" predstart="50" predend="50" sentence="0"/>
+<implicit role="arg0|succeed.01" recoverable="False" implicit-role-type="missing" predstart="62" predend="62" sentence="0"/>
+<implicit role="arg0|involve.01" recoverable="False" implicit-role-type="missing" predstart="93" predend="93" sentence="0"/>
+<implicit role="arg0|in_trouble.03" recoverable="False" implicit-role-type="missing" predstart="94" predend="94" sentence="0"/>
+<implicit role="arg2|seem.01" recoverable="False" implicit-role-type="missing" predstart="1" predend="1" sentence="0"/>
+<implicit role="arg0|contrast.01" recoverable="False" implicit-role-type="missing" predstart="15" predend="15" sentence="0"/>
+<implicit role="arg3|lure.01" recoverable="False" implicit-role-type="missing" predstart="89" predend="89" sentence="0"/>
+<implicit role="arg2|war.01" recoverable="False" implicit-role-type="missing" predstart="30" predend="30" sentence="0"/>
+<implicit role="arg2|hate.01" recoverable="False" implicit-role-type="missing" predstart="5" predend="5" sentence="0"/>
+<implicit role="arg0|except.01" recoverable="False" implicit-role-type="missing" predstart="13" predend="13" sentence="0"/>
+<implicit role="arg0|end.01" recoverable="False" implicit-role-type="missing" predstart="73" predend="73" sentence="0"/>
+</ISRLSPANS>
+

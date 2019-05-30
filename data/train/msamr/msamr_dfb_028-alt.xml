@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ISRLSPANS sourcefile="msamr_dfb_028">
+  <implicit role="arg0|name.01" recoverable="True" implicit-role-type="same-sentence" sentence="2" predstart="15" predend="15" pos="VERB">
+    <candidate sentence="4" start="0" end="0"/>
+    <candidate sentence="2" start="9" end="9"/>
+    <candidate sentence="1" start="0" end="0"/>
+    <candidate sentence="0" start="3" end="3"/>
+  </implicit>
+  <implicit role="arg3|get.01" recoverable="False" implicit-role-type="missing" sentence="2" predstart="4" predend="4" pos="VERB"/>
+  <implicit role="arg0|wreck.01" recoverable="False" implicit-role-type="missing" sentence="3" predstart="16" predend="16" pos="NOUN"/>
+  <implicit role="arg2|wreck.01" recoverable="False" implicit-role-type="missing" sentence="3" predstart="16" predend="16" pos="NOUN"/>
+  <implicit role="arg2|name.01" recoverable="False" implicit-role-type="missing" sentence="4" predstart="4" predend="4" pos="VERB"/>
+</ISRLSPANS>

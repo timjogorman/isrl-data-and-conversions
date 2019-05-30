@@ -1,0 +1,10 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_902">
+
+<implicit role="arg2|move.01" recoverable="True" implicit-role-type="same-sentence" predstart="3" predend="3" sentence="0">
+    <candidate sentence="0" start="11" end="14"/>
+</implicit>
+<implicit role="arg3|rate_entity.91" recoverable="False" implicit-role-type="missing" predstart="22" predend="22" sentence="0"/>
+</ISRLSPANS>
+

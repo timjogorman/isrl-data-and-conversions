@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_2037">
+
+<implicit role="arg0|suggest.01" recoverable="True" implicit-role-type="same-sentence" predstart="23" predend="23" sentence="0">
+    <candidate sentence="0" start="0" end="4"/>
+</implicit>
+<implicit role="arg2|apportion.01" recoverable="False" implicit-role-type="missing" predstart="36" predend="36" sentence="0"/>
+<implicit role="arg0|cross.01" recoverable="False" implicit-role-type="missing" predstart="1" predend="1" sentence="0"/>
+<implicit role="arg1|govern.01" recoverable="False" implicit-role-type="missing" predstart="53" predend="53" sentence="0"/>
+<implicit role="arg1|govern.01" recoverable="False" implicit-role-type="missing" predstart="20" predend="20" sentence="0"/>
+<implicit role="arg0|replace.01" recoverable="False" implicit-role-type="missing" predstart="25" predend="25" sentence="0"/>
+<implicit role="arg0|fund.01" recoverable="False" implicit-role-type="missing" predstart="16" predend="16" sentence="0"/>
+<implicit role="arg0|base.02" recoverable="False" implicit-role-type="missing" predstart="49" predend="49" sentence="0"/>
+<implicit role="arg2|relative.05" recoverable="False" implicit-role-type="missing" predstart="58" predend="58" sentence="0"/>
+<implicit role="arg2|review.01" recoverable="False" implicit-role-type="missing" predstart="14" predend="14" sentence="0"/>
+<implicit role="arg0|base.02" recoverable="False" implicit-role-type="missing" predstart="40" predend="40" sentence="0"/>
+<implicit role="arg0|set_up.03" recoverable="False" implicit-role-type="missing" predstart="11" predend="11" sentence="0"/>
+<implicit role="arg0|blunt.01" recoverable="False" implicit-role-type="missing" predstart="33" predend="33" sentence="0"/>
+<implicit role="arg0|need.01" recoverable="False" implicit-role-type="missing" predstart="47" predend="47" sentence="0"/>
+<implicit role="arg0|deprive.01" recoverable="False" implicit-role-type="missing" predstart="59" predend="59" sentence="0"/>
+</ISRLSPANS>
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="wsj_2384">
+<implicit role="arg0|price.01" recoverable="False" implicit-role-type="missing" predstart="30" predend="30" sentence="47"/>
+
+<implicit role="arg3|price.01" recoverable="False" implicit-role-type="missing" predstart="30" predend="30" sentence="47"/>
+
+<implicit role="arg0|bid.01" recoverable="True" implicit-role-type="same-sentence" predstart="12" predend="12" sentence="17">
+			<candidate sentence="17" start="23" end="25"/>
+</implicit>
+
+<implicit role="arg2|bid.01" recoverable="False" implicit-role-type="missing" predstart="12" predend="12" sentence="17"/>
+
+<implicit role="arg0|plan.01" recoverable="True" implicit-role-type="same-sentence" predstart="23" predend="23" sentence="23">
+			<candidate sentence="23" start="4" end="9"/>
+</implicit>
+
+<implicit role="arg2|plan.01" recoverable="False" implicit-role-type="missing" predstart="23" predend="23" sentence="23"/>
+
+<implicit role="arg3|plan.01" recoverable="False" implicit-role-type="missing" predstart="23" predend="23" sentence="23"/>
+
+<implicit role="arg0|plan.01" recoverable="True" implicit-role-type="same-sentence" predstart="44" predend="44" sentence="25">
+			<candidate sentence="23" start="4" end="9"/>
+			<candidate sentence="25" start="0" end="3"/>
+			<candidate sentence="25" start="18" end="19"/>
+</implicit>
+
+<implicit role="arg1|plan.01" recoverable="True" implicit-role-type="same-sentence" predstart="44" predend="44" sentence="25">
+			<candidate sentence="23" start="24" end="33"/>
+			<candidate sentence="25" start="29" end="29"/>
+</implicit>
+
+<implicit role="arg2|plan.01" recoverable="False" implicit-role-type="missing" predstart="44" predend="44" sentence="25"/>
+
+<implicit role="arg3|plan.01" recoverable="False" implicit-role-type="missing" predstart="44" predend="44" sentence="25"/>
+
+<implicit role="arg2|invest.01" recoverable="True" implicit-role-type="same-sentence" predstart="1" predend="1" sentence="48">
+			<candidate sentence="4" start="6" end="6"/>
+			<candidate sentence="19" start="9" end="9"/>
+			<candidate sentence="45" start="17" end="17"/>
+			<candidate sentence="47" start="29" end="29"/>
+			<candidate sentence="48" start="7" end="7"/>
+</implicit>
+
+<implicit role="arg1|invest.01" recoverable="False" implicit-role-type="missing" predstart="1" predend="1" sentence="48"/>
+
+
+</ISRLSPANS>

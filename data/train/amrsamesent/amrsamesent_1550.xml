@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_1550">
+
+<implicit role="arg0|break.01" recoverable="True" implicit-role-type="same-sentence" predstart="35" predend="35" sentence="0">
+    <candidate sentence="0" start="2" end="3"/>
+</implicit>
+
+<implicit role="arg0|pick.10" recoverable="True" implicit-role-type="same-sentence" predstart="40" predend="40" sentence="0">
+    <candidate sentence="0" start="2" end="3"/>
+</implicit>
+
+<implicit role="arg0|trash.01" recoverable="True" implicit-role-type="same-sentence" predstart="30" predend="30" sentence="0">
+    <candidate sentence="0" start="2" end="3"/>
+</implicit>
+
+<implicit role="arg0|loot.01" recoverable="True" implicit-role-type="same-sentence" predstart="37" predend="37" sentence="0">
+    <candidate sentence="0" start="2" end="3"/>
+</implicit>
+
+<implicit role="arg0|arson.01" recoverable="True" implicit-role-type="same-sentence" predstart="32" predend="32" sentence="0">
+    <candidate sentence="0" start="2" end="3"/>
+</implicit>
+
+<implicit role="arg1|excuse.02" recoverable="True" implicit-role-type="same-sentence" predstart="24" predend="24" sentence="0">
+    <candidate sentence="0" start="41" end="42"/>
+</implicit>
+<implicit role="arg0|criminal.03" recoverable="False" implicit-role-type="missing" predstart="1" predend="1" sentence="0"/>
+<implicit role="arg0|excite.01" recoverable="False" implicit-role-type="missing" predstart="7" predend="7" sentence="0"/>
+<implicit role="arg2|general.02" recoverable="False" implicit-role-type="missing" predstart="42" predend="42" sentence="0"/>
+<implicit role="arg0|protest.01" recoverable="False" implicit-role-type="missing" predstart="21" predend="21" sentence="0"/>
+<implicit role="arg2|throw.01" recoverable="False" implicit-role-type="missing" predstart="27" predend="27" sentence="0"/>
+<implicit role="arg2|look.01" recoverable="False" implicit-role-type="missing" predstart="5" predend="5" sentence="0"/>
+<implicit role="arg3|attach.01" recoverable="False" implicit-role-type="missing" predstart="8" predend="8" sentence="0"/>
+</ISRLSPANS>
+

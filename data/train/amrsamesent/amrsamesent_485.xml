@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_485">
+
+<implicit role="arg2|risk.01" recoverable="True" implicit-role-type="same-sentence" predstart="41" predend="41" sentence="0">
+    <candidate sentence="0" start="56" end="59"/>
+</implicit>
+<implicit role="arg2|have_quant.91" recoverable="False" implicit-role-type="missing" predstart="4" predend="4" sentence="0"/>
+<implicit role="arg2|acquire.01" recoverable="False" implicit-role-type="missing" predstart="51" predend="51" sentence="0"/>
+<implicit role="arg2|actual.02" recoverable="False" implicit-role-type="missing" predstart="56" predend="56" sentence="0"/>
+<implicit role="arg2|do.02" recoverable="False" implicit-role-type="missing" predstart="33" predend="33" sentence="0"/>
+<implicit role="arg2|influence.01" recoverable="False" implicit-role-type="missing" predstart="93" predend="93" sentence="0"/>
+<implicit role="arg2|lead.02" recoverable="False" implicit-role-type="missing" predstart="21" predend="21" sentence="0"/>
+<implicit role="arg2|obvious.01" recoverable="False" implicit-role-type="missing" predstart="65" predend="65" sentence="0"/>
+<implicit role="arg2|use.01" recoverable="False" implicit-role-type="missing" predstart="57" predend="57" sentence="0"/>
+</ISRLSPANS>
+

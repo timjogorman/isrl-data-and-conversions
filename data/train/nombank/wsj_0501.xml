@@ -1,0 +1,147 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="wsj_0501">
+<implicit role="arg0|bid.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" predstart="16" predend="16" sentence="6">
+			<candidate sentence="1" start="1" end="2"/>
+			<candidate sentence="2" start="0" end="4"/>
+			<candidate sentence="3" start="0" end="0"/>
+			<candidate sentence="4" start="7" end="7"/>
+			<candidate sentence="4" start="9" end="9"/>
+			<candidate sentence="5" start="14" end="14"/>
+</implicit>
+
+<implicit role="arg1|bid.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" predstart="16" predend="16" sentence="6">
+			<candidate sentence="2" start="12" end="25"/>
+			<candidate sentence="4" start="16" end="17"/>
+</implicit>
+
+<implicit role="arg2|bid.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" predstart="16" predend="16" sentence="6">
+			<candidate sentence="3" start="3" end="11"/>
+			<candidate sentence="3" start="3" end="4"/>
+			<candidate sentence="3" start="7" end="11"/>
+</implicit>
+
+<implicit role="arg0|bid.01" recoverable="True" implicit-role-type="same-sentence" predstart="10" predend="10" sentence="15">
+			<candidate sentence="1" start="1" end="2"/>
+			<candidate sentence="2" start="0" end="4"/>
+			<candidate sentence="3" start="0" end="0"/>
+			<candidate sentence="4" start="7" end="7"/>
+			<candidate sentence="4" start="9" end="9"/>
+			<candidate sentence="5" start="14" end="14"/>
+			<candidate sentence="6" start="14" end="15"/>
+			<candidate sentence="7" start="0" end="0"/>
+			<candidate sentence="7" start="8" end="8"/>
+			<candidate sentence="8" start="1" end="1"/>
+			<candidate sentence="8" start="7" end="7"/>
+			<candidate sentence="8" start="16" end="16"/>
+			<candidate sentence="9" start="1" end="1"/>
+			<candidate sentence="13" start="3" end="5"/>
+			<candidate sentence="13" start="13" end="16"/>
+			<candidate sentence="14" start="2" end="3"/>
+			<candidate sentence="14" start="5" end="5"/>
+			<candidate sentence="15" start="1" end="1"/>
+</implicit>
+
+<implicit role="arg1|bid.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" predstart="10" predend="10" sentence="15">
+			<candidate sentence="2" start="12" end="25"/>
+			<candidate sentence="4" start="16" end="17"/>
+			<candidate sentence="8" start="4" end="5"/>
+			<candidate sentence="11" start="19" end="20"/>
+			<candidate sentence="13" start="9" end="10"/>
+</implicit>
+
+<implicit role="arg2|bid.01" recoverable="True" implicit-role-type="cross-sentence-cataphoric" predstart="10" predend="10" sentence="15">
+			<candidate sentence="3" start="3" end="4"/>
+			<candidate sentence="3" start="7" end="11"/>
+			<candidate sentence="3" start="3" end="11"/>
+</implicit>
+
+<implicit role="arg1|bid.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" predstart="1" predend="1" sentence="30">
+			<candidate sentence="2" start="12" end="25"/>
+			<candidate sentence="4" start="16" end="17"/>
+			<candidate sentence="8" start="4" end="5"/>
+			<candidate sentence="11" start="19" end="20"/>
+			<candidate sentence="13" start="9" end="10"/>
+			<candidate sentence="17" start="4" end="21"/>
+			<candidate sentence="20" start="6" end="8"/>
+			<candidate sentence="21" start="4" end="6"/>
+			<candidate sentence="25" start="5" end="7"/>
+			<candidate sentence="28" start="11" end="12"/>
+</implicit>
+
+<implicit role="arg0|bid.01" recoverable="False" implicit-role-type="missing" predstart="1" predend="1" sentence="30"/>
+
+<implicit role="arg0|bid.01" recoverable="True" implicit-role-type="same-sentence" predstart="1" predend="1" sentence="4">
+			<candidate sentence="1" start="1" end="2"/>
+			<candidate sentence="2" start="0" end="4"/>
+			<candidate sentence="3" start="0" end="0"/>
+			<candidate sentence="4" start="7" end="7"/>
+			<candidate sentence="4" start="9" end="9"/>
+</implicit>
+
+<implicit role="arg1|bid.01" recoverable="True" implicit-role-type="same-sentence" predstart="1" predend="1" sentence="4">
+			<candidate sentence="2" start="12" end="25"/>
+			<candidate sentence="4" start="16" end="17"/>
+</implicit>
+
+<implicit role="arg2|bid.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" predstart="1" predend="1" sentence="4">
+			<candidate sentence="3" start="3" end="11"/>
+			<candidate sentence="3" start="3" end="4"/>
+			<candidate sentence="3" start="7" end="11"/>
+</implicit>
+
+<implicit role="arg1|bid.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" predstart="1" predend="1" sentence="3">
+			<candidate sentence="2" start="12" end="25"/>
+</implicit>
+
+<implicit role="arg2|bid.01" recoverable="True" implicit-role-type="same-sentence" predstart="1" predend="1" sentence="3">
+			<candidate sentence="3" start="3" end="4"/>
+			<candidate sentence="3" start="7" end="11"/>
+			<candidate sentence="3" start="3" end="11"/>
+</implicit>
+
+<implicit role="arg0|bid.01" recoverable="True" implicit-role-type="same-sentence" predstart="6" predend="6" sentence="7">
+			<candidate sentence="1" start="1" end="2"/>
+			<candidate sentence="2" start="0" end="4"/>
+			<candidate sentence="3" start="0" end="0"/>
+			<candidate sentence="4" start="7" end="7"/>
+			<candidate sentence="4" start="9" end="9"/>
+			<candidate sentence="5" start="14" end="14"/>
+			<candidate sentence="6" start="14" end="15"/>
+			<candidate sentence="7" start="0" end="0"/>
+			<candidate sentence="7" start="8" end="8"/>
+</implicit>
+
+<implicit role="arg1|bid.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" predstart="6" predend="6" sentence="7">
+			<candidate sentence="2" start="12" end="25"/>
+			<candidate sentence="4" start="16" end="17"/>
+</implicit>
+
+<implicit role="arg2|bid.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" predstart="6" predend="6" sentence="7">
+			<candidate sentence="3" start="3" end="11"/>
+			<candidate sentence="3" start="3" end="4"/>
+			<candidate sentence="3" start="7" end="11"/>
+</implicit>
+
+<implicit role="arg0|invest.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" predstart="6" predend="6" sentence="10">
+			<candidate sentence="1" start="1" end="2"/>
+			<candidate sentence="2" start="0" end="4"/>
+			<candidate sentence="3" start="0" end="0"/>
+			<candidate sentence="4" start="7" end="7"/>
+			<candidate sentence="4" start="9" end="9"/>
+			<candidate sentence="5" start="14" end="14"/>
+			<candidate sentence="6" start="14" end="15"/>
+			<candidate sentence="7" start="0" end="0"/>
+			<candidate sentence="7" start="2" end="2"/>
+			<candidate sentence="7" start="8" end="8"/>
+			<candidate sentence="8" start="1" end="1"/>
+			<candidate sentence="8" start="7" end="7"/>
+			<candidate sentence="9" start="1" end="1"/>
+</implicit>
+
+<implicit role="arg1|invest.01" recoverable="False" implicit-role-type="missing" predstart="6" predend="6" sentence="10"/>
+
+<implicit role="arg2|invest.01" recoverable="False" implicit-role-type="missing" predstart="6" predend="6" sentence="10"/>
+
+
+</ISRLSPANS>

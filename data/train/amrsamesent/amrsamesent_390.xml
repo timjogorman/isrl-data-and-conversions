@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_390">
+
+<implicit role="arg0|express.01" recoverable="True" implicit-role-type="same-sentence" predstart="46" predend="46" sentence="0">
+    <candidate sentence="0" start="18" end="19"/>
+</implicit>
+
+<implicit role="arg0|express.01" recoverable="True" implicit-role-type="same-sentence" predstart="46" predend="46" sentence="0">
+    <candidate sentence="0" start="18" end="19"/>
+</implicit>
+
+<implicit role="arg1|discourage.01" recoverable="True" implicit-role-type="same-sentence" predstart="50" predend="50" sentence="0">
+    <candidate sentence="0" start="18" end="19"/>
+</implicit>
+
+<implicit role="arg1|encourage.01" recoverable="True" implicit-role-type="same-sentence" predstart="44" predend="44" sentence="0">
+    <candidate sentence="0" start="18" end="19"/>
+</implicit>
+
+<implicit role="arg1|treat.01" recoverable="True" implicit-role-type="same-sentence" predstart="37" predend="37" sentence="0">
+    <candidate sentence="0" start="18" end="19"/>
+</implicit>
+<implicit role="arg1|cry.02" recoverable="False" implicit-role-type="missing" predstart="12" predend="12" sentence="0"/>
+<implicit role="arg2|express.01" recoverable="False" implicit-role-type="missing" predstart="14" predend="14" sentence="0"/>
+<implicit role="arg2|opine.01" recoverable="False" implicit-role-type="missing" predstart="0" predend="0" sentence="0"/>
+<implicit role="arg2|recommend.01" recoverable="False" implicit-role-type="missing" predstart="35" predend="35" sentence="0"/>
+<implicit role="arg0|allow.01" recoverable="False" implicit-role-type="missing" predstart="6" predend="6" sentence="0"/>
+<implicit role="arg0|negative.02" recoverable="False" implicit-role-type="missing" predstart="52" predend="52" sentence="0"/>
+</ISRLSPANS>
+

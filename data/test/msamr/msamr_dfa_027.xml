@@ -1,0 +1,543 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ISRLSPANS sourcefile="msamr_dfa_027">
+  <implicit role="arg1|start.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" sentence="1" predstart="1" predend="1" pos="VERB">
+    <candidate sentence="8" start="0" end="0"/>
+    <candidate sentence="8" start="3" end="3"/>
+    <candidate sentence="23" start="17" end="17"/>
+    <candidate sentence="34" start="1" end="3"/>
+    <candidate sentence="2" start="27" end="27"/>
+    <candidate sentence="16" start="10" end="10"/>
+    <candidate sentence="7" start="9" end="9"/>
+    <candidate sentence="28" start="4" end="4"/>
+    <candidate sentence="0" start="20" end="20"/>
+    <candidate sentence="5" start="4" end="7"/>
+    <candidate sentence="35" start="3" end="3"/>
+    <candidate sentence="27" start="8" end="9"/>
+  </implicit>
+  <implicit role="arg1|find_out.03" recoverable="True" implicit-role-type="cross-sentence-anaphoric" sentence="18" predstart="6" predend="6" pos="VERB">
+    <candidate sentence="8" start="0" end="0"/>
+    <candidate sentence="8" start="3" end="3"/>
+    <candidate sentence="23" start="17" end="17"/>
+    <candidate sentence="34" start="1" end="3"/>
+    <candidate sentence="2" start="27" end="27"/>
+    <candidate sentence="16" start="10" end="10"/>
+    <candidate sentence="7" start="9" end="9"/>
+    <candidate sentence="28" start="4" end="4"/>
+    <candidate sentence="0" start="20" end="20"/>
+    <candidate sentence="5" start="4" end="7"/>
+    <candidate sentence="35" start="3" end="3"/>
+    <candidate sentence="27" start="8" end="9"/>
+  </implicit>
+  <implicit role="arg2|addict.01" recoverable="True" implicit-role-type="same-sentence" sentence="7" predstart="2" predend="2" pos="VERB">
+    <candidate sentence="8" start="0" end="0"/>
+    <candidate sentence="8" start="3" end="3"/>
+    <candidate sentence="23" start="17" end="17"/>
+    <candidate sentence="34" start="1" end="3"/>
+    <candidate sentence="2" start="27" end="27"/>
+    <candidate sentence="16" start="10" end="10"/>
+    <candidate sentence="7" start="9" end="9"/>
+    <candidate sentence="28" start="4" end="4"/>
+    <candidate sentence="0" start="20" end="20"/>
+    <candidate sentence="5" start="4" end="7"/>
+    <candidate sentence="35" start="3" end="3"/>
+    <candidate sentence="27" start="8" end="9"/>
+  </implicit>
+  <implicit role="arg1|stop.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" sentence="1" predstart="21" predend="21" pos="VERB">
+    <candidate sentence="8" start="0" end="0"/>
+    <candidate sentence="8" start="3" end="3"/>
+    <candidate sentence="23" start="17" end="17"/>
+    <candidate sentence="34" start="1" end="3"/>
+    <candidate sentence="2" start="27" end="27"/>
+    <candidate sentence="16" start="10" end="10"/>
+    <candidate sentence="7" start="9" end="9"/>
+    <candidate sentence="28" start="4" end="4"/>
+    <candidate sentence="0" start="20" end="20"/>
+    <candidate sentence="5" start="4" end="7"/>
+    <candidate sentence="35" start="3" end="3"/>
+    <candidate sentence="27" start="8" end="9"/>
+  </implicit>
+  <implicit role="arg1|stop.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" sentence="15" predstart="4" predend="4" pos="VERB">
+    <candidate sentence="8" start="0" end="0"/>
+    <candidate sentence="8" start="3" end="3"/>
+    <candidate sentence="23" start="17" end="17"/>
+    <candidate sentence="34" start="1" end="3"/>
+    <candidate sentence="2" start="27" end="27"/>
+    <candidate sentence="16" start="10" end="10"/>
+    <candidate sentence="7" start="9" end="9"/>
+    <candidate sentence="28" start="4" end="4"/>
+    <candidate sentence="0" start="20" end="20"/>
+    <candidate sentence="5" start="4" end="7"/>
+    <candidate sentence="35" start="3" end="3"/>
+    <candidate sentence="27" start="8" end="9"/>
+  </implicit>
+  <implicit role="arg1|tell.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" sentence="24" predstart="12" predend="12" pos="VERB">
+    <candidate sentence="8" start="0" end="0"/>
+    <candidate sentence="8" start="3" end="3"/>
+    <candidate sentence="23" start="17" end="17"/>
+    <candidate sentence="34" start="1" end="3"/>
+    <candidate sentence="2" start="27" end="27"/>
+    <candidate sentence="16" start="10" end="10"/>
+    <candidate sentence="7" start="9" end="9"/>
+    <candidate sentence="28" start="4" end="4"/>
+    <candidate sentence="0" start="20" end="20"/>
+    <candidate sentence="5" start="4" end="7"/>
+    <candidate sentence="35" start="3" end="3"/>
+    <candidate sentence="27" start="8" end="9"/>
+  </implicit>
+  <implicit role="arg2|differ.02" recoverable="True" implicit-role-type="same-sentence" sentence="13" predstart="25" predend="25" pos="NOUN">
+    <candidate sentence="35" start="0" end="0"/>
+    <candidate sentence="19" start="0" end="0"/>
+    <candidate sentence="19" start="5" end="5"/>
+    <candidate sentence="15" start="0" end="0"/>
+    <candidate sentence="9" start="0" end="0"/>
+    <candidate sentence="9" start="4" end="4"/>
+    <candidate sentence="25" start="7" end="7"/>
+    <candidate sentence="22" start="1" end="1"/>
+    <candidate sentence="11" start="16" end="16"/>
+    <candidate sentence="0" start="19" end="19"/>
+    <candidate sentence="1" start="0" end="0"/>
+    <candidate sentence="1" start="7" end="7"/>
+    <candidate sentence="18" start="0" end="0"/>
+    <candidate sentence="21" start="0" end="3"/>
+    <candidate sentence="3" start="0" end="0"/>
+    <candidate sentence="24" start="8" end="8"/>
+    <candidate sentence="20" start="2" end="2"/>
+    <candidate sentence="0" start="4" end="20"/>
+    <candidate sentence="19" start="0" end="0"/>
+    <candidate sentence="5" start="1" end="1"/>
+    <candidate sentence="5" start="19" end="19"/>
+    <candidate sentence="14" start="1" end="1"/>
+    <candidate sentence="2" start="5" end="5"/>
+    <candidate sentence="2" start="13" end="13"/>
+    <candidate sentence="2" start="24" end="24"/>
+    <candidate sentence="10" start="11" end="11"/>
+    <candidate sentence="26" start="1" end="1"/>
+    <candidate sentence="32" start="5" end="5"/>
+    <candidate sentence="34" start="1" end="1"/>
+    <candidate sentence="0" start="2" end="2"/>
+    <candidate sentence="17" start="20" end="20"/>
+    <candidate sentence="12" start="0" end="0"/>
+    <candidate sentence="7" start="0" end="0"/>
+    <candidate sentence="16" start="0" end="0"/>
+    <candidate sentence="16" start="7" end="7"/>
+    <candidate sentence="16" start="19" end="19"/>
+    <candidate sentence="4" start="4" end="4"/>
+    <candidate sentence="13" start="0" end="0"/>
+    <candidate sentence="13" start="11" end="11"/>
+  </implicit>
+  <implicit role="arg0|cut.01" recoverable="True" implicit-role-type="same-sentence" sentence="5" predstart="6" predend="6" pos="VERB">
+    <candidate sentence="35" start="0" end="0"/>
+    <candidate sentence="19" start="0" end="0"/>
+    <candidate sentence="19" start="5" end="5"/>
+    <candidate sentence="15" start="0" end="0"/>
+    <candidate sentence="9" start="0" end="0"/>
+    <candidate sentence="9" start="4" end="4"/>
+    <candidate sentence="25" start="7" end="7"/>
+    <candidate sentence="22" start="1" end="1"/>
+    <candidate sentence="11" start="16" end="16"/>
+    <candidate sentence="0" start="19" end="19"/>
+    <candidate sentence="1" start="0" end="0"/>
+    <candidate sentence="1" start="7" end="7"/>
+    <candidate sentence="18" start="0" end="0"/>
+    <candidate sentence="21" start="0" end="3"/>
+    <candidate sentence="3" start="0" end="0"/>
+    <candidate sentence="24" start="8" end="8"/>
+    <candidate sentence="20" start="2" end="2"/>
+    <candidate sentence="0" start="4" end="20"/>
+    <candidate sentence="19" start="0" end="0"/>
+    <candidate sentence="5" start="1" end="1"/>
+    <candidate sentence="5" start="19" end="19"/>
+    <candidate sentence="14" start="1" end="1"/>
+    <candidate sentence="2" start="5" end="5"/>
+    <candidate sentence="2" start="13" end="13"/>
+    <candidate sentence="2" start="24" end="24"/>
+    <candidate sentence="10" start="11" end="11"/>
+    <candidate sentence="26" start="1" end="1"/>
+    <candidate sentence="32" start="5" end="5"/>
+    <candidate sentence="34" start="1" end="1"/>
+    <candidate sentence="0" start="2" end="2"/>
+    <candidate sentence="17" start="20" end="20"/>
+    <candidate sentence="12" start="0" end="0"/>
+    <candidate sentence="7" start="0" end="0"/>
+    <candidate sentence="16" start="0" end="0"/>
+    <candidate sentence="16" start="7" end="7"/>
+    <candidate sentence="16" start="19" end="19"/>
+    <candidate sentence="4" start="4" end="4"/>
+    <candidate sentence="13" start="0" end="0"/>
+    <candidate sentence="13" start="11" end="11"/>
+  </implicit>
+  <implicit role="arg1|strong.02" recoverable="True" implicit-role-type="same-sentence" sentence="32" predstart="3" predend="3" pos="NOUN">
+    <candidate sentence="35" start="0" end="0"/>
+    <candidate sentence="19" start="0" end="0"/>
+    <candidate sentence="19" start="5" end="5"/>
+    <candidate sentence="15" start="0" end="0"/>
+    <candidate sentence="9" start="0" end="0"/>
+    <candidate sentence="9" start="4" end="4"/>
+    <candidate sentence="25" start="7" end="7"/>
+    <candidate sentence="22" start="1" end="1"/>
+    <candidate sentence="11" start="16" end="16"/>
+    <candidate sentence="0" start="19" end="19"/>
+    <candidate sentence="1" start="0" end="0"/>
+    <candidate sentence="1" start="7" end="7"/>
+    <candidate sentence="18" start="0" end="0"/>
+    <candidate sentence="21" start="0" end="3"/>
+    <candidate sentence="3" start="0" end="0"/>
+    <candidate sentence="24" start="8" end="8"/>
+    <candidate sentence="20" start="2" end="2"/>
+    <candidate sentence="0" start="4" end="20"/>
+    <candidate sentence="19" start="0" end="0"/>
+    <candidate sentence="5" start="1" end="1"/>
+    <candidate sentence="5" start="19" end="19"/>
+    <candidate sentence="14" start="1" end="1"/>
+    <candidate sentence="2" start="5" end="5"/>
+    <candidate sentence="2" start="13" end="13"/>
+    <candidate sentence="2" start="24" end="24"/>
+    <candidate sentence="10" start="11" end="11"/>
+    <candidate sentence="26" start="1" end="1"/>
+    <candidate sentence="32" start="5" end="5"/>
+    <candidate sentence="34" start="1" end="1"/>
+    <candidate sentence="0" start="2" end="2"/>
+    <candidate sentence="17" start="20" end="20"/>
+    <candidate sentence="12" start="0" end="0"/>
+    <candidate sentence="7" start="0" end="0"/>
+    <candidate sentence="16" start="0" end="0"/>
+    <candidate sentence="16" start="7" end="7"/>
+    <candidate sentence="16" start="19" end="19"/>
+    <candidate sentence="4" start="4" end="4"/>
+    <candidate sentence="13" start="0" end="0"/>
+    <candidate sentence="13" start="11" end="11"/>
+  </implicit>
+  <implicit role="arg0|cut.01" recoverable="True" implicit-role-type="same-sentence" sentence="2" predstart="27" predend="27" pos="VERB">
+    <candidate sentence="35" start="0" end="0"/>
+    <candidate sentence="19" start="0" end="0"/>
+    <candidate sentence="19" start="5" end="5"/>
+    <candidate sentence="15" start="0" end="0"/>
+    <candidate sentence="9" start="0" end="0"/>
+    <candidate sentence="9" start="4" end="4"/>
+    <candidate sentence="25" start="7" end="7"/>
+    <candidate sentence="22" start="1" end="1"/>
+    <candidate sentence="11" start="16" end="16"/>
+    <candidate sentence="0" start="19" end="19"/>
+    <candidate sentence="1" start="0" end="0"/>
+    <candidate sentence="1" start="7" end="7"/>
+    <candidate sentence="18" start="0" end="0"/>
+    <candidate sentence="21" start="0" end="3"/>
+    <candidate sentence="3" start="0" end="0"/>
+    <candidate sentence="24" start="8" end="8"/>
+    <candidate sentence="20" start="2" end="2"/>
+    <candidate sentence="0" start="4" end="20"/>
+    <candidate sentence="19" start="0" end="0"/>
+    <candidate sentence="5" start="1" end="1"/>
+    <candidate sentence="5" start="19" end="19"/>
+    <candidate sentence="14" start="1" end="1"/>
+    <candidate sentence="2" start="5" end="5"/>
+    <candidate sentence="2" start="13" end="13"/>
+    <candidate sentence="2" start="24" end="24"/>
+    <candidate sentence="10" start="11" end="11"/>
+    <candidate sentence="26" start="1" end="1"/>
+    <candidate sentence="32" start="5" end="5"/>
+    <candidate sentence="34" start="1" end="1"/>
+    <candidate sentence="0" start="2" end="2"/>
+    <candidate sentence="17" start="20" end="20"/>
+    <candidate sentence="12" start="0" end="0"/>
+    <candidate sentence="7" start="0" end="0"/>
+    <candidate sentence="16" start="0" end="0"/>
+    <candidate sentence="16" start="7" end="7"/>
+    <candidate sentence="16" start="19" end="19"/>
+    <candidate sentence="4" start="4" end="4"/>
+    <candidate sentence="13" start="0" end="0"/>
+    <candidate sentence="13" start="11" end="11"/>
+  </implicit>
+  <implicit role="arg1|cut.01" recoverable="True" implicit-role-type="same-sentence" sentence="2" predstart="27" predend="27" pos="VERB">
+    <candidate sentence="35" start="0" end="0"/>
+    <candidate sentence="19" start="0" end="0"/>
+    <candidate sentence="19" start="5" end="5"/>
+    <candidate sentence="15" start="0" end="0"/>
+    <candidate sentence="9" start="0" end="0"/>
+    <candidate sentence="9" start="4" end="4"/>
+    <candidate sentence="25" start="7" end="7"/>
+    <candidate sentence="22" start="1" end="1"/>
+    <candidate sentence="11" start="16" end="16"/>
+    <candidate sentence="0" start="19" end="19"/>
+    <candidate sentence="1" start="0" end="0"/>
+    <candidate sentence="1" start="7" end="7"/>
+    <candidate sentence="18" start="0" end="0"/>
+    <candidate sentence="21" start="0" end="3"/>
+    <candidate sentence="3" start="0" end="0"/>
+    <candidate sentence="24" start="8" end="8"/>
+    <candidate sentence="20" start="2" end="2"/>
+    <candidate sentence="0" start="4" end="20"/>
+    <candidate sentence="19" start="0" end="0"/>
+    <candidate sentence="5" start="1" end="1"/>
+    <candidate sentence="5" start="19" end="19"/>
+    <candidate sentence="14" start="1" end="1"/>
+    <candidate sentence="2" start="5" end="5"/>
+    <candidate sentence="2" start="13" end="13"/>
+    <candidate sentence="2" start="24" end="24"/>
+    <candidate sentence="10" start="11" end="11"/>
+    <candidate sentence="26" start="1" end="1"/>
+    <candidate sentence="32" start="5" end="5"/>
+    <candidate sentence="34" start="1" end="1"/>
+    <candidate sentence="0" start="2" end="2"/>
+    <candidate sentence="17" start="20" end="20"/>
+    <candidate sentence="12" start="0" end="0"/>
+    <candidate sentence="7" start="0" end="0"/>
+    <candidate sentence="16" start="0" end="0"/>
+    <candidate sentence="16" start="7" end="7"/>
+    <candidate sentence="16" start="19" end="19"/>
+    <candidate sentence="4" start="4" end="4"/>
+    <candidate sentence="13" start="0" end="0"/>
+    <candidate sentence="13" start="11" end="11"/>
+  </implicit>
+  <implicit role="arg0|tell.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" sentence="23" predstart="15" predend="15" pos="VERB">
+    <candidate sentence="35" start="0" end="0"/>
+    <candidate sentence="19" start="0" end="0"/>
+    <candidate sentence="19" start="5" end="5"/>
+    <candidate sentence="15" start="0" end="0"/>
+    <candidate sentence="9" start="0" end="0"/>
+    <candidate sentence="9" start="4" end="4"/>
+    <candidate sentence="25" start="7" end="7"/>
+    <candidate sentence="22" start="1" end="1"/>
+    <candidate sentence="11" start="16" end="16"/>
+    <candidate sentence="0" start="19" end="19"/>
+    <candidate sentence="1" start="0" end="0"/>
+    <candidate sentence="1" start="7" end="7"/>
+    <candidate sentence="18" start="0" end="0"/>
+    <candidate sentence="21" start="0" end="3"/>
+    <candidate sentence="3" start="0" end="0"/>
+    <candidate sentence="24" start="8" end="8"/>
+    <candidate sentence="20" start="2" end="2"/>
+    <candidate sentence="0" start="4" end="20"/>
+    <candidate sentence="19" start="0" end="0"/>
+    <candidate sentence="5" start="1" end="1"/>
+    <candidate sentence="5" start="19" end="19"/>
+    <candidate sentence="14" start="1" end="1"/>
+    <candidate sentence="2" start="5" end="5"/>
+    <candidate sentence="2" start="13" end="13"/>
+    <candidate sentence="2" start="24" end="24"/>
+    <candidate sentence="10" start="11" end="11"/>
+    <candidate sentence="26" start="1" end="1"/>
+    <candidate sentence="32" start="5" end="5"/>
+    <candidate sentence="34" start="1" end="1"/>
+    <candidate sentence="0" start="2" end="2"/>
+    <candidate sentence="17" start="20" end="20"/>
+    <candidate sentence="12" start="0" end="0"/>
+    <candidate sentence="7" start="0" end="0"/>
+    <candidate sentence="16" start="0" end="0"/>
+    <candidate sentence="16" start="7" end="7"/>
+    <candidate sentence="16" start="19" end="19"/>
+    <candidate sentence="4" start="4" end="4"/>
+    <candidate sentence="13" start="0" end="0"/>
+    <candidate sentence="13" start="11" end="11"/>
+  </implicit>
+  <implicit role="arg0|trust.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" sentence="27" predstart="0" predend="0" pos="VERB">
+    <candidate sentence="35" start="0" end="0"/>
+    <candidate sentence="19" start="0" end="0"/>
+    <candidate sentence="19" start="5" end="5"/>
+    <candidate sentence="15" start="0" end="0"/>
+    <candidate sentence="9" start="0" end="0"/>
+    <candidate sentence="9" start="4" end="4"/>
+    <candidate sentence="25" start="7" end="7"/>
+    <candidate sentence="22" start="1" end="1"/>
+    <candidate sentence="11" start="16" end="16"/>
+    <candidate sentence="0" start="19" end="19"/>
+    <candidate sentence="1" start="0" end="0"/>
+    <candidate sentence="1" start="7" end="7"/>
+    <candidate sentence="18" start="0" end="0"/>
+    <candidate sentence="21" start="0" end="3"/>
+    <candidate sentence="3" start="0" end="0"/>
+    <candidate sentence="24" start="8" end="8"/>
+    <candidate sentence="20" start="2" end="2"/>
+    <candidate sentence="0" start="4" end="20"/>
+    <candidate sentence="19" start="0" end="0"/>
+    <candidate sentence="5" start="1" end="1"/>
+    <candidate sentence="5" start="19" end="19"/>
+    <candidate sentence="14" start="1" end="1"/>
+    <candidate sentence="2" start="5" end="5"/>
+    <candidate sentence="2" start="13" end="13"/>
+    <candidate sentence="2" start="24" end="24"/>
+    <candidate sentence="10" start="11" end="11"/>
+    <candidate sentence="26" start="1" end="1"/>
+    <candidate sentence="32" start="5" end="5"/>
+    <candidate sentence="34" start="1" end="1"/>
+    <candidate sentence="0" start="2" end="2"/>
+    <candidate sentence="17" start="20" end="20"/>
+    <candidate sentence="12" start="0" end="0"/>
+    <candidate sentence="7" start="0" end="0"/>
+    <candidate sentence="16" start="0" end="0"/>
+    <candidate sentence="16" start="7" end="7"/>
+    <candidate sentence="16" start="19" end="19"/>
+    <candidate sentence="4" start="4" end="4"/>
+    <candidate sentence="13" start="0" end="0"/>
+    <candidate sentence="13" start="11" end="11"/>
+  </implicit>
+  <implicit role="arg1|cut.01" recoverable="True" implicit-role-type="same-sentence" sentence="7" predstart="9" predend="9" pos="VERB">
+    <candidate sentence="35" start="0" end="0"/>
+    <candidate sentence="19" start="0" end="0"/>
+    <candidate sentence="19" start="5" end="5"/>
+    <candidate sentence="15" start="0" end="0"/>
+    <candidate sentence="9" start="0" end="0"/>
+    <candidate sentence="9" start="4" end="4"/>
+    <candidate sentence="25" start="7" end="7"/>
+    <candidate sentence="22" start="1" end="1"/>
+    <candidate sentence="11" start="16" end="16"/>
+    <candidate sentence="0" start="19" end="19"/>
+    <candidate sentence="1" start="0" end="0"/>
+    <candidate sentence="1" start="7" end="7"/>
+    <candidate sentence="18" start="0" end="0"/>
+    <candidate sentence="21" start="0" end="3"/>
+    <candidate sentence="3" start="0" end="0"/>
+    <candidate sentence="24" start="8" end="8"/>
+    <candidate sentence="20" start="2" end="2"/>
+    <candidate sentence="0" start="4" end="20"/>
+    <candidate sentence="19" start="0" end="0"/>
+    <candidate sentence="5" start="1" end="1"/>
+    <candidate sentence="5" start="19" end="19"/>
+    <candidate sentence="14" start="1" end="1"/>
+    <candidate sentence="2" start="5" end="5"/>
+    <candidate sentence="2" start="13" end="13"/>
+    <candidate sentence="2" start="24" end="24"/>
+    <candidate sentence="10" start="11" end="11"/>
+    <candidate sentence="26" start="1" end="1"/>
+    <candidate sentence="32" start="5" end="5"/>
+    <candidate sentence="34" start="1" end="1"/>
+    <candidate sentence="0" start="2" end="2"/>
+    <candidate sentence="17" start="20" end="20"/>
+    <candidate sentence="12" start="0" end="0"/>
+    <candidate sentence="7" start="0" end="0"/>
+    <candidate sentence="16" start="0" end="0"/>
+    <candidate sentence="16" start="7" end="7"/>
+    <candidate sentence="16" start="19" end="19"/>
+    <candidate sentence="4" start="4" end="4"/>
+    <candidate sentence="13" start="0" end="0"/>
+    <candidate sentence="13" start="11" end="11"/>
+  </implicit>
+  <implicit role="arg0|want.01" recoverable="True" implicit-role-type="same-sentence" sentence="11" predstart="18" predend="18" pos="VERB">
+    <candidate sentence="11" start="0" end="0"/>
+  </implicit>
+  <implicit role="arg0|happy.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" sentence="31" predstart="4" predend="4" pos="ADJ">
+    <candidate sentence="29" start="16" end="16"/>
+  </implicit>
+  <implicit role="arg1|trust.01" recoverable="True" implicit-role-type="same-sentence" sentence="27" predstart="0" predend="0" pos="VERB">
+    <candidate sentence="27" start="5" end="5"/>
+  </implicit>
+  <implicit role="arg3|read.01" recoverable="False" implicit-role-type="missing" sentence="21" predstart="3" predend="3" pos="VERB"/>
+  <implicit role="arg1|read.01" recoverable="False" implicit-role-type="missing" sentence="21" predstart="3" predend="3" pos="VERB"/>
+  <implicit role="arg2|get.01" recoverable="False" implicit-role-type="missing" sentence="22" predstart="6" predend="6" pos="VERB"/>
+  <implicit role="arg3|get.01" recoverable="False" implicit-role-type="missing" sentence="22" predstart="6" predend="6" pos="VERB"/>
+  <implicit role="arg3|want.01" recoverable="False" implicit-role-type="missing" sentence="19" predstart="2" predend="2" pos="VERB"/>
+  <implicit role="arg4|want.01" recoverable="False" implicit-role-type="missing" sentence="19" predstart="2" predend="2" pos="VERB"/>
+  <implicit role="arg2|hurt.01" recoverable="False" implicit-role-type="missing" sentence="19" predstart="12" predend="12" pos="VERB"/>
+  <implicit role="arg2|hurt.01" recoverable="False" implicit-role-type="missing" sentence="19" predstart="4" predend="4" pos="VERB"/>
+  <implicit role="arg2|want.01" recoverable="False" implicit-role-type="missing" sentence="19" predstart="2" predend="2" pos="VERB"/>
+  <implicit role="arg4|do.02" recoverable="False" implicit-role-type="missing" sentence="20" predstart="1" predend="1" pos="VERB"/>
+  <implicit role="arg3|do.02" recoverable="False" implicit-role-type="missing" sentence="20" predstart="1" predend="1" pos="VERB"/>
+  <implicit role="arg1|tell.01" recoverable="False" implicit-role-type="missing" sentence="25" predstart="2" predend="2" pos="VERB"/>
+  <implicit role="arg2|worsen.01" recoverable="False" implicit-role-type="missing" sentence="26" predstart="13" predend="13" pos="ADJ"/>
+  <implicit role="arg0|bottle_up.02" recoverable="False" implicit-role-type="missing" sentence="26" predstart="4" predend="4" pos="VERB"/>
+  <implicit role="arg0|worsen.01" recoverable="False" implicit-role-type="missing" sentence="26" predstart="13" predend="13" pos="ADJ"/>
+  <implicit role="arg1|talk.01" recoverable="False" implicit-role-type="missing" sentence="23" predstart="6" predend="6" pos="VERB"/>
+  <implicit role="arg0|teach.01" recoverable="False" implicit-role-type="missing" sentence="24" predstart="4" predend="4" pos="NOUN"/>
+  <implicit role="arg1|trust.01" recoverable="False" implicit-role-type="missing" sentence="24" predstart="9" predend="9" pos="VERB"/>
+  <implicit role="arg1|teach.01" recoverable="False" implicit-role-type="missing" sentence="24" predstart="4" predend="4" pos="NOUN"/>
+  <implicit role="arg2|teach.01" recoverable="False" implicit-role-type="missing" sentence="24" predstart="4" predend="4" pos="NOUN"/>
+  <implicit role="arg2|get.01" recoverable="False" implicit-role-type="missing" sentence="27" predstart="7" predend="7" pos="VERB"/>
+  <implicit role="arg0|worsen.01" recoverable="False" implicit-role-type="missing" sentence="27" predstart="20" predend="20" pos="ADJ"/>
+  <implicit role="arg2|worsen.01" recoverable="False" implicit-role-type="missing" sentence="27" predstart="20" predend="20" pos="ADJ"/>
+  <implicit role="arg0|let.01" recoverable="False" implicit-role-type="missing" sentence="27" predstart="16" predend="16" pos="VERB"/>
+  <implicit role="arg2|good.02" recoverable="False" implicit-role-type="missing" sentence="27" predstart="5" predend="5" pos="ADJ"/>
+  <implicit role="arg0|get.01" recoverable="False" implicit-role-type="missing" sentence="27" predstart="7" predend="7" pos="VERB"/>
+  <implicit role="arg3|get.01" recoverable="False" implicit-role-type="missing" sentence="27" predstart="7" predend="7" pos="VERB"/>
+  <implicit role="arg4|do.02" recoverable="False" implicit-role-type="missing" sentence="28" predstart="1" predend="1" pos="VERB"/>
+  <implicit role="arg3|do.02" recoverable="False" implicit-role-type="missing" sentence="28" predstart="1" predend="1" pos="VERB"/>
+  <implicit role="arg0|scar.01" recoverable="False" implicit-role-type="missing" sentence="2" predstart="8" predend="8" pos="NOUN"/>
+  <implicit role="arg4|slit.01" recoverable="False" implicit-role-type="missing" sentence="2" predstart="14" predend="14" pos="VERB"/>
+  <implicit role="arg2|worsen.01" recoverable="False" implicit-role-type="missing" sentence="2" predstart="3" predend="3" pos="ADJ"/>
+  <implicit role="arg2|slit.01" recoverable="False" implicit-role-type="missing" sentence="2" predstart="14" predend="14" pos="VERB"/>
+  <implicit role="arg0|worsen.01" recoverable="False" implicit-role-type="missing" sentence="2" predstart="3" predend="3" pos="ADJ"/>
+  <implicit role="arg1|bleed.01" recoverable="False" implicit-role-type="missing" sentence="2" predstart="30" predend="30" pos="VERB"/>
+  <implicit role="arg2|stop.01" recoverable="False" implicit-role-type="missing" sentence="2" predstart="26" predend="26" pos="VERB"/>
+  <implicit role="arg4|slit.01" recoverable="False" implicit-role-type="missing" sentence="1" predstart="8" predend="8" pos="VERB"/>
+  <implicit role="arg2|slit.01" recoverable="False" implicit-role-type="missing" sentence="1" predstart="8" predend="8" pos="VERB"/>
+  <implicit role="arg0|mean.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="6" predend="6" pos="NOUN"/>
+  <implicit role="arg0|age.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="7" predend="7" pos="ADJ"/>
+  <implicit role="arg2|harm.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="20" predend="20" pos="NOUN"/>
+  <implicit role="arg1|age.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="7" predend="7" pos="ADJ"/>
+  <implicit role="arg0|harm.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="20" predend="20" pos="NOUN"/>
+  <implicit role="arg3|mean.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="6" predend="6" pos="NOUN"/>
+  <implicit role="arg0|addict.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="17" predend="17" pos="VERB"/>
+  <implicit role="arg2|tempt.01" recoverable="False" implicit-role-type="missing" sentence="6" predstart="7" predend="7" pos="VERB"/>
+  <implicit role="arg3|cut.01" recoverable="False" implicit-role-type="missing" sentence="6" predstart="9" predend="9" pos="VERB"/>
+  <implicit role="arg4|cut.01" recoverable="False" implicit-role-type="missing" sentence="6" predstart="9" predend="9" pos="VERB"/>
+  <implicit role="arg2|cut.01" recoverable="False" implicit-role-type="missing" sentence="6" predstart="9" predend="9" pos="VERB"/>
+  <implicit role="arg0|tempt.01" recoverable="False" implicit-role-type="missing" sentence="6" predstart="7" predend="7" pos="VERB"/>
+  <implicit role="arg2|take.01" recoverable="False" implicit-role-type="missing" sentence="5" predstart="18" predend="18" pos="VERB"/>
+  <implicit role="arg3|take.01" recoverable="False" implicit-role-type="missing" sentence="5" predstart="18" predend="18" pos="VERB"/>
+  <implicit role="arg3|take.01" recoverable="False" implicit-role-type="missing" sentence="5" predstart="9" predend="9" pos="VERB"/>
+  <implicit role="arg2|take.01" recoverable="False" implicit-role-type="missing" sentence="5" predstart="9" predend="9" pos="VERB"/>
+  <implicit role="arg0|find.01" recoverable="False" implicit-role-type="missing" sentence="5" predstart="3" predend="3" pos="VERB"/>
+  <implicit role="arg2|cut.01" recoverable="False" implicit-role-type="missing" sentence="4" predstart="5" predend="5" pos="VERB"/>
+  <implicit role="arg4|cut.01" recoverable="False" implicit-role-type="missing" sentence="4" predstart="5" predend="5" pos="VERB"/>
+  <implicit role="arg2|heal.01" recoverable="False" implicit-role-type="missing" sentence="4" predstart="1" predend="1" pos="VERB"/>
+  <implicit role="arg0|heal.01" recoverable="False" implicit-role-type="missing" sentence="4" predstart="1" predend="1" pos="VERB"/>
+  <implicit role="arg2|heal.01" recoverable="False" implicit-role-type="missing" sentence="7" predstart="7" predend="7" pos="NOUN"/>
+  <implicit role="arg0|heal.01" recoverable="False" implicit-role-type="missing" sentence="7" predstart="7" predend="7" pos="NOUN"/>
+  <implicit role="arg3|do.02" recoverable="False" implicit-role-type="missing" sentence="16" predstart="5" predend="5" pos="VERB"/>
+  <implicit role="arg4|do.02" recoverable="False" implicit-role-type="missing" sentence="16" predstart="5" predend="5" pos="VERB"/>
+  <implicit role="arg2|hate.01" recoverable="False" implicit-role-type="missing" sentence="16" predstart="22" predend="22" pos="VERB"/>
+  <implicit role="arg2|want.01" recoverable="False" implicit-role-type="missing" sentence="16" predstart="10" predend="10" pos="VERB"/>
+  <implicit role="arg0|do.02" recoverable="False" implicit-role-type="missing" sentence="16" predstart="12" predend="12" pos="VERB"/>
+  <implicit role="arg4|do.02" recoverable="False" implicit-role-type="missing" sentence="16" predstart="12" predend="12" pos="VERB"/>
+  <implicit role="arg0|do.02" recoverable="False" implicit-role-type="missing" sentence="16" predstart="5" predend="5" pos="VERB"/>
+  <implicit role="arg4|want.01" recoverable="False" implicit-role-type="missing" sentence="16" predstart="10" predend="10" pos="VERB"/>
+  <implicit role="arg3|want.01" recoverable="False" implicit-role-type="missing" sentence="16" predstart="10" predend="10" pos="VERB"/>
+  <implicit role="arg3|do.02" recoverable="False" implicit-role-type="missing" sentence="16" predstart="12" predend="12" pos="VERB"/>
+  <implicit role="arg1|speak.01" recoverable="False" implicit-role-type="missing" sentence="13" predstart="15" predend="15" pos="VERB"/>
+  <implicit role="arg0|forbid.01" recoverable="False" implicit-role-type="missing" sentence="13" predstart="13" predend="13" pos="VERB"/>
+  <implicit role="arg3|speak.01" recoverable="False" implicit-role-type="missing" sentence="13" predstart="15" predend="15" pos="VERB"/>
+  <implicit role="arg1|relation.03" recoverable="False" implicit-role-type="missing" sentence="13" predstart="3" predend="3" pos="NOUN"/>
+  <implicit role="arg2|die.01" recoverable="False" implicit-role-type="missing" sentence="12" predstart="3" predend="3" pos="VERB"/>
+  <implicit role="arg2|good.02" recoverable="False" implicit-role-type="missing" sentence="12" predstart="1" predend="1" pos="ADJ"/>
+  <implicit role="arg1|leave.15" recoverable="False" implicit-role-type="missing" sentence="10" predstart="13" predend="13" pos="VERB"/>
+  <implicit role="arg3|know.02" recoverable="False" implicit-role-type="missing" sentence="10" predstart="20" predend="20" pos="VERB"/>
+  <implicit role="arg4|want.01" recoverable="False" implicit-role-type="missing" sentence="10" predstart="18" predend="18" pos="VERB"/>
+  <implicit role="arg2|want.01" recoverable="False" implicit-role-type="missing" sentence="10" predstart="18" predend="18" pos="VERB"/>
+  <implicit role="arg3|want.01" recoverable="False" implicit-role-type="missing" sentence="10" predstart="18" predend="18" pos="VERB"/>
+  <implicit role="arg2|leave.15" recoverable="False" implicit-role-type="missing" sentence="10" predstart="13" predend="13" pos="VERB"/>
+  <implicit role="arg1|tell.01" recoverable="False" implicit-role-type="missing" sentence="18" predstart="2" predend="2" pos="VERB"/>
+  <implicit role="arg3|do.02" recoverable="False" implicit-role-type="missing" sentence="17" predstart="21" predend="21" pos="VERB"/>
+  <implicit role="arg2|good.02" recoverable="False" implicit-role-type="missing" sentence="17" predstart="3" predend="3" pos="ADJ"/>
+  <implicit role="arg0|mean.01" recoverable="False" implicit-role-type="missing" sentence="17" predstart="13" predend="13" pos="VERB"/>
+  <implicit role="arg4|do.02" recoverable="False" implicit-role-type="missing" sentence="17" predstart="21" predend="21" pos="VERB"/>
+  <implicit role="arg3|do.02" recoverable="False" implicit-role-type="missing" sentence="30" predstart="5" predend="5" pos="VERB"/>
+  <implicit role="arg4|do.02" recoverable="False" implicit-role-type="missing" sentence="30" predstart="5" predend="5" pos="VERB"/>
+  <implicit role="arg2|harm.01" recoverable="False" implicit-role-type="missing" sentence="29" predstart="6" predend="6" pos="VERB"/>
+  <implicit role="arg0|age.01" recoverable="False" implicit-role-type="missing" sentence="29" predstart="17" predend="17" pos="VERB"/>
+  <implicit role="arg2|start.01" recoverable="False" implicit-role-type="missing" sentence="29" predstart="4" predend="4" pos="VERB"/>
+  <implicit role="arg0|cut.01" recoverable="False" implicit-role-type="missing" sentence="29" predstart="11" predend="11" pos="VERB"/>
+  <implicit role="arg4|cut.01" recoverable="False" implicit-role-type="missing" sentence="29" predstart="11" predend="11" pos="VERB"/>
+  <implicit role="arg3|cut.01" recoverable="False" implicit-role-type="missing" sentence="29" predstart="11" predend="11" pos="VERB"/>
+  <implicit role="arg0|harm.01" recoverable="False" implicit-role-type="missing" sentence="29" predstart="6" predend="6" pos="VERB"/>
+  <implicit role="arg3|mean.01" recoverable="False" implicit-role-type="missing" sentence="29" predstart="8" predend="8" pos="NOUN"/>
+  <implicit role="arg2|cut.01" recoverable="False" implicit-role-type="missing" sentence="29" predstart="11" predend="11" pos="VERB"/>
+  <implicit role="arg2|stop.01" recoverable="False" implicit-role-type="missing" sentence="29" predstart="18" predend="18" pos="VERB"/>
+  <implicit role="arg0|mean.01" recoverable="False" implicit-role-type="missing" sentence="29" predstart="8" predend="8" pos="NOUN"/>
+  <implicit role="arg2|keep.03" recoverable="False" implicit-role-type="missing" sentence="32" predstart="17" predend="17" pos="VERB"/>
+  <implicit role="arg0|write.01" recoverable="False" implicit-role-type="missing" sentence="32" predstart="15" predend="15" pos="NOUN"/>
+  <implicit role="arg0|keep.03" recoverable="False" implicit-role-type="missing" sentence="32" predstart="17" predend="17" pos="VERB"/>
+  <implicit role="arg4|do.02" recoverable="False" implicit-role-type="missing" sentence="32" predstart="7" predend="7" pos="VERB"/>
+  <implicit role="arg3|do.02" recoverable="False" implicit-role-type="missing" sentence="32" predstart="7" predend="7" pos="VERB"/>
+  <implicit role="arg4|want.01" recoverable="False" implicit-role-type="missing" sentence="31" predstart="31" predend="31" pos="VERB"/>
+  <implicit role="arg2|feel.01" recoverable="False" implicit-role-type="missing" sentence="31" predstart="18" predend="18" pos="VERB"/>
+  <implicit role="arg3|do.02" recoverable="False" implicit-role-type="missing" sentence="31" predstart="33" predend="33" pos="VERB"/>
+  <implicit role="arg2|want.01" recoverable="False" implicit-role-type="missing" sentence="31" predstart="31" predend="31" pos="VERB"/>
+  <implicit role="arg0|do.02" recoverable="False" implicit-role-type="missing" sentence="31" predstart="33" predend="33" pos="VERB"/>
+  <implicit role="arg4|do.02" recoverable="False" implicit-role-type="missing" sentence="31" predstart="33" predend="33" pos="VERB"/>
+  <implicit role="arg2|feel.01" recoverable="False" implicit-role-type="missing" sentence="31" predstart="1" predend="1" pos="VERB"/>
+  <implicit role="arg3|want.01" recoverable="False" implicit-role-type="missing" sentence="31" predstart="31" predend="31" pos="VERB"/>
+  <implicit role="arg0|harm.01" recoverable="False" implicit-role-type="missing" sentence="34" predstart="3" predend="3" pos="NOUN"/>
+  <implicit role="arg2|harm.01" recoverable="False" implicit-role-type="missing" sentence="34" predstart="3" predend="3" pos="NOUN"/>
+  <implicit role="arg0|harm.01" recoverable="False" implicit-role-type="missing" sentence="33" predstart="1" predend="1" pos="NOUN"/>
+  <implicit role="arg2|harm.01" recoverable="False" implicit-role-type="missing" sentence="33" predstart="1" predend="1" pos="NOUN"/>
+  <implicit role="arg1|addictive.02" recoverable="False" implicit-role-type="missing" sentence="33" predstart="3" predend="3" pos="ADJ"/>
+</ISRLSPANS>

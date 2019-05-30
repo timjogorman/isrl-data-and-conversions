@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_413">
+
+<implicit role="arg1|cause.01" recoverable="True" implicit-role-type="same-sentence" predstart="11" predend="11" sentence="0">
+    <candidate sentence="0" start="0" end="13"/>
+</implicit>
+
+<implicit role="arg1|fight.01" recoverable="True" implicit-role-type="same-sentence" predstart="1" predend="1" sentence="0">
+    <candidate sentence="0" start="7" end="8"/>
+</implicit>
+</ISRLSPANS>
+

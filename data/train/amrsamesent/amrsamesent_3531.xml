@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_3531">
+
+<implicit role="arg1|depress.01" recoverable="True" implicit-role-type="same-sentence" predstart="8" predend="8" sentence="0">
+    <candidate sentence="0" start="0" end="2"/>
+</implicit>
+</ISRLSPANS>
+

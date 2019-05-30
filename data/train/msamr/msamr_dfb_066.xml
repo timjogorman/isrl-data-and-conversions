@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ISRLSPANS sourcefile="msamr_dfb_066">
+  <implicit role="arg0|kill.01" recoverable="True" implicit-role-type="cross-sentence-cataphoric" sentence="0" predstart="12" predend="12" pos="VERB">
+    <candidate sentence="3" start="19" end="22"/>
+  </implicit>
+  <implicit role="arg1|drive.01" recoverable="True" implicit-role-type="same-sentence" sentence="2" predstart="13" predend="13" pos="NOUN">
+    <candidate sentence="2" start="18" end="20"/>
+  </implicit>
+  <implicit role="arg3|fall.01" recoverable="False" implicit-role-type="missing" sentence="3" predstart="1" predend="1" pos="VERB"/>
+  <implicit role="arg4|fall.01" recoverable="False" implicit-role-type="missing" sentence="3" predstart="1" predend="1" pos="VERB"/>
+  <implicit role="arg2|strike.01" recoverable="False" implicit-role-type="missing" sentence="3" predstart="17" predend="17" pos="VERB"/>
+  <implicit role="arg2|fall.01" recoverable="False" implicit-role-type="missing" sentence="3" predstart="1" predend="1" pos="VERB"/>
+  <implicit role="arg2|say.01" recoverable="False" implicit-role-type="missing" sentence="2" predstart="1" predend="1" pos="VERB"/>
+  <implicit role="arg0|clip.03" recoverable="False" implicit-role-type="missing" sentence="2" predstart="10" predend="10" pos="VERB"/>
+</ISRLSPANS>

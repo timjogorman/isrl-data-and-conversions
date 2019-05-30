@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="wsj_2386">
+<implicit role="arg2|invest.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" predstart="8" predend="8" sentence="3">
+			<candidate sentence="0" start="35" end="35"/>
+</implicit>
+
+<implicit role="arg1|invest.01" recoverable="False" implicit-role-type="missing" predstart="8" predend="8" sentence="3"/>
+
+<implicit role="arg1|invest.01" recoverable="False" implicit-role-type="missing" predstart="10" predend="10" sentence="24"/>
+
+<implicit role="arg2|invest.01" recoverable="False" implicit-role-type="missing" predstart="10" predend="10" sentence="24"/>
+
+<implicit role="arg2|invest.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" predstart="13" predend="13" sentence="13">
+			<candidate sentence="0" start="35" end="35"/>
+</implicit>
+
+<implicit role="arg1|invest.01" recoverable="False" implicit-role-type="missing" predstart="13" predend="13" sentence="13"/>
+
+<implicit role="arg2|invest.01" recoverable="True" implicit-role-type="same-sentence" predstart="8" predend="8" sentence="22">
+			<candidate sentence="0" start="35" end="35"/>
+			<candidate sentence="15" start="3" end="3"/>
+			<candidate sentence="20" start="16" end="16"/>
+			<candidate sentence="22" start="22" end="24"/>
+</implicit>
+
+<implicit role="arg1|invest.01" recoverable="False" implicit-role-type="missing" predstart="8" predend="8" sentence="22"/>
+
+<implicit role="arg0|fund.01" recoverable="False" implicit-role-type="missing" predstart="34" predend="34" sentence="3"/>
+
+<implicit role="arg1|fund.01" recoverable="False" implicit-role-type="missing" predstart="34" predend="34" sentence="3"/>
+
+<implicit role="arg2|fund.01" recoverable="False" implicit-role-type="missing" predstart="34" predend="34" sentence="3"/>
+
+<implicit role="arg1|price.01" recoverable="True" implicit-role-type="same-sentence" predstart="10" predend="10" sentence="15">
+			<candidate sentence="15" start="2" end="3"/>
+</implicit>
+
+<implicit role="arg0|price.01" recoverable="False" implicit-role-type="missing" predstart="10" predend="10" sentence="15"/>
+
+<implicit role="arg3|price.01" recoverable="False" implicit-role-type="missing" predstart="10" predend="10" sentence="15"/>
+
+<implicit role="arg1|invest.01" recoverable="False" implicit-role-type="missing" predstart="23" predend="23" sentence="3"/>
+
+<implicit role="arg1|invest.01" recoverable="False" implicit-role-type="missing" predstart="20" predend="20" sentence="14"/>
+
+<implicit role="arg2|invest.01" recoverable="False" implicit-role-type="missing" predstart="20" predend="20" sentence="14"/>
+
+<implicit role="arg1|invest.01" recoverable="False" implicit-role-type="missing" predstart="19" predend="19" sentence="12"/>
+
+<implicit role="arg2|invest.01" recoverable="False" implicit-role-type="missing" predstart="19" predend="19" sentence="12"/>
+
+<implicit role="arg1|invest.01" recoverable="False" implicit-role-type="missing" predstart="22" predend="22" sentence="39"/>
+
+<implicit role="arg0|invest.01" recoverable="False" implicit-role-type="missing" predstart="8" predend="8" sentence="17"/>
+
+<implicit role="arg1|invest.01" recoverable="False" implicit-role-type="missing" predstart="8" predend="8" sentence="17"/>
+
+<implicit role="arg2|invest.01" recoverable="False" implicit-role-type="missing" predstart="8" predend="8" sentence="17"/>
+
+<implicit role="arg0|fund.01" recoverable="False" implicit-role-type="missing" predstart="16" predend="16" sentence="33"/>
+
+<implicit role="arg1|fund.01" recoverable="False" implicit-role-type="missing" predstart="16" predend="16" sentence="33"/>
+
+<implicit role="arg2|fund.01" recoverable="False" implicit-role-type="missing" predstart="16" predend="16" sentence="33"/>
+
+<implicit role="arg2|invest.01" recoverable="True" implicit-role-type="same-sentence" predstart="1" predend="1" sentence="33">
+			<candidate sentence="33" start="15" end="16"/>
+</implicit>
+
+<implicit role="arg1|invest.01" recoverable="False" implicit-role-type="missing" predstart="1" predend="1" sentence="33"/>
+
+<implicit role="arg1|invest.01" recoverable="False" implicit-role-type="missing" predstart="1" predend="1" sentence="36"/>
+
+<implicit role="arg2|invest.01" recoverable="False" implicit-role-type="missing" predstart="1" predend="1" sentence="36"/>
+
+<implicit role="arg2|invest.01" recoverable="True" implicit-role-type="same-sentence" predstart="1" predend="1" sentence="0">
+			<candidate sentence="0" start="35" end="35"/>
+</implicit>
+
+<implicit role="arg1|invest.01" recoverable="False" implicit-role-type="missing" predstart="1" predend="1" sentence="0"/>
+
+<implicit role="arg1|invest.01" recoverable="False" implicit-role-type="missing" predstart="15" predend="15" sentence="19"/>
+
+<implicit role="arg2|invest.01" recoverable="False" implicit-role-type="missing" predstart="15" predend="15" sentence="19"/>
+
+<implicit role="arg0|price.01" recoverable="False" implicit-role-type="missing" predstart="19" predend="19" sentence="13"/>
+
+<implicit role="arg1|price.01" recoverable="False" implicit-role-type="missing" predstart="19" predend="19" sentence="13"/>
+
+<implicit role="arg3|price.01" recoverable="False" implicit-role-type="missing" predstart="19" predend="19" sentence="13"/>
+
+<implicit role="arg1|invest.01" recoverable="False" implicit-role-type="missing" predstart="2" predend="2" sentence="11"/>
+
+<implicit role="arg2|invest.01" recoverable="False" implicit-role-type="missing" predstart="2" predend="2" sentence="11"/>
+
+<implicit role="arg1|invest.01" recoverable="False" implicit-role-type="missing" predstart="4" predend="4" sentence="11"/>
+
+<implicit role="arg2|invest.01" recoverable="False" implicit-role-type="missing" predstart="4" predend="4" sentence="11"/>
+
+<implicit role="arg1|invest.01" recoverable="False" implicit-role-type="missing" predstart="29" predend="29" sentence="37"/>
+
+<implicit role="arg2|invest.01" recoverable="False" implicit-role-type="missing" predstart="29" predend="29" sentence="37"/>
+
+<implicit role="arg1|invest.01" recoverable="False" implicit-role-type="missing" predstart="12" predend="12" sentence="38"/>
+
+<implicit role="arg2|invest.01" recoverable="False" implicit-role-type="missing" predstart="12" predend="12" sentence="38"/>
+
+<implicit role="arg1|sell.01" recoverable="False" implicit-role-type="missing" predstart="4" predend="4" sentence="39"/>
+
+<implicit role="arg2|sell.01" recoverable="False" implicit-role-type="missing" predstart="4" predend="4" sentence="39"/>
+
+<implicit role="arg3|sell.01" recoverable="False" implicit-role-type="missing" predstart="4" predend="4" sentence="39"/>
+
+
+</ISRLSPANS>

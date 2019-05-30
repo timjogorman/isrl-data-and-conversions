@@ -1,0 +1,34 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="wsj_2414">
+<implicit role="arg0|fund.01" recoverable="False" implicit-role-type="missing" predstart="14" predend="14" sentence="0"/>
+
+<implicit role="arg1|fund.01" recoverable="False" implicit-role-type="missing" predstart="14" predend="14" sentence="0"/>
+
+<implicit role="arg2|fund.01" recoverable="False" implicit-role-type="missing" predstart="14" predend="14" sentence="0"/>
+
+<implicit role="arg0|invest.01" recoverable="False" implicit-role-type="missing" predstart="13" predend="13" sentence="0"/>
+
+<implicit role="arg1|invest.01" recoverable="False" implicit-role-type="missing" predstart="13" predend="13" sentence="0"/>
+
+<implicit role="arg2|invest.01" recoverable="False" implicit-role-type="missing" predstart="13" predend="13" sentence="0"/>
+
+<implicit role="arg1|price.01" recoverable="True" implicit-role-type="same-sentence" predstart="7" predend="7" sentence="1">
+			<candidate sentence="0" start="11" end="15"/>
+			<candidate sentence="1" start="14" end="17"/>
+</implicit>
+
+<implicit role="arg0|price.01" recoverable="False" implicit-role-type="missing" predstart="7" predend="7" sentence="1"/>
+
+<implicit role="arg3|price.01" recoverable="False" implicit-role-type="missing" predstart="7" predend="7" sentence="1"/>
+
+<implicit role="arg3|price.01" recoverable="False" implicit-role-type="missing" predstart="12" predend="12" sentence="1"/>
+
+<implicit role="arg0|fund.01" recoverable="False" implicit-role-type="missing" predstart="15" predend="15" sentence="1"/>
+
+<implicit role="arg1|fund.01" recoverable="False" implicit-role-type="missing" predstart="15" predend="15" sentence="1"/>
+
+<implicit role="arg2|fund.01" recoverable="False" implicit-role-type="missing" predstart="15" predend="15" sentence="1"/>
+
+
+</ISRLSPANS>

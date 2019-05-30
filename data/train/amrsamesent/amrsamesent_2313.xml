@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_2313">
+
+<implicit role="arg1|repay.01" recoverable="True" implicit-role-type="same-sentence" predstart="49" predend="49" sentence="0">
+    <candidate sentence="0" start="15" end="34"/>
+</implicit>
+<implicit role="arg0|fund.01" recoverable="False" implicit-role-type="missing" predstart="39" predend="39" sentence="0"/>
+<implicit role="arg3|raise.02" recoverable="False" implicit-role-type="missing" predstart="16" predend="16" sentence="0"/>
+<implicit role="arg2|indicate.01" recoverable="False" implicit-role-type="missing" predstart="14" predend="14" sentence="0"/>
+<implicit role="arg0|loan.01" recoverable="False" implicit-role-type="missing" predstart="13" predend="13" sentence="0"/>
+<implicit role="arg2|say.01" recoverable="False" implicit-role-type="missing" predstart="0" predend="0" sentence="0"/>
+<implicit role="arg1|regulate.01" recoverable="False" implicit-role-type="missing" predstart="2" predend="2" sentence="0"/>
+<implicit role="arg0|loan.01" recoverable="False" implicit-role-type="missing" predstart="15" predend="15" sentence="0"/>
+<implicit role="arg0|obligate.01" recoverable="False" implicit-role-type="missing" predstart="44" predend="44" sentence="0"/>
+<implicit role="arg3|borrow.01" recoverable="False" implicit-role-type="missing" predstart="18" predend="18" sentence="0"/>
+<implicit role="arg0|contract.02" recoverable="False" implicit-role-type="missing" predstart="48" predend="48" sentence="0"/>
+</ISRLSPANS>
+

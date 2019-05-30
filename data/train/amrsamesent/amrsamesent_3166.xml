@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_3166">
+
+<implicit role="arg1|lead.03" recoverable="True" implicit-role-type="same-sentence" predstart="22" predend="22" sentence="0">
+    <candidate sentence="0" start="36" end="37"/>
+</implicit>
+
+<implicit role="arg1|benefit.01" recoverable="True" implicit-role-type="same-sentence" predstart="30" predend="30" sentence="0">
+    <candidate sentence="0" start="40" end="43"/>
+</implicit>
+
+<implicit role="arg1|run.01" recoverable="True" implicit-role-type="same-sentence" predstart="27" predend="27" sentence="0">
+    <candidate sentence="0" start="36" end="37"/>
+</implicit>
+<implicit role="arg0|interest.01" recoverable="False" implicit-role-type="missing" predstart="18" predend="18" sentence="0"/>
+<implicit role="arg2|special.02" recoverable="False" implicit-role-type="missing" predstart="17" predend="17" sentence="0"/>
+<implicit role="arg1|short.06" recoverable="False" implicit-role-type="missing" predstart="9" predend="9" sentence="0"/>
+<implicit role="arg2|use.01" recoverable="False" implicit-role-type="missing" predstart="41" predend="41" sentence="0"/>
+<implicit role="arg1|work.01" recoverable="False" implicit-role-type="missing" predstart="34" predend="34" sentence="0"/>
+<implicit role="arg0|couple.01" recoverable="False" implicit-role-type="missing" predstart="15" predend="15" sentence="0"/>
+</ISRLSPANS>
+

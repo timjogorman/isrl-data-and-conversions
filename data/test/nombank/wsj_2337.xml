@@ -1,0 +1,64 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="wsj_2337">
+<implicit role="arg1|price.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" predstart="5" predend="5" sentence="25">
+			<candidate sentence="0" start="11" end="11"/>
+			<candidate sentence="24" start="14" end="14"/>
+			<candidate sentence="24" start="16" end="16"/>
+			<candidate sentence="24" start="14" end="26"/>
+</implicit>
+
+<implicit role="arg0|price.01" recoverable="False" implicit-role-type="missing" predstart="5" predend="5" sentence="25"/>
+
+<implicit role="arg3|price.01" recoverable="False" implicit-role-type="missing" predstart="5" predend="5" sentence="25"/>
+
+<implicit role="arg0|price.01" recoverable="False" implicit-role-type="missing" predstart="12" predend="12" sentence="24"/>
+
+<implicit role="arg3|price.01" recoverable="False" implicit-role-type="missing" predstart="12" predend="12" sentence="24"/>
+
+<implicit role="arg1|price.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" predstart="29" predend="29" sentence="25">
+			<candidate sentence="0" start="11" end="11"/>
+			<candidate sentence="24" start="14" end="14"/>
+			<candidate sentence="24" start="16" end="16"/>
+			<candidate sentence="24" start="14" end="26"/>
+</implicit>
+
+<implicit role="arg0|price.01" recoverable="False" implicit-role-type="missing" predstart="29" predend="29" sentence="25"/>
+
+<implicit role="arg3|price.01" recoverable="False" implicit-role-type="missing" predstart="29" predend="29" sentence="25"/>
+
+<implicit role="arg0|sell.01" recoverable="False" implicit-role-type="missing" predstart="46" predend="46" sentence="2"/>
+
+<implicit role="arg2|sell.01" recoverable="False" implicit-role-type="missing" predstart="46" predend="46" sentence="2"/>
+
+<implicit role="arg3|sell.01" recoverable="False" implicit-role-type="missing" predstart="46" predend="46" sentence="2"/>
+
+<implicit role="arg4|sell.01" recoverable="False" implicit-role-type="missing" predstart="46" predend="46" sentence="2"/>
+
+<implicit role="arg0|price.01" recoverable="False" implicit-role-type="missing" predstart="3" predend="3" sentence="6"/>
+
+<implicit role="arg3|price.01" recoverable="False" implicit-role-type="missing" predstart="3" predend="3" sentence="6"/>
+
+<implicit role="arg0|price.01" recoverable="False" implicit-role-type="missing" predstart="12" predend="12" sentence="0"/>
+
+<implicit role="arg3|price.01" recoverable="False" implicit-role-type="missing" predstart="12" predend="12" sentence="0"/>
+
+<implicit role="arg0|price.01" recoverable="False" implicit-role-type="missing" predstart="12" predend="12" sentence="26"/>
+
+<implicit role="arg3|price.01" recoverable="False" implicit-role-type="missing" predstart="12" predend="12" sentence="26"/>
+
+<implicit role="arg1|loss.01" recoverable="True" implicit-role-type="cross-sentence-cataphoric" predstart="9" predend="9" sentence="21">
+			<candidate sentence="22" start="24" end="32"/>
+</implicit>
+
+<implicit role="arg1|price.01" recoverable="True" implicit-role-type="same-sentence" predstart="25" predend="25" sentence="24">
+			<candidate sentence="0" start="11" end="11"/>
+			<candidate sentence="24" start="14" end="26"/>
+</implicit>
+
+<implicit role="arg0|price.01" recoverable="False" implicit-role-type="missing" predstart="25" predend="25" sentence="24"/>
+
+<implicit role="arg3|price.01" recoverable="False" implicit-role-type="missing" predstart="25" predend="25" sentence="24"/>
+
+
+</ISRLSPANS>

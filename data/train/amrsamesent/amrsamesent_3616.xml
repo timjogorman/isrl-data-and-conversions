@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_3616">
+
+<implicit role="arg1|move.02" recoverable="True" implicit-role-type="same-sentence" predstart="27" predend="27" sentence="0">
+    <candidate sentence="0" start="3" end="5"/>
+</implicit>
+
+<implicit role="arg0|conquer.01" recoverable="True" implicit-role-type="same-sentence" predstart="31" predend="31" sentence="0">
+    <candidate sentence="0" start="3" end="5"/>
+</implicit>
+
+<implicit role="arg0|mislead.01" recoverable="True" implicit-role-type="same-sentence" predstart="11" predend="11" sentence="0">
+    <candidate sentence="0" start="3" end="5"/>
+</implicit>
+<implicit role="arg1|effective.04" recoverable="False" implicit-role-type="missing" predstart="6" predend="6" sentence="0"/>
+<implicit role="arg2|defend.01" recoverable="False" implicit-role-type="missing" predstart="25" predend="25" sentence="0"/>
+<implicit role="arg2|high.02" recoverable="False" implicit-role-type="missing" predstart="17" predend="17" sentence="0"/>
+<implicit role="arg0|fear.01" recoverable="False" implicit-role-type="missing" predstart="32" predend="32" sentence="0"/>
+<implicit role="arg1|see.01" recoverable="False" implicit-role-type="missing" predstart="2" predend="2" sentence="0"/>
+<implicit role="arg1|crime.02" recoverable="False" implicit-role-type="missing" predstart="39" predend="39" sentence="0"/>
+<implicit role="arg0|assist.01" recoverable="False" implicit-role-type="missing" predstart="37" predend="37" sentence="0"/>
+</ISRLSPANS>
+

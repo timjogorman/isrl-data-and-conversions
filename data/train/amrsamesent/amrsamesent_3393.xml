@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_3393">
+
+<implicit role="arg1|safe.01" recoverable="True" implicit-role-type="same-sentence" predstart="18" predend="18" sentence="0">
+    <candidate sentence="0" start="7" end="8"/>
+</implicit>
+
+<implicit role="arg1|safe.01" recoverable="True" implicit-role-type="same-sentence" predstart="18" predend="18" sentence="0">
+    <candidate sentence="0" start="7" end="8"/>
+</implicit>
+
+<implicit role="arg1|rape.01" recoverable="True" implicit-role-type="same-sentence" predstart="21" predend="21" sentence="0">
+    <candidate sentence="0" start="7" end="8"/>
+</implicit>
+
+<implicit role="arg1|victimize.01" recoverable="True" implicit-role-type="same-sentence" predstart="22" predend="22" sentence="0">
+    <candidate sentence="0" start="7" end="8"/>
+</implicit>
+<implicit role="arg0|act.02" recoverable="False" implicit-role-type="missing" predstart="2" predend="2" sentence="0"/>
+<implicit role="arg1|care.01" recoverable="False" implicit-role-type="missing" predstart="11" predend="11" sentence="0"/>
+<implicit role="arg2|choose.01" recoverable="False" implicit-role-type="missing" predstart="14" predend="14" sentence="0"/>
+<implicit role="arg3|have_rel_role.91" recoverable="False" implicit-role-type="missing" predstart="17" predend="17" sentence="0"/>
+</ISRLSPANS>
+

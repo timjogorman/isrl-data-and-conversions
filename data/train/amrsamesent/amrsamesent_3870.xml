@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_3870">
+
+<implicit role="arg1|give_away.02" recoverable="True" implicit-role-type="same-sentence" predstart="45" predend="45" sentence="0">
+    <candidate sentence="0" start="0" end="10"/>
+</implicit>
+
+<implicit role="arg1|give.01" recoverable="True" implicit-role-type="same-sentence" predstart="27" predend="27" sentence="0">
+    <candidate sentence="0" start="0" end="10"/>
+</implicit>
+
+<implicit role="arg1|feed.01" recoverable="True" implicit-role-type="same-sentence" predstart="33" predend="33" sentence="0">
+    <candidate sentence="0" start="0" end="10"/>
+</implicit>
+
+<implicit role="arg1|use.01" recoverable="True" implicit-role-type="same-sentence" predstart="31" predend="31" sentence="0">
+    <candidate sentence="0" start="0" end="10"/>
+</implicit>
+
+<implicit role="arg1|cook.01" recoverable="True" implicit-role-type="same-sentence" predstart="48" predend="48" sentence="0">
+    <candidate sentence="0" start="0" end="10"/>
+</implicit>
+
+<implicit role="arg1|eat.01" recoverable="True" implicit-role-type="same-sentence" predstart="25" predend="25" sentence="0">
+    <candidate sentence="0" start="0" end="10"/>
+</implicit>
+<implicit role="arg0|give_away.02" recoverable="False" implicit-role-type="missing" predstart="12" predend="12" sentence="0"/>
+<implicit role="arg1|have_concession.91" recoverable="False" implicit-role-type="missing" predstart="16" predend="16" sentence="0"/>
+<implicit role="arg0|limit.01" recoverable="False" implicit-role-type="missing" predstart="20" predend="20" sentence="0"/>
+<implicit role="arg0|permit.01" recoverable="False" implicit-role-type="missing" predstart="23" predend="23" sentence="0"/>
+<implicit role="arg0|sacrifice.01" recoverable="False" implicit-role-type="missing" predstart="4" predend="4" sentence="0"/>
+<implicit role="arg2|want.01" recoverable="False" implicit-role-type="missing" predstart="43" predend="43" sentence="0"/>
+</ISRLSPANS>
+

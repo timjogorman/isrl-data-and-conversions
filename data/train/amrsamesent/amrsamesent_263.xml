@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_263">
+
+<implicit role="arg1|marry.01" recoverable="True" implicit-role-type="same-sentence" predstart="6" predend="6" sentence="0">
+    <candidate sentence="0" start="0" end="2"/>
+</implicit>
+</ISRLSPANS>
+

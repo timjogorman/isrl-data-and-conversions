@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ISRLSPANS sourcefile="msamr_dfa_078">
+  <implicit role="arg2|govern.01" recoverable="False" implicit-role-type="missing" sentence="4" predstart="17" predend="17" pos="NOUN"/>
+  <implicit role="arg1|bluster.01" recoverable="False" implicit-role-type="missing" sentence="4" predstart="34" predend="34" pos="NOUN"/>
+  <implicit role="arg1|govern.01" recoverable="False" implicit-role-type="missing" sentence="4" predstart="17" predend="17" pos="NOUN"/>
+  <implicit role="arg2|bluster.01" recoverable="False" implicit-role-type="missing" sentence="4" predstart="34" predend="34" pos="NOUN"/>
+  <implicit role="arg0|cover.03" recoverable="False" implicit-role-type="missing" sentence="4" predstart="7" predend="7" pos="NOUN"/>
+  <implicit role="arg0|crime.02" recoverable="False" implicit-role-type="missing" sentence="3" predstart="15" predend="15" pos="NOUN"/>
+  <implicit role="arg0|cover.03" recoverable="False" implicit-role-type="missing" sentence="3" predstart="12" predend="12" pos="NOUN"/>
+  <implicit role="arg0|commit.02" recoverable="False" implicit-role-type="missing" sentence="3" predstart="17" predend="17" pos="VERB"/>
+  <implicit role="arg1|crime.02" recoverable="False" implicit-role-type="missing" sentence="3" predstart="15" predend="15" pos="NOUN"/>
+  <implicit role="arg0|blame.01" recoverable="False" implicit-role-type="missing" sentence="3" predstart="22" predend="22" pos="VERB"/>
+  <implicit role="arg0|turn_up.15" recoverable="False" implicit-role-type="missing" sentence="2" predstart="5" predend="5" pos="VERB"/>
+  <implicit role="arg1|appall.01" recoverable="False" implicit-role-type="missing" sentence="1" predstart="8" predend="8" pos="ADJ"/>
+  <implicit role="arg0|open.02" recoverable="False" implicit-role-type="missing" sentence="0" predstart="10" predend="10" pos="NOUN"/>
+  <implicit role="arg2|forge.02" recoverable="False" implicit-role-type="missing" sentence="0" predstart="3" predend="3" pos="VERB"/>
+  <implicit role="arg4|forge.02" recoverable="False" implicit-role-type="missing" sentence="0" predstart="3" predend="3" pos="VERB"/>
+</ISRLSPANS>

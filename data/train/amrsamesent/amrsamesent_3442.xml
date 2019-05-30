@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_3442">
+
+<implicit role="arg2|pay.01" recoverable="True" implicit-role-type="same-sentence" predstart="25" predend="25" sentence="0">
+    <candidate sentence="0" start="47" end="49"/>
+</implicit>
+
+<implicit role="arg0|retire.01" recoverable="True" implicit-role-type="same-sentence" predstart="32" predend="32" sentence="0">
+    <candidate sentence="0" start="43" end="44"/>
+</implicit>
+
+<implicit role="arg0|recognize.01" recoverable="True" implicit-role-type="same-sentence" predstart="63" predend="63" sentence="0">
+    <candidate sentence="0" start="45" end="46"/>
+</implicit>
+
+<implicit role="arg0|contribute.01" recoverable="True" implicit-role-type="same-sentence" predstart="54" predend="54" sentence="0">
+    <candidate sentence="0" start="43" end="44"/>
+</implicit>
+<implicit role="arg1|have_rel_role.91" recoverable="False" implicit-role-type="missing" predstart="44" predend="44" sentence="0"/>
+<implicit role="arg2|high.02" recoverable="False" implicit-role-type="missing" predstart="58" predend="58" sentence="0"/>
+<implicit role="arg0|base.02" recoverable="False" implicit-role-type="missing" predstart="49" predend="49" sentence="0"/>
+<implicit role="arg2|die.01" recoverable="False" implicit-role-type="missing" predstart="40" predend="40" sentence="0"/>
+<implicit role="arg1|survive.02" recoverable="False" implicit-role-type="missing" predstart="43" predend="43" sentence="0"/>
+<implicit role="arg0|support.01" recoverable="False" implicit-role-type="missing" predstart="67" predend="67" sentence="0"/>
+<implicit role="arg0|marry.01" recoverable="False" implicit-role-type="missing" predstart="71" predend="71" sentence="0"/>
+<implicit role="arg0|marry.01" recoverable="False" implicit-role-type="missing" predstart="9" predend="9" sentence="0"/>
+<implicit role="arg0|age.01" recoverable="False" implicit-role-type="missing" predstart="33" predend="33" sentence="0"/>
+<implicit role="arg0|prescribe.01" recoverable="False" implicit-role-type="missing" predstart="12" predend="12" sentence="0"/>
+<implicit role="arg2|draw.02" recoverable="False" implicit-role-type="missing" predstart="46" predend="46" sentence="0"/>
+<implicit role="arg1|work.01" recoverable="False" implicit-role-type="missing" predstart="22" predend="22" sentence="0"/>
+</ISRLSPANS>
+

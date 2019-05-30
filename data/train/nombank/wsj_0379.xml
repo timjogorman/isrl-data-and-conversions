@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="wsj_0379">
+<implicit role="arg0|invest.01" recoverable="True" implicit-role-type="same-sentence" predstart="12" predend="12" sentence="1">
+			<candidate sentence="0" start="0" end="1"/>
+			<candidate sentence="0" start="3" end="3"/>
+			<candidate sentence="0" start="9" end="9"/>
+			<candidate sentence="1" start="2" end="5"/>
+			<candidate sentence="1" start="7" end="8"/>
+</implicit>
+
+<implicit role="arg1|invest.01" recoverable="True" implicit-role-type="same-sentence" predstart="12" predend="12" sentence="1">
+			<candidate sentence="1" start="28" end="30"/>
+</implicit>
+
+<implicit role="arg0|fund.01" recoverable="True" implicit-role-type="same-sentence" predstart="42" predend="42" sentence="1">
+			<candidate sentence="0" start="0" end="1"/>
+			<candidate sentence="0" start="3" end="3"/>
+			<candidate sentence="0" start="9" end="9"/>
+			<candidate sentence="1" start="2" end="5"/>
+			<candidate sentence="1" start="7" end="8"/>
+</implicit>
+
+<implicit role="arg1|fund.01" recoverable="True" implicit-role-type="same-sentence" predstart="42" predend="42" sentence="1">
+			<candidate sentence="1" start="14" end="16"/>
+			<candidate sentence="1" start="46" end="46"/>
+</implicit>
+
+
+</ISRLSPANS>

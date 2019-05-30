@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_834">
+
+<implicit role="arg2|call.01" recoverable="True" implicit-role-type="same-sentence" predstart="106" predend="106" sentence="0">
+    <candidate sentence="0" start="100" end="101"/>
+</implicit>
+
+<implicit role="arg1|exemplify.01" recoverable="True" implicit-role-type="same-sentence" predstart="50" predend="50" sentence="0">
+    <candidate sentence="0" start="55" end="56"/>
+</implicit>
+
+<implicit role="arg0|exemplify.01" recoverable="True" implicit-role-type="same-sentence" predstart="50" predend="50" sentence="0">
+    <candidate sentence="0" start="58" end="67"/>
+</implicit>
+<implicit role="arg4|have_degree.91" recoverable="False" implicit-role-type="missing" predstart="39" predend="39" sentence="0"/>
+<implicit role="arg0|explode.01" recoverable="False" implicit-role-type="missing" predstart="100" predend="100" sentence="0"/>
+<implicit role="arg0|stack.01" recoverable="False" implicit-role-type="missing" predstart="92" predend="92" sentence="0"/>
+<implicit role="arg0|kill.01" recoverable="False" implicit-role-type="missing" predstart="35" predend="35" sentence="0"/>
+<implicit role="arg2|special.02" recoverable="False" implicit-role-type="missing" predstart="79" predend="79" sentence="0"/>
+<implicit role="arg2|show.01" recoverable="False" implicit-role-type="missing" predstart="75" predend="75" sentence="0"/>
+<implicit role="arg2|read.01" recoverable="False" implicit-role-type="missing" predstart="72" predend="72" sentence="0"/>
+<implicit role="arg2|kill.01" recoverable="False" implicit-role-type="missing" predstart="62" predend="62" sentence="0"/>
+<implicit role="arg0|investigate.01" recoverable="False" implicit-role-type="missing" predstart="74" predend="74" sentence="0"/>
+<implicit role="arg0|improvise.01" recoverable="False" implicit-role-type="missing" predstart="61" predend="61" sentence="0"/>
+<implicit role="arg0|improvise.01" recoverable="False" implicit-role-type="missing" predstart="82" predend="82" sentence="0"/>
+<implicit role="arg0|address.01" recoverable="False" implicit-role-type="missing" predstart="27" predend="27" sentence="0"/>
+<implicit role="arg2|counter.01" recoverable="False" implicit-role-type="missing" predstart="88" predend="88" sentence="0"/>
+<implicit role="arg0|anger.01" recoverable="False" implicit-role-type="missing" predstart="15" predend="15" sentence="0"/>
+<implicit role="arg0|blast.05" recoverable="False" implicit-role-type="missing" predstart="33" predend="33" sentence="0"/>
+<implicit role="arg1|return.01" recoverable="False" implicit-role-type="missing" predstart="26" predend="26" sentence="0"/>
+<implicit role="arg2|make.01" recoverable="False" implicit-role-type="missing" predstart="7" predend="7" sentence="0"/>
+<implicit role="arg2|round.06" recoverable="False" implicit-role-type="missing" predstart="22" predend="22" sentence="0"/>
+<implicit role="arg2|long.03" recoverable="False" implicit-role-type="missing" predstart="21" predend="21" sentence="0"/>
+<implicit role="arg1|near.02" recoverable="False" implicit-role-type="missing" predstart="65" predend="65" sentence="0"/>
+</ISRLSPANS>
+

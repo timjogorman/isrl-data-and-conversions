@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="wsj_2402">
+<implicit role="arg1|price.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" predstart="15" predend="15" sentence="16">
+			<candidate sentence="10" start="11" end="11"/>
+			<candidate sentence="14" start="6" end="6"/>
+</implicit>
+
+<implicit role="arg0|price.01" recoverable="False" implicit-role-type="missing" predstart="15" predend="15" sentence="16"/>
+
+<implicit role="arg3|price.01" recoverable="False" implicit-role-type="missing" predstart="15" predend="15" sentence="16"/>
+
+<implicit role="arg3|cost.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" predstart="2" predend="2" sentence="35">
+			<candidate sentence="1" start="21" end="22"/>
+			<candidate sentence="1" start="18" end="22"/>
+			<candidate sentence="34" start="9" end="9"/>
+</implicit>
+
+<implicit role="arg2|cost.01" recoverable="True" implicit-role-type="same-sentence" predstart="2" predend="2" sentence="35">
+			<candidate sentence="35" start="4" end="14"/>
+</implicit>
+
+<implicit role="arg3|cost.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" predstart="25" predend="25" sentence="35">
+			<candidate sentence="1" start="21" end="22"/>
+			<candidate sentence="1" start="18" end="22"/>
+			<candidate sentence="34" start="9" end="9"/>
+</implicit>
+
+<implicit role="arg2|cost.01" recoverable="False" implicit-role-type="missing" predstart="25" predend="25" sentence="35"/>
+
+<implicit role="arg0|loss.01" recoverable="True" implicit-role-type="same-sentence" predstart="4" predend="4" sentence="12">
+			<candidate sentence="10" start="7" end="7"/>
+			<candidate sentence="10" start="7" end="13"/>
+			<candidate sentence="11" start="3" end="3"/>
+			<candidate sentence="12" start="12" end="12"/>
+</implicit>
+
+<implicit role="arg1|loss.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" predstart="4" predend="4" sentence="12">
+			<candidate sentence="10" start="18" end="19"/>
+			<candidate sentence="11" start="6" end="6"/>
+</implicit>
+
+
+</ISRLSPANS>

@@ -1,0 +1,106 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ISRLSPANS sourcefile="msamr_dfa_108">
+  <implicit role="arg1|start_off.02" recoverable="True" implicit-role-type="cross-sentence-anaphoric" sentence="4" predstart="10" predend="10" pos="VERB">
+    <candidate sentence="0" start="8" end="8"/>
+  </implicit>
+  <implicit role="arg1|rent.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" sentence="11" predstart="20" predend="20" pos="NOUN">
+    <candidate sentence="12" start="7" end="10"/>
+    <candidate sentence="10" start="0" end="3"/>
+    <candidate sentence="10" start="21" end="22"/>
+    <candidate sentence="10" start="11" end="12"/>
+  </implicit>
+  <implicit role="arg0|rent.01" recoverable="True" implicit-role-type="same-sentence" sentence="11" predstart="20" predend="20" pos="NOUN">
+    <candidate sentence="6" start="1" end="5"/>
+    <candidate sentence="7" start="2" end="2"/>
+    <candidate sentence="10" start="7" end="7"/>
+    <candidate sentence="4" start="5" end="5"/>
+    <candidate sentence="11" start="15" end="15"/>
+    <candidate sentence="12" start="2" end="2"/>
+    <candidate sentence="12" start="12" end="12"/>
+    <candidate sentence="8" start="15" end="15"/>
+  </implicit>
+  <implicit role="arg0|find.01" recoverable="True" implicit-role-type="same-sentence" sentence="4" predstart="21" predend="21" pos="VERB">
+    <candidate sentence="6" start="1" end="5"/>
+    <candidate sentence="7" start="2" end="2"/>
+    <candidate sentence="10" start="7" end="7"/>
+    <candidate sentence="4" start="5" end="5"/>
+    <candidate sentence="11" start="15" end="15"/>
+    <candidate sentence="12" start="2" end="2"/>
+    <candidate sentence="12" start="12" end="12"/>
+    <candidate sentence="8" start="15" end="15"/>
+  </implicit>
+  <implicit role="arg0|get.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" sentence="9" predstart="3" predend="3" pos="VERB">
+    <candidate sentence="6" start="1" end="5"/>
+    <candidate sentence="7" start="2" end="2"/>
+    <candidate sentence="10" start="7" end="7"/>
+    <candidate sentence="4" start="5" end="5"/>
+    <candidate sentence="11" start="15" end="15"/>
+    <candidate sentence="12" start="2" end="2"/>
+    <candidate sentence="12" start="12" end="12"/>
+    <candidate sentence="8" start="15" end="15"/>
+  </implicit>
+  <implicit role="arg0|share.01" recoverable="True" implicit-role-type="same-sentence" sentence="10" predstart="1" predend="1" pos="VERB">
+    <candidate sentence="6" start="1" end="5"/>
+    <candidate sentence="7" start="2" end="2"/>
+    <candidate sentence="10" start="7" end="7"/>
+    <candidate sentence="4" start="5" end="5"/>
+    <candidate sentence="11" start="15" end="15"/>
+    <candidate sentence="12" start="2" end="2"/>
+    <candidate sentence="12" start="12" end="12"/>
+    <candidate sentence="8" start="15" end="15"/>
+  </implicit>
+  <implicit role="arg0|chance.02" recoverable="True" implicit-role-type="cross-sentence-anaphoric" sentence="9" predstart="1" predend="1" pos="NOUN">
+    <candidate sentence="6" start="1" end="5"/>
+    <candidate sentence="7" start="2" end="2"/>
+    <candidate sentence="10" start="7" end="7"/>
+    <candidate sentence="4" start="5" end="5"/>
+    <candidate sentence="11" start="15" end="15"/>
+    <candidate sentence="12" start="2" end="2"/>
+    <candidate sentence="12" start="12" end="12"/>
+    <candidate sentence="8" start="15" end="15"/>
+  </implicit>
+  <implicit role="arg2|rent.01" recoverable="True" implicit-role-type="same-sentence" sentence="11" predstart="20" predend="20" pos="NOUN">
+    <candidate sentence="11" start="11" end="13"/>
+  </implicit>
+  <implicit role="arg2|pay.01" recoverable="True" implicit-role-type="same-sentence" sentence="11" predstart="17" predend="17" pos="VERB">
+    <candidate sentence="11" start="11" end="13"/>
+  </implicit>
+  <implicit role="arg1|mortgage.01" recoverable="False" implicit-role-type="missing" sentence="8" predstart="12" predend="12" pos="NOUN"/>
+  <implicit role="arg2|consider.02" recoverable="False" implicit-role-type="missing" sentence="8" predstart="10" predend="10" pos="VERB"/>
+  <implicit role="arg0|mortgage.01" recoverable="False" implicit-role-type="missing" sentence="8" predstart="12" predend="12" pos="NOUN"/>
+  <implicit role="arg0|consider.02" recoverable="False" implicit-role-type="missing" sentence="8" predstart="10" predend="10" pos="VERB"/>
+  <implicit role="arg3|mortgage.01" recoverable="False" implicit-role-type="missing" sentence="8" predstart="12" predend="12" pos="NOUN"/>
+  <implicit role="arg2|mortgage.01" recoverable="False" implicit-role-type="missing" sentence="8" predstart="12" predend="12" pos="NOUN"/>
+  <implicit role="arg3|earn.01" recoverable="False" implicit-role-type="missing" sentence="3" predstart="9" predend="9" pos="VERB"/>
+  <implicit role="arg3|earn.01" recoverable="False" implicit-role-type="missing" sentence="3" predstart="2" predend="2" pos="VERB"/>
+  <implicit role="arg3|get.01" recoverable="False" implicit-role-type="missing" sentence="4" predstart="6" predend="6" pos="VERB"/>
+  <implicit role="arg2|get.01" recoverable="False" implicit-role-type="missing" sentence="4" predstart="6" predend="6" pos="VERB"/>
+  <implicit role="arg0|appreciate.02" recoverable="False" implicit-role-type="missing" sentence="5" predstart="4" predend="4" pos="VERB"/>
+  <implicit role="arg2|thank.01" recoverable="False" implicit-role-type="missing" sentence="5" predstart="6" predend="6" pos="NOUN"/>
+  <implicit role="arg0|value.01" recoverable="False" implicit-role-type="missing" sentence="6" predstart="2" predend="2" pos="NOUN"/>
+  <implicit role="arg1|live.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="13" predend="13" pos="VERB"/>
+  <implicit role="arg2|look_up.05" recoverable="False" implicit-role-type="missing" sentence="0" predstart="6" predend="6" pos="VERB"/>
+  <implicit role="arg3|buy.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="8" predend="8" pos="VERB"/>
+  <implicit role="arg2|buy.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="8" predend="8" pos="VERB"/>
+  <implicit role="arg2|good.02" recoverable="False" implicit-role-type="missing" sentence="1" predstart="13" predend="13" pos="ADJ"/>
+  <implicit role="arg3|mortgage.01" recoverable="False" implicit-role-type="missing" sentence="1" predstart="5" predend="5" pos="NOUN"/>
+  <implicit role="arg0|look.01" recoverable="False" implicit-role-type="missing" sentence="1" predstart="15" predend="15" pos="VERB"/>
+  <implicit role="arg1|mortgage.01" recoverable="False" implicit-role-type="missing" sentence="1" predstart="5" predend="5" pos="NOUN"/>
+  <implicit role="arg2|mortgage.01" recoverable="False" implicit-role-type="missing" sentence="1" predstart="5" predend="5" pos="NOUN"/>
+  <implicit role="arg0|mortgage.01" recoverable="False" implicit-role-type="missing" sentence="1" predstart="5" predend="5" pos="NOUN"/>
+  <implicit role="arg2|good.02" recoverable="False" implicit-role-type="missing" sentence="2" predstart="15" predend="15" pos="ADJ"/>
+  <implicit role="arg2|house.01" recoverable="False" implicit-role-type="missing" sentence="11" predstart="12" predend="12" pos="NOUN"/>
+  <implicit role="arg1|house.01" recoverable="False" implicit-role-type="missing" sentence="11" predstart="12" predend="12" pos="NOUN"/>
+  <implicit role="arg2|get.01" recoverable="False" implicit-role-type="missing" sentence="12" predstart="15" predend="15" pos="VERB"/>
+  <implicit role="arg0|mortgage.01" recoverable="False" implicit-role-type="missing" sentence="12" predstart="19" predend="19" pos="NOUN"/>
+  <implicit role="arg2|mortgage.01" recoverable="False" implicit-role-type="missing" sentence="12" predstart="19" predend="19" pos="NOUN"/>
+  <implicit role="arg1|mortgage.01" recoverable="False" implicit-role-type="missing" sentence="12" predstart="19" predend="19" pos="NOUN"/>
+  <implicit role="arg3|get.01" recoverable="False" implicit-role-type="missing" sentence="12" predstart="15" predend="15" pos="VERB"/>
+  <implicit role="arg3|mortgage.01" recoverable="False" implicit-role-type="missing" sentence="12" predstart="19" predend="19" pos="NOUN"/>
+  <implicit role="arg0|honest.01" recoverable="False" implicit-role-type="missing" sentence="9" predstart="12" predend="12" pos="ADJ"/>
+  <implicit role="arg2|honest.01" recoverable="False" implicit-role-type="missing" sentence="9" predstart="12" predend="12" pos="ADJ"/>
+  <implicit role="arg1|honest.01" recoverable="False" implicit-role-type="missing" sentence="9" predstart="12" predend="12" pos="ADJ"/>
+  <implicit role="arg1|exemplify.01" recoverable="False" implicit-role-type="missing" sentence="10" predstart="25" predend="25" pos="NOUN"/>
+  <implicit role="arg3|buy.01" recoverable="False" implicit-role-type="missing" sentence="10" predstart="10" predend="10" pos="VERB"/>
+  <implicit role="arg2|buy.01" recoverable="False" implicit-role-type="missing" sentence="10" predstart="10" predend="10" pos="VERB"/>
+</ISRLSPANS>

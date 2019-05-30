@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="wsj_0305">
+<implicit role="arg1|sell.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" predstart="18" predend="18" sentence="28">
+			<candidate sentence="0" start="22" end="22"/>
+			<candidate sentence="12" start="6" end="8"/>
+			<candidate sentence="21" start="17" end="17"/>
+			<candidate sentence="21" start="21" end="21"/>
+			<candidate sentence="23" start="6" end="7"/>
+			<candidate sentence="23" start="19" end="20"/>
+			<candidate sentence="27" start="7" end="7"/>
+</implicit>
+
+<implicit role="arg2|sell.01" recoverable="False" implicit-role-type="missing" predstart="18" predend="18" sentence="28"/>
+
+<implicit role="arg4|sell.01" recoverable="False" implicit-role-type="missing" predstart="18" predend="18" sentence="28"/>
+
+<implicit role="arg0|invest.01" recoverable="False" implicit-role-type="missing" predstart="34" predend="34" sentence="14"/>
+
+<implicit role="arg1|invest.01" recoverable="False" implicit-role-type="missing" predstart="34" predend="34" sentence="14"/>
+
+<implicit role="arg2|invest.01" recoverable="False" implicit-role-type="missing" predstart="34" predend="34" sentence="14"/>
+
+<implicit role="arg1|sell.01" recoverable="True" implicit-role-type="same-sentence" predstart="15" predend="15" sentence="27">
+			<candidate sentence="0" start="22" end="22"/>
+			<candidate sentence="12" start="6" end="8"/>
+			<candidate sentence="21" start="17" end="17"/>
+			<candidate sentence="21" start="21" end="21"/>
+			<candidate sentence="23" start="6" end="7"/>
+			<candidate sentence="23" start="19" end="20"/>
+			<candidate sentence="27" start="7" end="7"/>
+</implicit>
+
+<implicit role="arg2|sell.01" recoverable="False" implicit-role-type="missing" predstart="15" predend="15" sentence="27"/>
+
+<implicit role="arg4|sell.01" recoverable="False" implicit-role-type="missing" predstart="15" predend="15" sentence="27"/>
+
+<implicit role="arg1|sell.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" predstart="32" predend="32" sentence="30">
+			<candidate sentence="0" start="22" end="22"/>
+			<candidate sentence="12" start="6" end="8"/>
+			<candidate sentence="21" start="17" end="17"/>
+			<candidate sentence="21" start="21" end="21"/>
+			<candidate sentence="23" start="6" end="7"/>
+			<candidate sentence="23" start="19" end="20"/>
+			<candidate sentence="27" start="7" end="7"/>
+</implicit>
+
+<implicit role="arg0|sell.01" recoverable="False" implicit-role-type="missing" predstart="32" predend="32" sentence="30"/>
+
+<implicit role="arg2|sell.01" recoverable="False" implicit-role-type="missing" predstart="32" predend="32" sentence="30"/>
+
+<implicit role="arg3|sell.01" recoverable="False" implicit-role-type="missing" predstart="32" predend="32" sentence="30"/>
+
+<implicit role="arg4|sell.01" recoverable="False" implicit-role-type="missing" predstart="32" predend="32" sentence="30"/>
+
+<implicit role="arg1|sell.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" predstart="35" predend="35" sentence="27">
+			<candidate sentence="4" start="24" end="24"/>
+			<candidate sentence="4" start="25" end="25"/>
+			<candidate sentence="4" start="26" end="26"/>
+			<candidate sentence="10" start="15" end="15"/>
+			<candidate sentence="15" start="2" end="2"/>
+</implicit>
+
+<implicit role="arg2|sell.01" recoverable="False" implicit-role-type="missing" predstart="35" predend="35" sentence="27"/>
+
+<implicit role="arg4|sell.01" recoverable="False" implicit-role-type="missing" predstart="35" predend="35" sentence="27"/>
+
+<implicit role="arg0|sell.01" recoverable="False" implicit-role-type="missing" predstart="38" predend="38" sentence="28"/>
+
+<implicit role="arg1|sell.01" recoverable="False" implicit-role-type="missing" predstart="38" predend="38" sentence="28"/>
+
+<implicit role="arg2|sell.01" recoverable="False" implicit-role-type="missing" predstart="38" predend="38" sentence="28"/>
+
+<implicit role="arg3|sell.01" recoverable="False" implicit-role-type="missing" predstart="38" predend="38" sentence="28"/>
+
+<implicit role="arg4|sell.01" recoverable="False" implicit-role-type="missing" predstart="38" predend="38" sentence="28"/>
+
+<implicit role="arg3|cost.01" recoverable="True" implicit-role-type="same-sentence" predstart="15" predend="15" sentence="12">
+			<candidate sentence="0" start="25" end="27"/>
+			<candidate sentence="0" start="18" end="27"/>
+			<candidate sentence="1" start="26" end="27"/>
+			<candidate sentence="2" start="14" end="15"/>
+			<candidate sentence="3" start="8" end="11"/>
+			<candidate sentence="4" start="13" end="20"/>
+			<candidate sentence="7" start="24" end="27"/>
+			<candidate sentence="8" start="2" end="3"/>
+			<candidate sentence="8" start="8" end="8"/>
+			<candidate sentence="9" start="6" end="8"/>
+			<candidate sentence="10" start="2" end="4"/>
+			<candidate sentence="10" start="12" end="13"/>
+			<candidate sentence="10" start="25" end="25"/>
+			<candidate sentence="10" start="34" end="35"/>
+			<candidate sentence="11" start="8" end="9"/>
+			<candidate sentence="12" start="6" end="7"/>
+			<candidate sentence="12" start="17" end="18"/>
+</implicit>
+
+<implicit role="arg2|cost.01" recoverable="False" implicit-role-type="missing" predstart="15" predend="15" sentence="12"/>
+
+
+</ISRLSPANS>

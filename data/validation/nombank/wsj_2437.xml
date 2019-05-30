@@ -1,0 +1,30 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="wsj_2437">
+<implicit role="arg0|sell.01" recoverable="True" implicit-role-type="same-sentence" predstart="6" predend="6" sentence="3">
+			<candidate sentence="0" start="0" end="4"/>
+			<candidate sentence="0" start="6" end="6"/>
+			<candidate sentence="1" start="0" end="3"/>
+			<candidate sentence="1" start="13" end="13"/>
+			<candidate sentence="2" start="0" end="0"/>
+			<candidate sentence="2" start="7" end="7"/>
+			<candidate sentence="3" start="2" end="2"/>
+			<candidate sentence="3" start="4" end="4"/>
+</implicit>
+
+<implicit role="arg1|sell.01" recoverable="True" implicit-role-type="same-sentence" predstart="6" predend="6" sentence="3">
+			<candidate sentence="1" start="2" end="2"/>
+			<candidate sentence="3" start="25" end="27"/>
+</implicit>
+
+<implicit role="arg3|sell.01" recoverable="True" implicit-role-type="same-sentence" predstart="6" predend="6" sentence="3">
+			<candidate sentence="3" start="17" end="19"/>
+			<candidate sentence="3" start="13" end="19"/>
+</implicit>
+
+<implicit role="arg2|sell.01" recoverable="False" implicit-role-type="missing" predstart="6" predend="6" sentence="3"/>
+
+<implicit role="arg4|sell.01" recoverable="False" implicit-role-type="missing" predstart="6" predend="6" sentence="3"/>
+
+
+</ISRLSPANS>

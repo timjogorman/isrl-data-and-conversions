@@ -1,0 +1,21 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="wsj_2412">
+<implicit role="arg2|cost.01" recoverable="False" implicit-role-type="missing" predstart="31" predend="31" sentence="64"/>
+
+<implicit role="arg2|plan.01" recoverable="False" implicit-role-type="missing" predstart="12" predend="12" sentence="6"/>
+
+<implicit role="arg3|plan.01" recoverable="False" implicit-role-type="missing" predstart="12" predend="12" sentence="6"/>
+
+<implicit role="arg1|cost.01" recoverable="True" implicit-role-type="same-sentence" predstart="18" predend="18" sentence="14">
+			<candidate sentence="13" start="8" end="13"/>
+			<candidate sentence="14" start="7" end="7"/>
+			<candidate sentence="14" start="12" end="12"/>
+</implicit>
+
+<implicit role="arg2|cost.01" recoverable="False" implicit-role-type="missing" predstart="18" predend="18" sentence="14"/>
+
+<implicit role="arg3|cost.01" recoverable="False" implicit-role-type="missing" predstart="18" predend="18" sentence="14"/>
+
+
+</ISRLSPANS>

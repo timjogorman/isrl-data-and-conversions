@@ -1,0 +1,1298 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ISRLSPANS sourcefile="hound14-2">
+  <implicit role="arg0|give.01" recoverable="True" sentence="11" predstart="1" predend="1" pos="VERB" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="8" start="1" end="1"/>
+    <candidate sentence="20" start="9" end="9"/>
+    <candidate sentence="37" start="12" end="12"/>
+    <candidate sentence="8" start="1" end="1"/>
+    <candidate sentence="106" start="1" end="1"/>
+    <candidate sentence="14" start="2" end="2"/>
+    <candidate sentence="130" start="2" end="2"/>
+    <candidate sentence="71" start="12" end="12"/>
+    <candidate sentence="137" start="37" end="37"/>
+    <candidate sentence="104" start="3" end="3"/>
+    <candidate sentence="37" start="0" end="0"/>
+    <candidate sentence="104" start="25" end="25"/>
+    <candidate sentence="104" start="6" end="6"/>
+    <candidate sentence="6" start="0" end="0"/>
+    <candidate sentence="30" start="10" end="10"/>
+    <candidate sentence="137" start="39" end="39"/>
+    <candidate sentence="3" start="9" end="9"/>
+    <candidate sentence="104" start="0" end="0"/>
+    <candidate sentence="137" start="0" end="0"/>
+    <candidate sentence="79" start="0" end="0"/>
+    <candidate sentence="104" start="23" end="23"/>
+    <candidate sentence="48" start="6" end="6"/>
+    <candidate sentence="108" start="10" end="10"/>
+    <candidate sentence="105" start="0" end="0"/>
+    <candidate sentence="104" start="30" end="30"/>
+    <candidate sentence="23" start="15" end="15"/>
+    <candidate sentence="13" start="3" end="3"/>
+    <candidate sentence="127" start="6" end="6"/>
+    <candidate sentence="137" start="9" end="9"/>
+    <candidate sentence="90" start="10" end="10"/>
+    <candidate sentence="80" start="5" end="5"/>
+  </implicit>
+  <implicit role="arg0|leave.15" recoverable="True" sentence="15" predstart="2" predend="2" pos="VERB" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="14" start="2" end="2"/>
+    <candidate sentence="20" start="9" end="9"/>
+    <candidate sentence="37" start="12" end="12"/>
+    <candidate sentence="8" start="1" end="1"/>
+    <candidate sentence="106" start="1" end="1"/>
+    <candidate sentence="14" start="2" end="2"/>
+    <candidate sentence="130" start="2" end="2"/>
+    <candidate sentence="71" start="12" end="12"/>
+    <candidate sentence="137" start="37" end="37"/>
+    <candidate sentence="104" start="3" end="3"/>
+    <candidate sentence="37" start="0" end="0"/>
+    <candidate sentence="104" start="25" end="25"/>
+    <candidate sentence="104" start="6" end="6"/>
+    <candidate sentence="6" start="0" end="0"/>
+    <candidate sentence="30" start="10" end="10"/>
+    <candidate sentence="137" start="39" end="39"/>
+    <candidate sentence="3" start="9" end="9"/>
+    <candidate sentence="104" start="0" end="0"/>
+    <candidate sentence="137" start="0" end="0"/>
+    <candidate sentence="79" start="0" end="0"/>
+    <candidate sentence="104" start="23" end="23"/>
+    <candidate sentence="48" start="6" end="6"/>
+    <candidate sentence="108" start="10" end="10"/>
+    <candidate sentence="105" start="0" end="0"/>
+    <candidate sentence="104" start="30" end="30"/>
+    <candidate sentence="23" start="15" end="15"/>
+    <candidate sentence="13" start="3" end="3"/>
+    <candidate sentence="127" start="6" end="6"/>
+    <candidate sentence="137" start="9" end="9"/>
+    <candidate sentence="90" start="10" end="10"/>
+    <candidate sentence="80" start="5" end="5"/>
+  </implicit>
+  <implicit role="arg1|wait.01" recoverable="True" sentence="17" predstart="3" predend="3" pos="VERB" implicit-role-type="same-sentence">
+    <candidate sentence="17" start="5" end="9"/>
+  </implicit>
+  <implicit role="arg2|important.01" recoverable="True" sentence="21" predstart="15" predend="15" pos="NOUN" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="21" start="4" end="4"/>
+    <candidate sentence="45" start="32" end="32"/>
+    <candidate sentence="117" start="32" end="32"/>
+    <candidate sentence="101" start="8" end="8"/>
+    <candidate sentence="88" start="8" end="8"/>
+    <candidate sentence="21" start="4" end="4"/>
+    <candidate sentence="121" start="2" end="2"/>
+    <candidate sentence="40" start="13" end="13"/>
+    <candidate sentence="22" start="2" end="2"/>
+    <candidate sentence="135" start="21" end="21"/>
+    <candidate sentence="5" start="0" end="0"/>
+    <candidate sentence="23" start="7" end="7"/>
+    <candidate sentence="7" start="4" end="4"/>
+    <candidate sentence="31" start="3" end="3"/>
+    <candidate sentence="100" start="26" end="26"/>
+    <candidate sentence="97" start="22" end="22"/>
+    <candidate sentence="100" start="18" end="18"/>
+    <candidate sentence="102" start="14" end="14"/>
+    <candidate sentence="22" start="7" end="7"/>
+    <candidate sentence="23" start="20" end="20"/>
+    <candidate sentence="67" start="18" end="18"/>
+    <candidate sentence="96" start="14" end="14"/>
+    <candidate sentence="19" start="0" end="0"/>
+    <candidate sentence="101" start="44" end="44"/>
+    <candidate sentence="89" start="4" end="4"/>
+    <candidate sentence="22" start="10" end="10"/>
+    <candidate sentence="100" start="46" end="46"/>
+    <candidate sentence="17" start="9" end="9"/>
+    <candidate sentence="72" start="5" end="5"/>
+    <candidate sentence="88" start="2" end="2"/>
+    <candidate sentence="98" start="0" end="0"/>
+    <candidate sentence="118" start="8" end="8"/>
+    <candidate sentence="135" start="20" end="20"/>
+    <candidate sentence="97" start="2" end="2"/>
+    <candidate sentence="72" start="2" end="2"/>
+    <candidate sentence="102" start="2" end="2"/>
+    <candidate sentence="38" start="4" end="6"/>
+    <candidate sentence="101" start="5" end="5"/>
+    <candidate sentence="39" start="14" end="14"/>
+    <candidate sentence="29" start="7" end="7"/>
+    <candidate sentence="101" start="26" end="26"/>
+    <candidate sentence="97" start="12" end="12"/>
+    <candidate sentence="46" start="25" end="25"/>
+    <candidate sentence="40" start="1" end="1"/>
+    <candidate sentence="130" start="13" end="13"/>
+    <candidate sentence="25" start="1" end="1"/>
+    <candidate sentence="28" start="1" end="1"/>
+    <candidate sentence="56" start="4" end="4"/>
+    <candidate sentence="109" start="3" end="3"/>
+    <candidate sentence="116" start="4" end="4"/>
+    <candidate sentence="23" start="18" end="18"/>
+    <candidate sentence="46" start="3" end="3"/>
+    <candidate sentence="29" start="27" end="27"/>
+    <candidate sentence="101" start="13" end="13"/>
+    <candidate sentence="73" start="10" end="10"/>
+    <candidate sentence="22" start="0" end="0"/>
+    <candidate sentence="20" start="1" end="1"/>
+    <candidate sentence="31" start="9" end="9"/>
+    <candidate sentence="117" start="23" end="23"/>
+    <candidate sentence="115" start="0" end="0"/>
+    <candidate sentence="116" start="16" end="16"/>
+  </implicit>
+  <implicit role="arg0|do.02" recoverable="False" sentence="21" predstart="8" predend="8" pos="ADJ" implicit-role-type="missing"/>
+  <implicit role="arg1|certain.01" recoverable="True" sentence="26" predstart="16" predend="16" pos="ADJ" implicit-role-type="same-sentence">
+    <candidate sentence="26" start="12" end="12"/>
+  </implicit>
+  <implicit role="arg1|open.09" recoverable="True" sentence="29" predstart="4" predend="4" pos="ADJ" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="28" start="3" end="4"/>
+    <candidate sentence="23" start="11" end="14"/>
+    <candidate sentence="28" start="3" end="4"/>
+  </implicit>
+  <implicit role="arg0|open.01" recoverable="True" sentence="35" predstart="0" predend="0" pos="ADJ" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="37" start="0" end="0"/>
+    <candidate sentence="20" start="9" end="9"/>
+    <candidate sentence="37" start="12" end="12"/>
+    <candidate sentence="8" start="1" end="1"/>
+    <candidate sentence="106" start="1" end="1"/>
+    <candidate sentence="14" start="2" end="2"/>
+    <candidate sentence="130" start="2" end="2"/>
+    <candidate sentence="71" start="12" end="12"/>
+    <candidate sentence="137" start="37" end="37"/>
+    <candidate sentence="104" start="3" end="3"/>
+    <candidate sentence="37" start="0" end="0"/>
+    <candidate sentence="104" start="25" end="25"/>
+    <candidate sentence="104" start="6" end="6"/>
+    <candidate sentence="6" start="0" end="0"/>
+    <candidate sentence="30" start="10" end="10"/>
+    <candidate sentence="137" start="39" end="39"/>
+    <candidate sentence="3" start="9" end="9"/>
+    <candidate sentence="104" start="0" end="0"/>
+    <candidate sentence="137" start="0" end="0"/>
+    <candidate sentence="79" start="0" end="0"/>
+    <candidate sentence="104" start="23" end="23"/>
+    <candidate sentence="48" start="6" end="6"/>
+    <candidate sentence="108" start="10" end="10"/>
+    <candidate sentence="105" start="0" end="0"/>
+    <candidate sentence="104" start="30" end="30"/>
+    <candidate sentence="23" start="15" end="15"/>
+    <candidate sentence="13" start="3" end="3"/>
+    <candidate sentence="127" start="6" end="6"/>
+    <candidate sentence="137" start="9" end="9"/>
+    <candidate sentence="90" start="10" end="10"/>
+    <candidate sentence="80" start="5" end="5"/>
+  </implicit>
+  <implicit role="arg4|come.01" recoverable="False" sentence="36" predstart="5" predend="5" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|open.09" recoverable="False" sentence="37" predstart="17" predend="17" pos="ADJ" implicit-role-type="missing"/>
+  <implicit role="arg0|unexpected.01" recoverable="True" sentence="40" predstart="11" predend="11" pos="ADJ" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="40" start="1" end="1"/>
+    <candidate sentence="45" start="32" end="32"/>
+    <candidate sentence="117" start="32" end="32"/>
+    <candidate sentence="101" start="8" end="8"/>
+    <candidate sentence="88" start="8" end="8"/>
+    <candidate sentence="21" start="4" end="4"/>
+    <candidate sentence="121" start="2" end="2"/>
+    <candidate sentence="40" start="13" end="13"/>
+    <candidate sentence="22" start="2" end="2"/>
+    <candidate sentence="135" start="21" end="21"/>
+    <candidate sentence="5" start="0" end="0"/>
+    <candidate sentence="23" start="7" end="7"/>
+    <candidate sentence="7" start="4" end="4"/>
+    <candidate sentence="31" start="3" end="3"/>
+    <candidate sentence="100" start="26" end="26"/>
+    <candidate sentence="97" start="22" end="22"/>
+    <candidate sentence="100" start="18" end="18"/>
+    <candidate sentence="102" start="14" end="14"/>
+    <candidate sentence="22" start="7" end="7"/>
+    <candidate sentence="23" start="20" end="20"/>
+    <candidate sentence="67" start="18" end="18"/>
+    <candidate sentence="96" start="14" end="14"/>
+    <candidate sentence="19" start="0" end="0"/>
+    <candidate sentence="101" start="44" end="44"/>
+    <candidate sentence="89" start="4" end="4"/>
+    <candidate sentence="22" start="10" end="10"/>
+    <candidate sentence="100" start="46" end="46"/>
+    <candidate sentence="17" start="9" end="9"/>
+    <candidate sentence="72" start="5" end="5"/>
+    <candidate sentence="88" start="2" end="2"/>
+    <candidate sentence="98" start="0" end="0"/>
+    <candidate sentence="118" start="8" end="8"/>
+    <candidate sentence="135" start="20" end="20"/>
+    <candidate sentence="97" start="2" end="2"/>
+    <candidate sentence="72" start="2" end="2"/>
+    <candidate sentence="102" start="2" end="2"/>
+    <candidate sentence="38" start="4" end="6"/>
+    <candidate sentence="101" start="5" end="5"/>
+    <candidate sentence="39" start="14" end="14"/>
+    <candidate sentence="29" start="7" end="7"/>
+    <candidate sentence="101" start="26" end="26"/>
+    <candidate sentence="97" start="12" end="12"/>
+    <candidate sentence="46" start="25" end="25"/>
+    <candidate sentence="40" start="1" end="1"/>
+    <candidate sentence="130" start="13" end="13"/>
+    <candidate sentence="25" start="1" end="1"/>
+    <candidate sentence="28" start="1" end="1"/>
+    <candidate sentence="56" start="4" end="4"/>
+    <candidate sentence="109" start="3" end="3"/>
+    <candidate sentence="116" start="4" end="4"/>
+    <candidate sentence="23" start="18" end="18"/>
+    <candidate sentence="46" start="3" end="3"/>
+    <candidate sentence="29" start="27" end="27"/>
+    <candidate sentence="101" start="13" end="13"/>
+    <candidate sentence="73" start="10" end="10"/>
+    <candidate sentence="22" start="0" end="0"/>
+    <candidate sentence="20" start="1" end="1"/>
+    <candidate sentence="31" start="9" end="9"/>
+    <candidate sentence="117" start="23" end="23"/>
+    <candidate sentence="115" start="0" end="0"/>
+    <candidate sentence="116" start="16" end="16"/>
+  </implicit>
+  <implicit role="arg0|fashion.01" recoverable="False" sentence="41" predstart="4" predend="4" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|form.01" recoverable="True" sentence="41" predstart="30" predend="30" pos="NOUN" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="41" start="38" end="43"/>
+    <candidate sentence="70" start="57" end="57"/>
+    <candidate sentence="91" start="25" end="26"/>
+    <candidate sentence="84" start="13" end="13"/>
+    <candidate sentence="72" start="8" end="8"/>
+    <candidate sentence="84" start="4" end="4"/>
+    <candidate sentence="41" start="38" end="43"/>
+    <candidate sentence="70" start="47" end="47"/>
+    <candidate sentence="67" start="2" end="2"/>
+    <candidate sentence="82" start="4" end="4"/>
+    <candidate sentence="70" start="30" end="30"/>
+    <candidate sentence="73" start="1" end="1"/>
+    <candidate sentence="48" start="0" end="4"/>
+    <candidate sentence="73" start="5" end="5"/>
+    <candidate sentence="86" start="7" end="7"/>
+    <candidate sentence="85" start="3" end="3"/>
+    <candidate sentence="70" start="51" end="51"/>
+    <candidate sentence="69" start="7" end="7"/>
+    <candidate sentence="66" start="2" end="4"/>
+    <candidate sentence="70" start="20" end="20"/>
+    <candidate sentence="71" start="8" end="8"/>
+    <candidate sentence="82" start="0" end="0"/>
+    <candidate sentence="67" start="10" end="10"/>
+    <candidate sentence="74" start="13" end="13"/>
+    <candidate sentence="69" start="2" end="2"/>
+    <candidate sentence="84" start="1" end="1"/>
+    <candidate sentence="83" start="0" end="0"/>
+    <candidate sentence="76" start="11" end="11"/>
+    <candidate sentence="86" start="5" end="5"/>
+    <candidate sentence="87" start="3" end="3"/>
+    <candidate sentence="77" start="3" end="3"/>
+    <candidate sentence="27" start="4" end="4"/>
+    <candidate sentence="39" start="8" end="12"/>
+    <candidate sentence="56" start="1" end="1"/>
+    <candidate sentence="31" start="8" end="12"/>
+    <candidate sentence="96" start="18" end="20"/>
+    <candidate sentence="71" start="3" end="3"/>
+    <candidate sentence="70" start="41" end="41"/>
+    <candidate sentence="31" start="6" end="7"/>
+    <candidate sentence="67" start="14" end="14"/>
+    <candidate sentence="67" start="8" end="8"/>
+    <candidate sentence="76" start="4" end="4"/>
+    <candidate sentence="74" start="7" end="7"/>
+    <candidate sentence="70" start="44" end="44"/>
+    <candidate sentence="70" start="35" end="35"/>
+    <candidate sentence="70" start="28" end="28"/>
+    <candidate sentence="70" start="0" end="0"/>
+    <candidate sentence="71" start="1" end="1"/>
+    <candidate sentence="76" start="6" end="6"/>
+    <candidate sentence="67" start="5" end="5"/>
+    <candidate sentence="57" start="9" end="11"/>
+    <candidate sentence="88" start="6" end="6"/>
+    <candidate sentence="76" start="17" end="17"/>
+  </implicit>
+  <implicit role="arg2|place.01" recoverable="True" sentence="42" predstart="15" predend="15" pos="VERB" implicit-role-type="same-sentence">
+    <candidate sentence="42" start="0" end="5"/>
+  </implicit>
+  <implicit role="arg2|secure.02" recoverable="True" sentence="43" predstart="20" predend="20" pos="ADJ" implicit-role-type="same-sentence">
+    <candidate sentence="43" start="0" end="2"/>
+  </implicit>
+  <implicit role="arg0|secure.02" recoverable="False" sentence="44" predstart="8" predend="8" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|question.01" recoverable="True" sentence="45" predstart="26" predend="26" pos="VERB" implicit-role-type="same-sentence">
+    <candidate sentence="45" start="17" end="17"/>
+  </implicit>
+  <implicit role="arg2|question.01" recoverable="True" sentence="45" predstart="26" predend="26" pos="VERB" implicit-role-type="same-sentence">
+    <candidate sentence="45" start="31" end="33"/>
+  </implicit>
+  <implicit role="arg1|question.01" recoverable="True" sentence="45" predstart="26" predend="26" pos="VERB" implicit-role-type="same-sentence">
+    <candidate sentence="45" start="24" end="28"/>
+  </implicit>
+  <implicit role="arg0|put.01" recoverable="True" sentence="50" predstart="0" predend="0" pos="VERB" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="49" start="3" end="3"/>
+    <candidate sentence="49" start="5" end="5"/>
+    <candidate sentence="34" start="1" end="1"/>
+    <candidate sentence="33" start="8" end="8"/>
+    <candidate sentence="49" start="3" end="3"/>
+    <candidate sentence="90" start="3" end="3"/>
+  </implicit>
+  <implicit role="arg2|ask.01" recoverable="True" sentence="54" predstart="7" predend="7" pos="VERB" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="56" start="4" end="4"/>
+    <candidate sentence="45" start="32" end="32"/>
+    <candidate sentence="117" start="32" end="32"/>
+    <candidate sentence="101" start="8" end="8"/>
+    <candidate sentence="88" start="8" end="8"/>
+    <candidate sentence="21" start="4" end="4"/>
+    <candidate sentence="121" start="2" end="2"/>
+    <candidate sentence="40" start="13" end="13"/>
+    <candidate sentence="22" start="2" end="2"/>
+    <candidate sentence="135" start="21" end="21"/>
+    <candidate sentence="5" start="0" end="0"/>
+    <candidate sentence="23" start="7" end="7"/>
+    <candidate sentence="7" start="4" end="4"/>
+    <candidate sentence="31" start="3" end="3"/>
+    <candidate sentence="100" start="26" end="26"/>
+    <candidate sentence="97" start="22" end="22"/>
+    <candidate sentence="100" start="18" end="18"/>
+    <candidate sentence="102" start="14" end="14"/>
+    <candidate sentence="22" start="7" end="7"/>
+    <candidate sentence="23" start="20" end="20"/>
+    <candidate sentence="67" start="18" end="18"/>
+    <candidate sentence="96" start="14" end="14"/>
+    <candidate sentence="19" start="0" end="0"/>
+    <candidate sentence="101" start="44" end="44"/>
+    <candidate sentence="89" start="4" end="4"/>
+    <candidate sentence="22" start="10" end="10"/>
+    <candidate sentence="100" start="46" end="46"/>
+    <candidate sentence="17" start="9" end="9"/>
+    <candidate sentence="72" start="5" end="5"/>
+    <candidate sentence="88" start="2" end="2"/>
+    <candidate sentence="98" start="0" end="0"/>
+    <candidate sentence="118" start="8" end="8"/>
+    <candidate sentence="135" start="20" end="20"/>
+    <candidate sentence="97" start="2" end="2"/>
+    <candidate sentence="72" start="2" end="2"/>
+    <candidate sentence="102" start="2" end="2"/>
+    <candidate sentence="38" start="4" end="6"/>
+    <candidate sentence="101" start="5" end="5"/>
+    <candidate sentence="39" start="14" end="14"/>
+    <candidate sentence="29" start="7" end="7"/>
+    <candidate sentence="101" start="26" end="26"/>
+    <candidate sentence="97" start="12" end="12"/>
+    <candidate sentence="46" start="25" end="25"/>
+    <candidate sentence="40" start="1" end="1"/>
+    <candidate sentence="130" start="13" end="13"/>
+    <candidate sentence="25" start="1" end="1"/>
+    <candidate sentence="28" start="1" end="1"/>
+    <candidate sentence="56" start="4" end="4"/>
+    <candidate sentence="109" start="3" end="3"/>
+    <candidate sentence="116" start="4" end="4"/>
+    <candidate sentence="23" start="18" end="18"/>
+    <candidate sentence="46" start="3" end="3"/>
+    <candidate sentence="29" start="27" end="27"/>
+    <candidate sentence="101" start="13" end="13"/>
+    <candidate sentence="73" start="10" end="10"/>
+    <candidate sentence="22" start="0" end="0"/>
+    <candidate sentence="20" start="1" end="1"/>
+    <candidate sentence="31" start="9" end="9"/>
+    <candidate sentence="117" start="23" end="23"/>
+    <candidate sentence="115" start="0" end="0"/>
+    <candidate sentence="116" start="16" end="16"/>
+  </implicit>
+  <implicit role="arg0|satisfy.01" recoverable="True" sentence="63" predstart="6" predend="6" pos="NOUN" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="62" start="0" end="5"/>
+  </implicit>
+  <implicit role="arg0|thank.01" recoverable="True" sentence="64" predstart="1" predend="1" pos="VERB" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="63" start="0" end="0"/>
+    <candidate sentence="50" start="1" end="1"/>
+    <candidate sentence="40" start="5" end="6"/>
+    <candidate sentence="57" start="5" end="5"/>
+    <candidate sentence="54" start="6" end="6"/>
+    <candidate sentence="67" start="2" end="2"/>
+    <candidate sentence="46" start="15" end="17"/>
+    <candidate sentence="47" start="18" end="18"/>
+    <candidate sentence="43" start="31" end="31"/>
+    <candidate sentence="47" start="1" end="1"/>
+    <candidate sentence="52" start="0" end="3"/>
+    <candidate sentence="57" start="9" end="9"/>
+    <candidate sentence="51" start="0" end="0"/>
+    <candidate sentence="53" start="2" end="2"/>
+    <candidate sentence="40" start="20" end="20"/>
+    <candidate sentence="47" start="6" end="6"/>
+    <candidate sentence="43" start="21" end="21"/>
+    <candidate sentence="53" start="0" end="0"/>
+    <candidate sentence="56" start="6" end="6"/>
+    <candidate sentence="63" start="0" end="0"/>
+    <candidate sentence="43" start="3" end="4"/>
+  </implicit>
+  <implicit role="arg0|thank.01" recoverable="True" sentence="65" predstart="0" predend="0" pos="VERB" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="63" start="0" end="0"/>
+    <candidate sentence="50" start="1" end="1"/>
+    <candidate sentence="40" start="5" end="6"/>
+    <candidate sentence="57" start="5" end="5"/>
+    <candidate sentence="54" start="6" end="6"/>
+    <candidate sentence="67" start="2" end="2"/>
+    <candidate sentence="46" start="15" end="17"/>
+    <candidate sentence="47" start="18" end="18"/>
+    <candidate sentence="43" start="31" end="31"/>
+    <candidate sentence="47" start="1" end="1"/>
+    <candidate sentence="52" start="0" end="3"/>
+    <candidate sentence="57" start="9" end="9"/>
+    <candidate sentence="51" start="0" end="0"/>
+    <candidate sentence="53" start="2" end="2"/>
+    <candidate sentence="40" start="20" end="20"/>
+    <candidate sentence="47" start="6" end="6"/>
+    <candidate sentence="43" start="21" end="21"/>
+    <candidate sentence="53" start="0" end="0"/>
+    <candidate sentence="56" start="6" end="6"/>
+    <candidate sentence="63" start="0" end="0"/>
+    <candidate sentence="43" start="3" end="4"/>
+  </implicit>
+  <implicit role="arg0|see.01" recoverable="True" sentence="67" predstart="0" predend="0" pos="VERB" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="67" start="18" end="18"/>
+    <candidate sentence="45" start="32" end="32"/>
+    <candidate sentence="117" start="32" end="32"/>
+    <candidate sentence="101" start="8" end="8"/>
+    <candidate sentence="88" start="8" end="8"/>
+    <candidate sentence="21" start="4" end="4"/>
+    <candidate sentence="121" start="2" end="2"/>
+    <candidate sentence="40" start="13" end="13"/>
+    <candidate sentence="22" start="2" end="2"/>
+    <candidate sentence="135" start="21" end="21"/>
+    <candidate sentence="5" start="0" end="0"/>
+    <candidate sentence="23" start="7" end="7"/>
+    <candidate sentence="7" start="4" end="4"/>
+    <candidate sentence="31" start="3" end="3"/>
+    <candidate sentence="100" start="26" end="26"/>
+    <candidate sentence="97" start="22" end="22"/>
+    <candidate sentence="100" start="18" end="18"/>
+    <candidate sentence="102" start="14" end="14"/>
+    <candidate sentence="22" start="7" end="7"/>
+    <candidate sentence="23" start="20" end="20"/>
+    <candidate sentence="67" start="18" end="18"/>
+    <candidate sentence="96" start="14" end="14"/>
+    <candidate sentence="19" start="0" end="0"/>
+    <candidate sentence="101" start="44" end="44"/>
+    <candidate sentence="89" start="4" end="4"/>
+    <candidate sentence="22" start="10" end="10"/>
+    <candidate sentence="100" start="46" end="46"/>
+    <candidate sentence="17" start="9" end="9"/>
+    <candidate sentence="72" start="5" end="5"/>
+    <candidate sentence="88" start="2" end="2"/>
+    <candidate sentence="98" start="0" end="0"/>
+    <candidate sentence="118" start="8" end="8"/>
+    <candidate sentence="135" start="20" end="20"/>
+    <candidate sentence="97" start="2" end="2"/>
+    <candidate sentence="72" start="2" end="2"/>
+    <candidate sentence="102" start="2" end="2"/>
+    <candidate sentence="38" start="4" end="6"/>
+    <candidate sentence="101" start="5" end="5"/>
+    <candidate sentence="39" start="14" end="14"/>
+    <candidate sentence="29" start="7" end="7"/>
+    <candidate sentence="101" start="26" end="26"/>
+    <candidate sentence="97" start="12" end="12"/>
+    <candidate sentence="46" start="25" end="25"/>
+    <candidate sentence="40" start="1" end="1"/>
+    <candidate sentence="130" start="13" end="13"/>
+    <candidate sentence="25" start="1" end="1"/>
+    <candidate sentence="28" start="1" end="1"/>
+    <candidate sentence="56" start="4" end="4"/>
+    <candidate sentence="109" start="3" end="3"/>
+    <candidate sentence="116" start="4" end="4"/>
+    <candidate sentence="23" start="18" end="18"/>
+    <candidate sentence="46" start="3" end="3"/>
+    <candidate sentence="29" start="27" end="27"/>
+    <candidate sentence="101" start="13" end="13"/>
+    <candidate sentence="73" start="10" end="10"/>
+    <candidate sentence="22" start="0" end="0"/>
+    <candidate sentence="20" start="1" end="1"/>
+    <candidate sentence="31" start="9" end="9"/>
+    <candidate sentence="117" start="23" end="23"/>
+    <candidate sentence="115" start="0" end="0"/>
+    <candidate sentence="116" start="16" end="16"/>
+  </implicit>
+  <implicit role="arg1|speak.01" recoverable="True" sentence="70" predstart="58" predend="58" pos="VERB" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="70" start="0" end="32"/>
+    <candidate sentence="70" start="33" end="33"/>
+    <candidate sentence="70" start="34" end="34"/>
+    <candidate sentence="70" start="35" end="35"/>
+    <candidate sentence="70" start="57" end="57"/>
+    <candidate sentence="91" start="25" end="26"/>
+    <candidate sentence="84" start="13" end="13"/>
+    <candidate sentence="72" start="8" end="8"/>
+    <candidate sentence="84" start="4" end="4"/>
+    <candidate sentence="41" start="38" end="43"/>
+    <candidate sentence="70" start="47" end="47"/>
+    <candidate sentence="67" start="2" end="2"/>
+    <candidate sentence="82" start="4" end="4"/>
+    <candidate sentence="70" start="30" end="30"/>
+    <candidate sentence="73" start="1" end="1"/>
+    <candidate sentence="48" start="0" end="4"/>
+    <candidate sentence="73" start="5" end="5"/>
+    <candidate sentence="86" start="7" end="7"/>
+    <candidate sentence="85" start="3" end="3"/>
+    <candidate sentence="70" start="51" end="51"/>
+    <candidate sentence="69" start="7" end="7"/>
+    <candidate sentence="66" start="2" end="4"/>
+    <candidate sentence="70" start="20" end="20"/>
+    <candidate sentence="71" start="8" end="8"/>
+    <candidate sentence="82" start="0" end="0"/>
+    <candidate sentence="67" start="10" end="10"/>
+    <candidate sentence="74" start="13" end="13"/>
+    <candidate sentence="69" start="2" end="2"/>
+    <candidate sentence="84" start="1" end="1"/>
+    <candidate sentence="83" start="0" end="0"/>
+    <candidate sentence="76" start="11" end="11"/>
+    <candidate sentence="86" start="5" end="5"/>
+    <candidate sentence="87" start="3" end="3"/>
+    <candidate sentence="77" start="3" end="3"/>
+    <candidate sentence="27" start="4" end="4"/>
+    <candidate sentence="39" start="8" end="12"/>
+    <candidate sentence="56" start="1" end="1"/>
+    <candidate sentence="31" start="8" end="12"/>
+    <candidate sentence="96" start="18" end="20"/>
+    <candidate sentence="71" start="3" end="3"/>
+    <candidate sentence="70" start="41" end="41"/>
+    <candidate sentence="31" start="6" end="7"/>
+    <candidate sentence="67" start="14" end="14"/>
+    <candidate sentence="67" start="8" end="8"/>
+    <candidate sentence="76" start="4" end="4"/>
+    <candidate sentence="74" start="7" end="7"/>
+    <candidate sentence="70" start="44" end="44"/>
+    <candidate sentence="70" start="35" end="35"/>
+    <candidate sentence="70" start="28" end="28"/>
+    <candidate sentence="70" start="0" end="0"/>
+    <candidate sentence="71" start="1" end="1"/>
+    <candidate sentence="76" start="6" end="6"/>
+    <candidate sentence="67" start="5" end="5"/>
+    <candidate sentence="57" start="9" end="11"/>
+    <candidate sentence="88" start="6" end="6"/>
+    <candidate sentence="76" start="17" end="17"/>
+    <candidate sentence="70" start="36" end="36"/>
+    <candidate sentence="70" start="38" end="39"/>
+    <candidate sentence="70" start="40" end="40"/>
+    <candidate sentence="70" start="42" end="42"/>
+    <candidate sentence="70" start="43" end="43"/>
+    <candidate sentence="70" start="44" end="50"/>
+  </implicit>
+  <implicit role="arg0|deceive.01" recoverable="True" sentence="70" predstart="13" predend="13" pos="NOUN" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="70" start="30" end="30"/>
+    <candidate sentence="70" start="57" end="57"/>
+    <candidate sentence="91" start="25" end="26"/>
+    <candidate sentence="84" start="13" end="13"/>
+    <candidate sentence="72" start="8" end="8"/>
+    <candidate sentence="84" start="4" end="4"/>
+    <candidate sentence="41" start="38" end="43"/>
+    <candidate sentence="70" start="47" end="47"/>
+    <candidate sentence="67" start="2" end="2"/>
+    <candidate sentence="82" start="4" end="4"/>
+    <candidate sentence="70" start="30" end="30"/>
+    <candidate sentence="73" start="1" end="1"/>
+    <candidate sentence="48" start="0" end="4"/>
+    <candidate sentence="73" start="5" end="5"/>
+    <candidate sentence="86" start="7" end="7"/>
+    <candidate sentence="85" start="3" end="3"/>
+    <candidate sentence="70" start="51" end="51"/>
+    <candidate sentence="69" start="7" end="7"/>
+    <candidate sentence="66" start="2" end="4"/>
+    <candidate sentence="70" start="20" end="20"/>
+    <candidate sentence="71" start="8" end="8"/>
+    <candidate sentence="82" start="0" end="0"/>
+    <candidate sentence="67" start="10" end="10"/>
+    <candidate sentence="74" start="13" end="13"/>
+    <candidate sentence="69" start="2" end="2"/>
+    <candidate sentence="84" start="1" end="1"/>
+    <candidate sentence="83" start="0" end="0"/>
+    <candidate sentence="76" start="11" end="11"/>
+    <candidate sentence="86" start="5" end="5"/>
+    <candidate sentence="87" start="3" end="3"/>
+    <candidate sentence="77" start="3" end="3"/>
+    <candidate sentence="27" start="4" end="4"/>
+    <candidate sentence="39" start="8" end="12"/>
+    <candidate sentence="56" start="1" end="1"/>
+    <candidate sentence="31" start="8" end="12"/>
+    <candidate sentence="96" start="18" end="20"/>
+    <candidate sentence="71" start="3" end="3"/>
+    <candidate sentence="70" start="41" end="41"/>
+    <candidate sentence="31" start="6" end="7"/>
+    <candidate sentence="67" start="14" end="14"/>
+    <candidate sentence="67" start="8" end="8"/>
+    <candidate sentence="76" start="4" end="4"/>
+    <candidate sentence="74" start="7" end="7"/>
+    <candidate sentence="70" start="44" end="44"/>
+    <candidate sentence="70" start="35" end="35"/>
+    <candidate sentence="70" start="28" end="28"/>
+    <candidate sentence="70" start="0" end="0"/>
+    <candidate sentence="71" start="1" end="1"/>
+    <candidate sentence="76" start="6" end="6"/>
+    <candidate sentence="67" start="5" end="5"/>
+    <candidate sentence="57" start="9" end="11"/>
+    <candidate sentence="88" start="6" end="6"/>
+    <candidate sentence="76" start="17" end="17"/>
+  </implicit>
+  <implicit role="arg0|tell.01" recoverable="True" sentence="72" predstart="1" predend="1" pos="VERB" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="71" start="8" end="8"/>
+    <candidate sentence="70" start="57" end="57"/>
+    <candidate sentence="91" start="25" end="26"/>
+    <candidate sentence="84" start="13" end="13"/>
+    <candidate sentence="72" start="8" end="8"/>
+    <candidate sentence="84" start="4" end="4"/>
+    <candidate sentence="41" start="38" end="43"/>
+    <candidate sentence="70" start="47" end="47"/>
+    <candidate sentence="67" start="2" end="2"/>
+    <candidate sentence="82" start="4" end="4"/>
+    <candidate sentence="70" start="30" end="30"/>
+    <candidate sentence="73" start="1" end="1"/>
+    <candidate sentence="48" start="0" end="4"/>
+    <candidate sentence="73" start="5" end="5"/>
+    <candidate sentence="86" start="7" end="7"/>
+    <candidate sentence="85" start="3" end="3"/>
+    <candidate sentence="70" start="51" end="51"/>
+    <candidate sentence="69" start="7" end="7"/>
+    <candidate sentence="66" start="2" end="4"/>
+    <candidate sentence="70" start="20" end="20"/>
+    <candidate sentence="71" start="8" end="8"/>
+    <candidate sentence="82" start="0" end="0"/>
+    <candidate sentence="67" start="10" end="10"/>
+    <candidate sentence="74" start="13" end="13"/>
+    <candidate sentence="69" start="2" end="2"/>
+    <candidate sentence="84" start="1" end="1"/>
+    <candidate sentence="83" start="0" end="0"/>
+    <candidate sentence="76" start="11" end="11"/>
+    <candidate sentence="86" start="5" end="5"/>
+    <candidate sentence="87" start="3" end="3"/>
+    <candidate sentence="77" start="3" end="3"/>
+    <candidate sentence="27" start="4" end="4"/>
+    <candidate sentence="39" start="8" end="12"/>
+    <candidate sentence="56" start="1" end="1"/>
+    <candidate sentence="31" start="8" end="12"/>
+    <candidate sentence="96" start="18" end="20"/>
+    <candidate sentence="71" start="3" end="3"/>
+    <candidate sentence="70" start="41" end="41"/>
+    <candidate sentence="31" start="6" end="7"/>
+    <candidate sentence="67" start="14" end="14"/>
+    <candidate sentence="67" start="8" end="8"/>
+    <candidate sentence="76" start="4" end="4"/>
+    <candidate sentence="74" start="7" end="7"/>
+    <candidate sentence="70" start="44" end="44"/>
+    <candidate sentence="70" start="35" end="35"/>
+    <candidate sentence="70" start="28" end="28"/>
+    <candidate sentence="70" start="0" end="0"/>
+    <candidate sentence="71" start="1" end="1"/>
+    <candidate sentence="76" start="6" end="6"/>
+    <candidate sentence="67" start="5" end="5"/>
+    <candidate sentence="57" start="9" end="11"/>
+    <candidate sentence="88" start="6" end="6"/>
+    <candidate sentence="76" start="17" end="17"/>
+  </implicit>
+  <implicit role="arg0|atone.01" recoverable="True" sentence="73" predstart="14" predend="14" pos="VERB" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="73" start="1" end="1"/>
+    <candidate sentence="70" start="57" end="57"/>
+    <candidate sentence="91" start="25" end="26"/>
+    <candidate sentence="84" start="13" end="13"/>
+    <candidate sentence="72" start="8" end="8"/>
+    <candidate sentence="84" start="4" end="4"/>
+    <candidate sentence="41" start="38" end="43"/>
+    <candidate sentence="70" start="47" end="47"/>
+    <candidate sentence="67" start="2" end="2"/>
+    <candidate sentence="82" start="4" end="4"/>
+    <candidate sentence="70" start="30" end="30"/>
+    <candidate sentence="73" start="1" end="1"/>
+    <candidate sentence="48" start="0" end="4"/>
+    <candidate sentence="73" start="5" end="5"/>
+    <candidate sentence="86" start="7" end="7"/>
+    <candidate sentence="85" start="3" end="3"/>
+    <candidate sentence="70" start="51" end="51"/>
+    <candidate sentence="69" start="7" end="7"/>
+    <candidate sentence="66" start="2" end="4"/>
+    <candidate sentence="70" start="20" end="20"/>
+    <candidate sentence="71" start="8" end="8"/>
+    <candidate sentence="82" start="0" end="0"/>
+    <candidate sentence="67" start="10" end="10"/>
+    <candidate sentence="74" start="13" end="13"/>
+    <candidate sentence="69" start="2" end="2"/>
+    <candidate sentence="84" start="1" end="1"/>
+    <candidate sentence="83" start="0" end="0"/>
+    <candidate sentence="76" start="11" end="11"/>
+    <candidate sentence="86" start="5" end="5"/>
+    <candidate sentence="87" start="3" end="3"/>
+    <candidate sentence="77" start="3" end="3"/>
+    <candidate sentence="27" start="4" end="4"/>
+    <candidate sentence="39" start="8" end="12"/>
+    <candidate sentence="56" start="1" end="1"/>
+    <candidate sentence="31" start="8" end="12"/>
+    <candidate sentence="96" start="18" end="20"/>
+    <candidate sentence="71" start="3" end="3"/>
+    <candidate sentence="70" start="41" end="41"/>
+    <candidate sentence="31" start="6" end="7"/>
+    <candidate sentence="67" start="14" end="14"/>
+    <candidate sentence="67" start="8" end="8"/>
+    <candidate sentence="76" start="4" end="4"/>
+    <candidate sentence="74" start="7" end="7"/>
+    <candidate sentence="70" start="44" end="44"/>
+    <candidate sentence="70" start="35" end="35"/>
+    <candidate sentence="70" start="28" end="28"/>
+    <candidate sentence="70" start="0" end="0"/>
+    <candidate sentence="71" start="1" end="1"/>
+    <candidate sentence="76" start="6" end="6"/>
+    <candidate sentence="67" start="5" end="5"/>
+    <candidate sentence="57" start="9" end="11"/>
+    <candidate sentence="88" start="6" end="6"/>
+    <candidate sentence="76" start="17" end="17"/>
+  </implicit>
+  <implicit role="arg1|atone.01" recoverable="False" sentence="73" predstart="14" predend="14" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|help.01" recoverable="True" sentence="73" predstart="9" predend="9" pos="VERB" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="72" start="5" end="9"/>
+  </implicit>
+  <implicit role="arg2|answer.01" recoverable="True" sentence="74" predstart="14" predend="14" pos="VERB" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="73" start="10" end="10"/>
+    <candidate sentence="45" start="32" end="32"/>
+    <candidate sentence="117" start="32" end="32"/>
+    <candidate sentence="101" start="8" end="8"/>
+    <candidate sentence="88" start="8" end="8"/>
+    <candidate sentence="21" start="4" end="4"/>
+    <candidate sentence="121" start="2" end="2"/>
+    <candidate sentence="40" start="13" end="13"/>
+    <candidate sentence="22" start="2" end="2"/>
+    <candidate sentence="135" start="21" end="21"/>
+    <candidate sentence="5" start="0" end="0"/>
+    <candidate sentence="23" start="7" end="7"/>
+    <candidate sentence="7" start="4" end="4"/>
+    <candidate sentence="31" start="3" end="3"/>
+    <candidate sentence="100" start="26" end="26"/>
+    <candidate sentence="97" start="22" end="22"/>
+    <candidate sentence="100" start="18" end="18"/>
+    <candidate sentence="102" start="14" end="14"/>
+    <candidate sentence="22" start="7" end="7"/>
+    <candidate sentence="23" start="20" end="20"/>
+    <candidate sentence="67" start="18" end="18"/>
+    <candidate sentence="96" start="14" end="14"/>
+    <candidate sentence="19" start="0" end="0"/>
+    <candidate sentence="101" start="44" end="44"/>
+    <candidate sentence="89" start="4" end="4"/>
+    <candidate sentence="22" start="10" end="10"/>
+    <candidate sentence="100" start="46" end="46"/>
+    <candidate sentence="17" start="9" end="9"/>
+    <candidate sentence="72" start="5" end="5"/>
+    <candidate sentence="88" start="2" end="2"/>
+    <candidate sentence="98" start="0" end="0"/>
+    <candidate sentence="118" start="8" end="8"/>
+    <candidate sentence="135" start="20" end="20"/>
+    <candidate sentence="97" start="2" end="2"/>
+    <candidate sentence="72" start="2" end="2"/>
+    <candidate sentence="102" start="2" end="2"/>
+    <candidate sentence="38" start="4" end="6"/>
+    <candidate sentence="101" start="5" end="5"/>
+    <candidate sentence="39" start="14" end="14"/>
+    <candidate sentence="29" start="7" end="7"/>
+    <candidate sentence="101" start="26" end="26"/>
+    <candidate sentence="97" start="12" end="12"/>
+    <candidate sentence="46" start="25" end="25"/>
+    <candidate sentence="40" start="1" end="1"/>
+    <candidate sentence="130" start="13" end="13"/>
+    <candidate sentence="25" start="1" end="1"/>
+    <candidate sentence="28" start="1" end="1"/>
+    <candidate sentence="56" start="4" end="4"/>
+    <candidate sentence="109" start="3" end="3"/>
+    <candidate sentence="116" start="4" end="4"/>
+    <candidate sentence="23" start="18" end="18"/>
+    <candidate sentence="46" start="3" end="3"/>
+    <candidate sentence="29" start="27" end="27"/>
+    <candidate sentence="101" start="13" end="13"/>
+    <candidate sentence="73" start="10" end="10"/>
+    <candidate sentence="22" start="0" end="0"/>
+    <candidate sentence="20" start="1" end="1"/>
+    <candidate sentence="31" start="9" end="9"/>
+    <candidate sentence="117" start="23" end="23"/>
+    <candidate sentence="115" start="0" end="0"/>
+    <candidate sentence="116" start="16" end="16"/>
+  </implicit>
+  <implicit role="arg1|answer.01" recoverable="True" sentence="74" predstart="14" predend="14" pos="VERB" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="72" start="0" end="9"/>
+  </implicit>
+  <implicit role="arg2|prepare.02" recoverable="True" sentence="76" predstart="14" predend="14" pos="NOUN" implicit-role-type="same-sentence">
+    <candidate sentence="76" start="15" end="22"/>
+  </implicit>
+  <implicit role="arg1|see.01" recoverable="True" sentence="80" predstart="1" predend="1" pos="VERB" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="78" start="0" end="1"/>
+    <candidate sentence="89" start="12" end="13"/>
+    <candidate sentence="78" start="0" end="1"/>
+    <candidate sentence="25" start="8" end="9"/>
+    <candidate sentence="119" start="21" end="22"/>
+    <candidate sentence="96" start="9" end="10"/>
+    <candidate sentence="7" start="1" end="2"/>
+  </implicit>
+  <implicit role="arg1|find.01" recoverable="True" sentence="81" predstart="4" predend="4" pos="VERB" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="81" start="10" end="10"/>
+    <candidate sentence="75" start="14" end="16"/>
+    <candidate sentence="86" start="14" end="16"/>
+    <candidate sentence="98" start="17" end="20"/>
+    <candidate sentence="81" start="10" end="10"/>
+    <candidate sentence="96" start="31" end="33"/>
+    <candidate sentence="81" start="9" end="9"/>
+    <candidate sentence="81" start="8" end="8"/>
+    <candidate sentence="81" start="9" end="9"/>
+    <candidate sentence="75" start="14" end="16"/>
+    <candidate sentence="86" start="14" end="16"/>
+    <candidate sentence="98" start="17" end="20"/>
+    <candidate sentence="81" start="10" end="10"/>
+    <candidate sentence="96" start="31" end="33"/>
+    <candidate sentence="81" start="9" end="9"/>
+    <candidate sentence="81" start="8" end="8"/>
+    <candidate sentence="81" start="8" end="8"/>
+    <candidate sentence="75" start="14" end="16"/>
+    <candidate sentence="86" start="14" end="16"/>
+    <candidate sentence="98" start="17" end="20"/>
+    <candidate sentence="81" start="10" end="10"/>
+    <candidate sentence="96" start="31" end="33"/>
+    <candidate sentence="81" start="9" end="9"/>
+    <candidate sentence="81" start="8" end="8"/>
+  </implicit>
+  <implicit role="arg1|find.01" recoverable="False" sentence="84" predstart="3" predend="3" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|plant.01" recoverable="False" sentence="86" predstart="1" predend="1" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|mark.01" recoverable="True" sentence="86" predstart="10" predend="10" pos="VERB" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="86" start="2" end="2"/>
+    <candidate sentence="85" start="7" end="7"/>
+    <candidate sentence="85" start="5" end="5"/>
+    <candidate sentence="85" start="6" end="6"/>
+    <candidate sentence="87" start="8" end="8"/>
+    <candidate sentence="86" start="2" end="2"/>
+  </implicit>
+  <implicit role="arg2|pluck.01" recoverable="False" sentence="87" predstart="7" predend="7" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|pursue.01" recoverable="True" sentence="89" predstart="7" predend="7" pos="NOUN" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="88" start="2" end="2"/>
+    <candidate sentence="45" start="32" end="32"/>
+    <candidate sentence="117" start="32" end="32"/>
+    <candidate sentence="101" start="8" end="8"/>
+    <candidate sentence="88" start="8" end="8"/>
+    <candidate sentence="21" start="4" end="4"/>
+    <candidate sentence="121" start="2" end="2"/>
+    <candidate sentence="40" start="13" end="13"/>
+    <candidate sentence="22" start="2" end="2"/>
+    <candidate sentence="135" start="21" end="21"/>
+    <candidate sentence="5" start="0" end="0"/>
+    <candidate sentence="23" start="7" end="7"/>
+    <candidate sentence="7" start="4" end="4"/>
+    <candidate sentence="31" start="3" end="3"/>
+    <candidate sentence="100" start="26" end="26"/>
+    <candidate sentence="97" start="22" end="22"/>
+    <candidate sentence="100" start="18" end="18"/>
+    <candidate sentence="102" start="14" end="14"/>
+    <candidate sentence="22" start="7" end="7"/>
+    <candidate sentence="23" start="20" end="20"/>
+    <candidate sentence="67" start="18" end="18"/>
+    <candidate sentence="96" start="14" end="14"/>
+    <candidate sentence="19" start="0" end="0"/>
+    <candidate sentence="101" start="44" end="44"/>
+    <candidate sentence="89" start="4" end="4"/>
+    <candidate sentence="22" start="10" end="10"/>
+    <candidate sentence="100" start="46" end="46"/>
+    <candidate sentence="17" start="9" end="9"/>
+    <candidate sentence="72" start="5" end="5"/>
+    <candidate sentence="88" start="2" end="2"/>
+    <candidate sentence="98" start="0" end="0"/>
+    <candidate sentence="118" start="8" end="8"/>
+    <candidate sentence="135" start="20" end="20"/>
+    <candidate sentence="97" start="2" end="2"/>
+    <candidate sentence="72" start="2" end="2"/>
+    <candidate sentence="102" start="2" end="2"/>
+    <candidate sentence="38" start="4" end="6"/>
+    <candidate sentence="101" start="5" end="5"/>
+    <candidate sentence="39" start="14" end="14"/>
+    <candidate sentence="29" start="7" end="7"/>
+    <candidate sentence="101" start="26" end="26"/>
+    <candidate sentence="97" start="12" end="12"/>
+    <candidate sentence="46" start="25" end="25"/>
+    <candidate sentence="40" start="1" end="1"/>
+    <candidate sentence="130" start="13" end="13"/>
+    <candidate sentence="25" start="1" end="1"/>
+    <candidate sentence="28" start="1" end="1"/>
+    <candidate sentence="56" start="4" end="4"/>
+    <candidate sentence="109" start="3" end="3"/>
+    <candidate sentence="116" start="4" end="4"/>
+    <candidate sentence="23" start="18" end="18"/>
+    <candidate sentence="46" start="3" end="3"/>
+    <candidate sentence="29" start="27" end="27"/>
+    <candidate sentence="101" start="13" end="13"/>
+    <candidate sentence="73" start="10" end="10"/>
+    <candidate sentence="22" start="0" end="0"/>
+    <candidate sentence="20" start="1" end="1"/>
+    <candidate sentence="31" start="9" end="9"/>
+    <candidate sentence="117" start="23" end="23"/>
+    <candidate sentence="115" start="0" end="0"/>
+    <candidate sentence="116" start="16" end="16"/>
+  </implicit>
+  <implicit role="arg1|pursue.01" recoverable="True" sentence="89" predstart="7" predend="7" pos="NOUN" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="88" start="6" end="6"/>
+    <candidate sentence="70" start="57" end="57"/>
+    <candidate sentence="91" start="25" end="26"/>
+    <candidate sentence="84" start="13" end="13"/>
+    <candidate sentence="72" start="8" end="8"/>
+    <candidate sentence="84" start="4" end="4"/>
+    <candidate sentence="41" start="38" end="43"/>
+    <candidate sentence="70" start="47" end="47"/>
+    <candidate sentence="67" start="2" end="2"/>
+    <candidate sentence="82" start="4" end="4"/>
+    <candidate sentence="70" start="30" end="30"/>
+    <candidate sentence="73" start="1" end="1"/>
+    <candidate sentence="48" start="0" end="4"/>
+    <candidate sentence="73" start="5" end="5"/>
+    <candidate sentence="86" start="7" end="7"/>
+    <candidate sentence="85" start="3" end="3"/>
+    <candidate sentence="70" start="51" end="51"/>
+    <candidate sentence="69" start="7" end="7"/>
+    <candidate sentence="66" start="2" end="4"/>
+    <candidate sentence="70" start="20" end="20"/>
+    <candidate sentence="71" start="8" end="8"/>
+    <candidate sentence="82" start="0" end="0"/>
+    <candidate sentence="67" start="10" end="10"/>
+    <candidate sentence="74" start="13" end="13"/>
+    <candidate sentence="69" start="2" end="2"/>
+    <candidate sentence="84" start="1" end="1"/>
+    <candidate sentence="83" start="0" end="0"/>
+    <candidate sentence="76" start="11" end="11"/>
+    <candidate sentence="86" start="5" end="5"/>
+    <candidate sentence="87" start="3" end="3"/>
+    <candidate sentence="77" start="3" end="3"/>
+    <candidate sentence="27" start="4" end="4"/>
+    <candidate sentence="39" start="8" end="12"/>
+    <candidate sentence="56" start="1" end="1"/>
+    <candidate sentence="31" start="8" end="12"/>
+    <candidate sentence="96" start="18" end="20"/>
+    <candidate sentence="71" start="3" end="3"/>
+    <candidate sentence="70" start="41" end="41"/>
+    <candidate sentence="31" start="6" end="7"/>
+    <candidate sentence="67" start="14" end="14"/>
+    <candidate sentence="67" start="8" end="8"/>
+    <candidate sentence="76" start="4" end="4"/>
+    <candidate sentence="74" start="7" end="7"/>
+    <candidate sentence="70" start="44" end="44"/>
+    <candidate sentence="70" start="35" end="35"/>
+    <candidate sentence="70" start="28" end="28"/>
+    <candidate sentence="70" start="0" end="0"/>
+    <candidate sentence="71" start="1" end="1"/>
+    <candidate sentence="76" start="6" end="6"/>
+    <candidate sentence="67" start="5" end="5"/>
+    <candidate sentence="57" start="9" end="11"/>
+    <candidate sentence="88" start="6" end="6"/>
+    <candidate sentence="76" start="17" end="17"/>
+  </implicit>
+  <implicit role="arg1|shock.01" recoverable="True" sentence="92" predstart="2" predend="2" pos="VERB" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="92" start="9" end="9"/>
+    <candidate sentence="5" start="13" end="13"/>
+    <candidate sentence="92" start="15" end="15"/>
+    <candidate sentence="18" start="5" end="5"/>
+    <candidate sentence="59" start="1" end="1"/>
+    <candidate sentence="20" start="4" end="4"/>
+    <candidate sentence="19" start="16" end="16"/>
+    <candidate sentence="19" start="8" end="8"/>
+    <candidate sentence="54" start="2" end="2"/>
+    <candidate sentence="11" start="9" end="9"/>
+    <candidate sentence="13" start="6" end="6"/>
+    <candidate sentence="91" start="14" end="14"/>
+    <candidate sentence="92" start="9" end="9"/>
+    <candidate sentence="11" start="2" end="2"/>
+    <candidate sentence="17" start="14" end="14"/>
+    <candidate sentence="91" start="20" end="20"/>
+    <candidate sentence="58" start="0" end="2"/>
+    <candidate sentence="15" start="3" end="3"/>
+    <candidate sentence="90" start="16" end="17"/>
+    <candidate sentence="55" start="2" end="2"/>
+    <candidate sentence="91" start="28" end="28"/>
+    <candidate sentence="94" start="29" end="29"/>
+    <candidate sentence="16" start="0" end="0"/>
+    <candidate sentence="10" start="1" end="1"/>
+    <candidate sentence="18" start="9" end="9"/>
+    <candidate sentence="94" start="25" end="25"/>
+    <candidate sentence="17" start="1" end="1"/>
+    <candidate sentence="91" start="11" end="11"/>
+    <candidate sentence="19" start="12" end="12"/>
+    <candidate sentence="8" start="4" end="4"/>
+    <candidate sentence="5" start="2" end="2"/>
+    <candidate sentence="5" start="7" end="9"/>
+    <candidate sentence="18" start="0" end="0"/>
+    <candidate sentence="19" start="2" end="2"/>
+    <candidate sentence="94" start="13" end="14"/>
+  </implicit>
+  <implicit role="arg1|fear.01" recoverable="False" sentence="95" predstart="25" predend="25" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|plant.01" recoverable="True" sentence="99" predstart="8" predend="8" pos="VERB" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="86" start="0" end="0"/>
+    <candidate sentence="96" start="25" end="25"/>
+    <candidate sentence="86" start="0" end="0"/>
+    <candidate sentence="91" start="3" end="4"/>
+  </implicit>
+  <implicit role="arg2|seize.01" recoverable="True" sentence="104" predstart="12" predend="12" pos="VERB" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="103" start="0" end="20"/>
+  </implicit>
+  <implicit role="arg1|throw.01" recoverable="True" sentence="110" predstart="1" predend="1" pos="VERB" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="109" start="8" end="8"/>
+    <candidate sentence="109" start="7" end="7"/>
+    <candidate sentence="109" start="6" end="6"/>
+    <candidate sentence="109" start="5" end="5"/>
+    <candidate sentence="109" start="6" end="6"/>
+    <candidate sentence="135" start="14" end="15"/>
+    <candidate sentence="109" start="4" end="4"/>
+    <candidate sentence="94" start="25" end="25"/>
+    <candidate sentence="109" start="3" end="3"/>
+    <candidate sentence="109" start="5" end="5"/>
+    <candidate sentence="109" start="5" end="5"/>
+    <candidate sentence="109" start="6" end="6"/>
+    <candidate sentence="135" start="14" end="15"/>
+    <candidate sentence="109" start="4" end="4"/>
+    <candidate sentence="94" start="25" end="25"/>
+    <candidate sentence="109" start="3" end="3"/>
+  </implicit>
+  <implicit role="arg1|flee.05" recoverable="False" sentence="110" predstart="7" predend="7" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|set.01" recoverable="True" sentence="112" predstart="10" predend="10" pos="ADJ" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="112" start="0" end="0"/>
+    <candidate sentence="132" start="42" end="42"/>
+    <candidate sentence="120" start="25" end="29"/>
+    <candidate sentence="121" start="11" end="11"/>
+    <candidate sentence="115" start="5" end="5"/>
+    <candidate sentence="119" start="9" end="9"/>
+    <candidate sentence="121" start="5" end="5"/>
+    <candidate sentence="132" start="31" end="31"/>
+    <candidate sentence="97" start="24" end="24"/>
+    <candidate sentence="110" start="4" end="4"/>
+    <candidate sentence="131" start="7" end="7"/>
+    <candidate sentence="110" start="6" end="6"/>
+    <candidate sentence="97" start="25" end="25"/>
+    <candidate sentence="114" start="1" end="1"/>
+    <candidate sentence="121" start="14" end="14"/>
+    <candidate sentence="120" start="22" end="22"/>
+    <candidate sentence="131" start="0" end="0"/>
+    <candidate sentence="137" start="29" end="29"/>
+    <candidate sentence="114" start="9" end="9"/>
+    <candidate sentence="113" start="0" end="0"/>
+    <candidate sentence="132" start="3" end="3"/>
+    <candidate sentence="113" start="3" end="3"/>
+    <candidate sentence="131" start="3" end="3"/>
+    <candidate sentence="112" start="0" end="0"/>
+    <candidate sentence="119" start="18" end="18"/>
+    <candidate sentence="112" start="4" end="4"/>
+    <candidate sentence="88" start="6" end="6"/>
+  </implicit>
+  <implicit role="arg2|flee.05" recoverable="True" sentence="113" predstart="1" predend="1" pos="VERB" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="77" start="0" end="0"/>
+  </implicit>
+  <implicit role="arg1|flee.05" recoverable="False" sentence="114" predstart="10" predend="10" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg4|come.01" recoverable="True" sentence="115" predstart="6" predend="6" pos="VERB" implicit-role-type="same-sentence">
+    <candidate sentence="115" start="7" end="8"/>
+  </implicit>
+  <implicit role="arg2|safe.01" recoverable="False" sentence="115" predstart="10" predend="10" pos="NOUN" implicit-role-type="missing"/>
+  <implicit role="arg0|find.01" recoverable="True" sentence="117" predstart="5" predend="5" pos="VERB" implicit-role-type="cross-sentence-anaphoric">
+    <candidate sentence="117" start="23" end="23"/>
+    <candidate sentence="45" start="32" end="32"/>
+    <candidate sentence="117" start="32" end="32"/>
+    <candidate sentence="101" start="8" end="8"/>
+    <candidate sentence="88" start="8" end="8"/>
+    <candidate sentence="21" start="4" end="4"/>
+    <candidate sentence="121" start="2" end="2"/>
+    <candidate sentence="40" start="13" end="13"/>
+    <candidate sentence="22" start="2" end="2"/>
+    <candidate sentence="135" start="21" end="21"/>
+    <candidate sentence="5" start="0" end="0"/>
+    <candidate sentence="23" start="7" end="7"/>
+    <candidate sentence="7" start="4" end="4"/>
+    <candidate sentence="31" start="3" end="3"/>
+    <candidate sentence="100" start="26" end="26"/>
+    <candidate sentence="97" start="22" end="22"/>
+    <candidate sentence="100" start="18" end="18"/>
+    <candidate sentence="102" start="14" end="14"/>
+    <candidate sentence="22" start="7" end="7"/>
+    <candidate sentence="23" start="20" end="20"/>
+    <candidate sentence="67" start="18" end="18"/>
+    <candidate sentence="96" start="14" end="14"/>
+    <candidate sentence="19" start="0" end="0"/>
+    <candidate sentence="101" start="44" end="44"/>
+    <candidate sentence="89" start="4" end="4"/>
+    <candidate sentence="22" start="10" end="10"/>
+    <candidate sentence="100" start="46" end="46"/>
+    <candidate sentence="17" start="9" end="9"/>
+    <candidate sentence="72" start="5" end="5"/>
+    <candidate sentence="88" start="2" end="2"/>
+    <candidate sentence="98" start="0" end="0"/>
+    <candidate sentence="118" start="8" end="8"/>
+    <candidate sentence="135" start="20" end="20"/>
+    <candidate sentence="97" start="2" end="2"/>
+    <candidate sentence="72" start="2" end="2"/>
+    <candidate sentence="102" start="2" end="2"/>
+    <candidate sentence="38" start="4" end="6"/>
+    <candidate sentence="101" start="5" end="5"/>
+    <candidate sentence="39" start="14" end="14"/>
+    <candidate sentence="29" start="7" end="7"/>
+    <candidate sentence="101" start="26" end="26"/>
+    <candidate sentence="97" start="12" end="12"/>
+    <candidate sentence="46" start="25" end="25"/>
+    <candidate sentence="40" start="1" end="1"/>
+    <candidate sentence="130" start="13" end="13"/>
+    <candidate sentence="25" start="1" end="1"/>
+    <candidate sentence="28" start="1" end="1"/>
+    <candidate sentence="56" start="4" end="4"/>
+    <candidate sentence="109" start="3" end="3"/>
+    <candidate sentence="116" start="4" end="4"/>
+    <candidate sentence="23" start="18" end="18"/>
+    <candidate sentence="46" start="3" end="3"/>
+    <candidate sentence="29" start="27" end="27"/>
+    <candidate sentence="101" start="13" end="13"/>
+    <candidate sentence="73" start="10" end="10"/>
+    <candidate sentence="22" start="0" end="0"/>
+    <candidate sentence="20" start="1" end="1"/>
+    <candidate sentence="31" start="9" end="9"/>
+    <candidate sentence="117" start="23" end="23"/>
+    <candidate sentence="115" start="0" end="0"/>
+    <candidate sentence="116" start="16" end="16"/>
+  </implicit>
+  <implicit role="arg1|doubt.01" recoverable="True" sentence="123" predstart="16" predend="16" pos="VERB" implicit-role-type="same-sentence">
+    <candidate sentence="123" start="0" end="25"/>
+  </implicit>
+  <implicit role="arg1|effort.01" recoverable="False" sentence="132" predstart="39" predend="39" pos="NOUN" implicit-role-type="missing"/>
+  <implicit role="arg2|say.01" recoverable="False" sentence="0" predstart="5" predend="5" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|say.01" recoverable="False" sentence="0" predstart="5" predend="5" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|say.01" recoverable="False" sentence="2" predstart="2" predend="2" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|say.01" recoverable="False" sentence="2" predstart="2" predend="2" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|say.01" recoverable="False" sentence="3" predstart="8" predend="8" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|say.01" recoverable="False" sentence="3" predstart="8" predend="8" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|receive.01" recoverable="False" sentence="7" predstart="8" predend="8" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg4|receive.01" recoverable="False" sentence="7" predstart="8" predend="8" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|enough.01" recoverable="False" sentence="10" predstart="3" predend="3" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|enough.01" recoverable="False" sentence="10" predstart="3" predend="3" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|propose.01" recoverable="False" sentence="14" predstart="3" predend="3" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|propose.01" recoverable="False" sentence="14" predstart="3" predend="3" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|do.02" recoverable="False" sentence="14" predstart="5" predend="5" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|do.02" recoverable="False" sentence="14" predstart="5" predend="5" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|do.02" recoverable="False" sentence="14" predstart="5" predend="5" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg4|do.02" recoverable="False" sentence="14" predstart="5" predend="5" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|leave.15" recoverable="False" sentence="15" predstart="2" predend="2" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|leave.15" recoverable="False" sentence="15" predstart="2" predend="2" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|wait.01" recoverable="False" sentence="17" predstart="3" predend="3" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|go.01" recoverable="False" sentence="17" predstart="11" predend="11" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|go.01" recoverable="False" sentence="17" predstart="11" predend="11" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|try.01" recoverable="False" sentence="18" predstart="1" predend="1" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|leave.11" recoverable="False" sentence="20" predstart="3" predend="3" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|say.01" recoverable="False" sentence="20" predstart="8" predend="8" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|say.01" recoverable="False" sentence="20" predstart="8" predend="8" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|important.01" recoverable="False" sentence="21" predstart="15" predend="15" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|do.02" recoverable="False" sentence="21" predstart="8" predend="8" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|do.02" recoverable="False" sentence="21" predstart="8" predend="8" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|do.02" recoverable="False" sentence="21" predstart="8" predend="8" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg4|do.02" recoverable="False" sentence="21" predstart="8" predend="8" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|find.01" recoverable="False" sentence="23" predstart="8" predend="8" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|step.01" recoverable="False" sentence="23" predstart="21" predend="21" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|step.01" recoverable="False" sentence="23" predstart="21" predend="21" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|step.01" recoverable="False" sentence="23" predstart="21" predend="21" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg4|step.01" recoverable="False" sentence="23" predstart="21" predend="21" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|follow.02" recoverable="False" sentence="26" predstart="2" predend="2" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|go.01" recoverable="False" sentence="27" predstart="5" predend="5" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|go.01" recoverable="False" sentence="27" predstart="5" predend="5" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg4|go.01" recoverable="False" sentence="27" predstart="5" predend="5" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|search.01" recoverable="False" sentence="28" predstart="2" predend="2" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|hurry.01" recoverable="False" sentence="29" predstart="11" predend="11" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|hurry.01" recoverable="False" sentence="29" predstart="11" predend="11" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|rush.01" recoverable="False" sentence="29" predstart="8" predend="8" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|open.09" recoverable="False" sentence="29" predstart="4" predend="4" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|open.09" recoverable="False" sentence="29" predstart="4" predend="4" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|open.09" recoverable="False" sentence="29" predstart="4" predend="4" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|see.01" recoverable="False" sentence="31" predstart="4" predend="4" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|open.01" recoverable="False" sentence="35" predstart="0" predend="0" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|open.01" recoverable="False" sentence="35" predstart="0" predend="0" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|open.01" recoverable="False" sentence="35" predstart="0" predend="0" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|come.01" recoverable="False" sentence="36" predstart="5" predend="5" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|fly.01" recoverable="False" sentence="37" predstart="16" predend="16" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|fly.01" recoverable="False" sentence="37" predstart="16" predend="16" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|fly.01" recoverable="False" sentence="37" predstart="16" predend="16" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg4|fly.01" recoverable="False" sentence="37" predstart="16" predend="16" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|open.09" recoverable="False" sentence="37" predstart="17" predend="17" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|open.09" recoverable="False" sentence="37" predstart="17" predend="17" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|open.09" recoverable="False" sentence="37" predstart="17" predend="17" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|rush.01" recoverable="False" sentence="38" predstart="7" predend="7" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|see.01" recoverable="False" sentence="39" predstart="17" predend="17" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|stare.01" recoverable="False" sentence="40" predstart="18" predend="18" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|unexpected.01" recoverable="False" sentence="40" predstart="11" predend="11" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|fashion.01" recoverable="False" sentence="41" predstart="4" predend="4" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|form.01" recoverable="False" sentence="41" predstart="30" predend="30" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|form.01" recoverable="False" sentence="41" predstart="30" predend="30" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|form.01" recoverable="False" sentence="41" predstart="30" predend="30" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg4|form.01" recoverable="False" sentence="41" predstart="30" predend="30" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|place.01" recoverable="False" sentence="42" predstart="15" predend="15" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|secure.02" recoverable="False" sentence="43" predstart="20" predend="20" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|secure.02" recoverable="False" sentence="43" predstart="20" predend="20" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|secure.02" recoverable="False" sentence="43" predstart="20" predend="20" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|use.01" recoverable="False" sentence="43" predstart="18" predend="18" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|use.01" recoverable="False" sentence="43" predstart="18" predend="18" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|secure.02" recoverable="False" sentence="44" predstart="8" predend="8" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|secure.02" recoverable="False" sentence="44" predstart="8" predend="8" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|ask.01" recoverable="False" sentence="54" predstart="7" predend="7" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|satisfy.01" recoverable="False" sentence="63" predstart="6" predend="6" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|thank.01" recoverable="False" sentence="64" predstart="1" predend="1" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|thank.01" recoverable="False" sentence="65" predstart="0" predend="0" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|see.01" recoverable="False" sentence="67" predstart="0" predend="0" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|know.01" recoverable="False" sentence="70" predstart="36" predend="36" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|speak.01" recoverable="False" sentence="70" predstart="58" predend="58" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|speak.01" recoverable="False" sentence="70" predstart="58" predend="58" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|deceive.01" recoverable="False" sentence="70" predstart="13" predend="13" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|deceive.01" recoverable="False" sentence="70" predstart="13" predend="13" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|say.01" recoverable="False" sentence="71" predstart="11" predend="11" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|say.01" recoverable="False" sentence="71" predstart="11" predend="11" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|flee.05" recoverable="False" sentence="74" predstart="10" predend="10" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|prepare.02" recoverable="False" sentence="76" predstart="14" predend="14" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|prepare.02" recoverable="False" sentence="76" predstart="14" predend="14" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|fly.01" recoverable="False" sentence="77" predstart="5" predend="5" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|fly.01" recoverable="False" sentence="77" predstart="5" predend="5" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|fly.01" recoverable="False" sentence="77" predstart="5" predend="5" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg4|fly.01" recoverable="False" sentence="77" predstart="5" predend="5" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|say.01" recoverable="False" sentence="80" predstart="4" predend="4" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|say.01" recoverable="False" sentence="80" predstart="4" predend="4" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|see.01" recoverable="False" sentence="80" predstart="1" predend="1" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|see.01" recoverable="False" sentence="80" predstart="1" predend="1" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|see.01" recoverable="False" sentence="85" predstart="4" predend="4" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|mark.01" recoverable="False" sentence="86" predstart="10" predend="10" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|go.01" recoverable="False" sentence="90" predstart="13" predend="13" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|go.01" recoverable="False" sentence="90" predstart="13" predend="13" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|possess.01" recoverable="False" sentence="90" predstart="5" predend="5" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|shock.01" recoverable="False" sentence="92" predstart="2" predend="2" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|shock.01" recoverable="False" sentence="92" predstart="2" predend="2" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|try.01" recoverable="False" sentence="95" predstart="17" predend="17" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|read.01" recoverable="False" sentence="95" predstart="21" predend="21" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|read.01" recoverable="False" sentence="95" predstart="21" predend="21" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|read.01" recoverable="False" sentence="95" predstart="21" predend="21" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|fear.01" recoverable="False" sentence="95" predstart="25" predend="25" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|fear.01" recoverable="False" sentence="95" predstart="25" predend="25" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|die.01" recoverable="False" sentence="96" predstart="5" predend="5" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|find.01" recoverable="False" sentence="96" predstart="27" predend="27" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|help.01" recoverable="False" sentence="97" predstart="1" predend="1" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|leave.15" recoverable="False" sentence="98" predstart="1" predend="1" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|leave.15" recoverable="False" sentence="98" predstart="1" predend="1" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|plunge.01" recoverable="False" sentence="100" predstart="25" predend="25" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|plunge.01" recoverable="False" sentence="100" predstart="25" predend="25" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg5|plunge.01" recoverable="False" sentence="100" predstart="25" predend="25" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|walk.01" recoverable="False" sentence="101" predstart="9" predend="9" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|walk.01" recoverable="False" sentence="101" predstart="9" predend="9" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|step.01" recoverable="False" sentence="104" predstart="7" predend="7" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|step.01" recoverable="False" sentence="104" predstart="7" predend="7" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg4|step.01" recoverable="False" sentence="104" predstart="7" predend="7" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|drag.01" recoverable="False" sentence="104" predstart="22" predend="22" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|say.01" recoverable="False" sentence="108" predstart="9" predend="9" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|say.01" recoverable="False" sentence="108" predstart="9" predend="9" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|throw.01" recoverable="False" sentence="110" predstart="1" predend="1" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|flee.05" recoverable="False" sentence="110" predstart="7" predend="7" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|use.01" recoverable="False" sentence="112" predstart="7" predend="7" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|use.01" recoverable="False" sentence="112" predstart="7" predend="7" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|flee.05" recoverable="False" sentence="113" predstart="1" predend="1" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|know.01" recoverable="False" sentence="113" predstart="4" predend="4" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|flee.05" recoverable="False" sentence="114" predstart="10" predend="10" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|come.01" recoverable="False" sentence="115" predstart="6" predend="6" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|come.01" recoverable="False" sentence="115" predstart="6" predend="6" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|know.01" recoverable="False" sentence="115" predstart="1" predend="1" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|safe.01" recoverable="False" sentence="115" predstart="10" predend="10" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|safe.01" recoverable="False" sentence="115" predstart="10" predend="10" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|know.01" recoverable="False" sentence="116" predstart="9" predend="9" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|look.01" recoverable="False" sentence="117" predstart="34" predend="34" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|find.01" recoverable="False" sentence="117" predstart="5" predend="5" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|hide.01" recoverable="False" sentence="121" predstart="13" predend="13" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|hide.01" recoverable="False" sentence="121" predstart="13" predend="13" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|doubt.01" recoverable="False" sentence="123" predstart="16" predend="16" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|confine.01" recoverable="False" sentence="124" predstart="20" predend="20" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|confine.01" recoverable="False" sentence="125" predstart="6" predend="6" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|say.01" recoverable="False" sentence="127" predstart="5" predend="5" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|say.01" recoverable="False" sentence="127" predstart="5" predend="5" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|see.01" recoverable="False" sentence="129" predstart="4" predend="4" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|know.01" recoverable="False" sentence="130" predstart="5" predend="5" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|hide.01" recoverable="False" sentence="131" predstart="2" predend="2" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|hide.01" recoverable="False" sentence="131" predstart="2" predend="2" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg1|do.02" recoverable="False" sentence="132" predstart="44" predend="44" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|do.02" recoverable="False" sentence="132" predstart="44" predend="44" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|do.02" recoverable="False" sentence="132" predstart="44" predend="44" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg4|do.02" recoverable="False" sentence="132" predstart="44" predend="44" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg0|doubt.01" recoverable="False" sentence="133" predstart="7" predend="7" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|die.01" recoverable="False" sentence="134" predstart="25" predend="25" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|die.01" recoverable="False" sentence="136" predstart="18" predend="18" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|help.01" recoverable="False" sentence="137" predstart="20" predend="20" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|say.01" recoverable="False" sentence="137" predstart="1" predend="1" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|say.01" recoverable="False" sentence="137" predstart="1" predend="1" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg2|say.01" recoverable="False" sentence="137" predstart="10" predend="10" pos="VERB" implicit-role-type="missing"/>
+  <implicit role="arg3|say.01" recoverable="False" sentence="137" predstart="10" predend="10" pos="VERB" implicit-role-type="missing"/>
+</ISRLSPANS>

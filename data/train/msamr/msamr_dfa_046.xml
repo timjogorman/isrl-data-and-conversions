@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ISRLSPANS sourcefile="msamr_dfa_046">
+  <implicit role="arg2|prevent.01" recoverable="True" implicit-role-type="cross-sentence-anaphoric" sentence="4" predstart="14" predend="14" pos="VERB">
+    <candidate sentence="3" start="2" end="2"/>
+    <candidate sentence="1" start="10" end="10"/>
+    <candidate sentence="5" start="6" end="6"/>
+  </implicit>
+  <implicit role="arg1|work.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="2" predend="2" pos="VERB"/>
+  <implicit role="arg4|work.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="2" predend="2" pos="VERB"/>
+  <implicit role="arg5|work.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="2" predend="2" pos="VERB"/>
+  <implicit role="arg2|report.01" recoverable="False" implicit-role-type="missing" sentence="1" predstart="1" predend="1" pos="VERB"/>
+  <implicit role="arg0|release.01" recoverable="False" implicit-role-type="missing" sentence="1" predstart="16" predend="16" pos="VERB"/>
+  <implicit role="arg0|regulate.01" recoverable="False" implicit-role-type="missing" sentence="1" predstart="10" predend="10" pos="VERB"/>
+  <implicit role="arg2|release.01" recoverable="False" implicit-role-type="missing" sentence="1" predstart="16" predend="16" pos="VERB"/>
+  <implicit role="arg4|do.02" recoverable="False" implicit-role-type="missing" sentence="4" predstart="20" predend="20" pos="VERB"/>
+  <implicit role="arg0|do.02" recoverable="False" implicit-role-type="missing" sentence="4" predstart="20" predend="20" pos="VERB"/>
+  <implicit role="arg3|do.02" recoverable="False" implicit-role-type="missing" sentence="4" predstart="20" predend="20" pos="VERB"/>
+  <implicit role="arg1|curse.02" recoverable="False" implicit-role-type="missing" sentence="6" predstart="3" predend="3" pos="VERB"/>
+  <implicit role="arg4|do.02" recoverable="False" implicit-role-type="missing" sentence="5" predstart="5" predend="5" pos="VERB"/>
+  <implicit role="arg3|do.02" recoverable="False" implicit-role-type="missing" sentence="5" predstart="5" predend="5" pos="VERB"/>
+  <implicit role="arg2|start.01" recoverable="False" implicit-role-type="missing" sentence="5" predstart="4" predend="4" pos="VERB"/>
+</ISRLSPANS>

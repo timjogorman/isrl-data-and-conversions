@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="wsj_2444">
+<implicit role="arg0|price.01" recoverable="False" implicit-role-type="missing" predstart="27" predend="27" sentence="1"/>
+
+<implicit role="arg3|price.01" recoverable="False" implicit-role-type="missing" predstart="27" predend="27" sentence="1"/>
+
+<implicit role="arg3|loss.01" recoverable="True" implicit-role-type="same-sentence" predstart="24" predend="24" sentence="39">
+			<candidate sentence="39" start="0" end="16"/>
+			<candidate sentence="39" start="19" end="19"/>
+</implicit>
+
+<implicit role="arg0|sell.01" recoverable="False" implicit-role-type="missing" predstart="18" predend="18" sentence="21"/>
+
+<implicit role="arg2|sell.01" recoverable="False" implicit-role-type="missing" predstart="18" predend="18" sentence="21"/>
+
+<implicit role="arg3|sell.01" recoverable="False" implicit-role-type="missing" predstart="18" predend="18" sentence="21"/>
+
+<implicit role="arg4|sell.01" recoverable="False" implicit-role-type="missing" predstart="18" predend="18" sentence="21"/>
+
+<implicit role="arg1|sell.01" recoverable="True" implicit-role-type="same-sentence" predstart="19" predend="19" sentence="10">
+			<candidate sentence="10" start="14" end="14"/>
+</implicit>
+
+<implicit role="arg2|sell.01" recoverable="False" implicit-role-type="missing" predstart="19" predend="19" sentence="10"/>
+
+<implicit role="arg3|sell.01" recoverable="False" implicit-role-type="missing" predstart="19" predend="19" sentence="10"/>
+
+<implicit role="arg4|sell.01" recoverable="False" implicit-role-type="missing" predstart="19" predend="19" sentence="10"/>
+
+<implicit role="arg0|sell.01" recoverable="False" implicit-role-type="missing" predstart="12" predend="12" sentence="11"/>
+
+<implicit role="arg2|sell.01" recoverable="False" implicit-role-type="missing" predstart="12" predend="12" sentence="11"/>
+
+<implicit role="arg3|sell.01" recoverable="False" implicit-role-type="missing" predstart="12" predend="12" sentence="11"/>
+
+<implicit role="arg4|sell.01" recoverable="False" implicit-role-type="missing" predstart="12" predend="12" sentence="11"/>
+
+
+</ISRLSPANS>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ISRLSPANS sourcefile="msamr_dfa_011">
+  <implicit role="arg3|spend.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="11" predend="11" pos="VERB"/>
+  <implicit role="arg0|obligate.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="2" predend="2" pos="VERB"/>
+  <implicit role="arg1|obligate.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="2" predend="2" pos="VERB"/>
+  <implicit role="arg2|return.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="3" predend="3" pos="VERB"/>
+  <implicit role="arg0|need.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="14" predend="14" pos="ADJ"/>
+  <implicit role="arg0|issue.02" recoverable="False" implicit-role-type="missing" sentence="0" predstart="36" predend="36" pos="NOUN"/>
+  <implicit role="arg3|return.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="3" predend="3" pos="VERB"/>
+  <implicit role="arg2|right.08" recoverable="False" implicit-role-type="missing" sentence="0" predstart="24" predend="24" pos="ADJ"/>
+  <implicit role="arg2|spend.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="11" predend="11" pos="VERB"/>
+  <implicit role="arg1|issue.02" recoverable="False" implicit-role-type="missing" sentence="0" predstart="36" predend="36" pos="NOUN"/>
+  <implicit role="arg3|right.08" recoverable="False" implicit-role-type="missing" sentence="0" predstart="24" predend="24" pos="ADJ"/>
+  <implicit role="arg1|lose.02" recoverable="False" implicit-role-type="missing" sentence="1" predstart="3" predend="3" pos="NOUN"/>
+  <implicit role="arg0|lose.02" recoverable="False" implicit-role-type="missing" sentence="1" predstart="3" predend="3" pos="NOUN"/>
+  <implicit role="arg1|progressive.02" recoverable="False" implicit-role-type="missing" sentence="1" predstart="11" predend="11" pos="ADJ"/>
+  <implicit role="arg3|lose.02" recoverable="False" implicit-role-type="missing" sentence="1" predstart="3" predend="3" pos="NOUN"/>
+  <implicit role="arg2|vote.01" recoverable="False" implicit-role-type="missing" sentence="2" predstart="13" predend="13" pos="VERB"/>
+  <implicit role="arg3|vote.01" recoverable="False" implicit-role-type="missing" sentence="2" predstart="13" predend="13" pos="VERB"/>
+  <implicit role="arg0|interest.01" recoverable="False" implicit-role-type="missing" sentence="2" predstart="2" predend="2" pos="ADJ"/>
+  <implicit role="arg1|interest.01" recoverable="False" implicit-role-type="missing" sentence="2" predstart="2" predend="2" pos="ADJ"/>
+  <implicit role="arg3|vote.01" recoverable="False" implicit-role-type="missing" sentence="3" predstart="2" predend="2" pos="VERB"/>
+  <implicit role="arg2|vote.01" recoverable="False" implicit-role-type="missing" sentence="3" predstart="2" predend="2" pos="VERB"/>
+  <implicit role="arg0|misrepresent.01" recoverable="False" implicit-role-type="missing" sentence="4" predstart="7" predend="7" pos="VERB"/>
+  <implicit role="arg1|result.01" recoverable="False" implicit-role-type="missing" sentence="4" predstart="2" predend="2" pos="NOUN"/>
+</ISRLSPANS>

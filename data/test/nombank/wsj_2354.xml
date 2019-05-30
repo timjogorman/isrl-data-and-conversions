@@ -1,0 +1,11 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="wsj_2354">
+<implicit role="arg0|loan.01" recoverable="False" implicit-role-type="missing" predstart="7" predend="7" sentence="1"/>
+
+<implicit role="arg1|loan.01" recoverable="False" implicit-role-type="missing" predstart="7" predend="7" sentence="1"/>
+
+<implicit role="arg2|loan.01" recoverable="False" implicit-role-type="missing" predstart="7" predend="7" sentence="1"/>
+
+
+</ISRLSPANS>

@@ -1,0 +1,25 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_870">
+
+<implicit role="arg0|scapegoat.01" recoverable="True" implicit-role-type="same-sentence" predstart="38" predend="38" sentence="0">
+    <candidate sentence="0" start="6" end="7"/>
+</implicit>
+
+<implicit role="arg0|repress.01" recoverable="True" implicit-role-type="same-sentence" predstart="34" predend="34" sentence="0">
+    <candidate sentence="0" start="6" end="7"/>
+</implicit>
+
+<implicit role="arg0|mismanage.01" recoverable="True" implicit-role-type="same-sentence" predstart="42" predend="42" sentence="0">
+    <candidate sentence="0" start="6" end="7"/>
+</implicit>
+
+<implicit role="arg0|excuse.02" recoverable="True" implicit-role-type="same-sentence" predstart="32" predend="32" sentence="0">
+    <candidate sentence="0" start="6" end="7"/>
+</implicit>
+<implicit role="arg0|pressure.01" recoverable="False" implicit-role-type="missing" predstart="26" predend="26" sentence="0"/>
+<implicit role="arg2|fall.01" recoverable="False" implicit-role-type="missing" predstart="4" predend="4" sentence="0"/>
+<implicit role="arg0|increase.01" recoverable="False" implicit-role-type="missing" predstart="24" predend="24" sentence="0"/>
+<implicit role="arg2|say.01" recoverable="False" implicit-role-type="missing" predstart="19" predend="19" sentence="0"/>
+</ISRLSPANS>
+

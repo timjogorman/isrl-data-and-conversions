@@ -1,0 +1,33 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="amrsamesent_1834">
+
+<implicit role="arg0|cooperate.01" recoverable="True" implicit-role-type="same-sentence" predstart="48" predend="48" sentence="0">
+    <candidate sentence="0" start="0" end="16"/>
+</implicit>
+
+<implicit role="arg0|market.01" recoverable="True" implicit-role-type="same-sentence" predstart="29" predend="29" sentence="0">
+    <candidate sentence="0" start="0" end="16"/>
+</implicit>
+
+<implicit role="arg0|assemble.01" recoverable="True" implicit-role-type="same-sentence" predstart="27" predend="27" sentence="0">
+    <candidate sentence="0" start="0" end="16"/>
+</implicit>
+
+<implicit role="arg0|trade.01" recoverable="True" implicit-role-type="same-sentence" predstart="43" predend="43" sentence="0">
+    <candidate sentence="0" start="0" end="16"/>
+</implicit>
+
+<implicit role="arg0|manufacture.01" recoverable="True" implicit-role-type="same-sentence" predstart="25" predend="25" sentence="0">
+    <candidate sentence="0" start="0" end="16"/>
+</implicit>
+<implicit role="arg1|engage.01" recoverable="False" implicit-role-type="missing" predstart="18" predend="18" sentence="0"/>
+<implicit role="arg2|develop.02" recoverable="False" implicit-role-type="missing" predstart="21" predend="21" sentence="0"/>
+<implicit role="arg2|produce.01" recoverable="False" implicit-role-type="missing" predstart="23" predend="23" sentence="0"/>
+<implicit role="arg0|import.01" recoverable="False" implicit-role-type="missing" predstart="40" predend="40" sentence="0"/>
+<implicit role="arg0|export.01" recoverable="False" implicit-role-type="missing" predstart="42" predend="42" sentence="0"/>
+<implicit role="arg1|consult.01" recoverable="False" implicit-role-type="missing" predstart="45" predend="45" sentence="0"/>
+<implicit role="arg0|name.01" recoverable="False" implicit-role-type="missing" predstart="4" predend="4" sentence="0"/>
+<implicit role="arg0|diagnose.01" recoverable="False" implicit-role-type="missing" predstart="36" predend="36" sentence="0"/>
+</ISRLSPANS>
+

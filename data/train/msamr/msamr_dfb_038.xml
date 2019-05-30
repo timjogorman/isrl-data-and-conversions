@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ISRLSPANS sourcefile="msamr_dfb_038">
+  <implicit role="arg0|sad.02" recoverable="True" implicit-role-type="cross-sentence-anaphoric" sentence="2" predstart="1" predend="1" pos="ADJ">
+    <candidate sentence="1" start="3" end="3"/>
+  </implicit>
+  <implicit role="arg2|kill.01" recoverable="True" implicit-role-type="same-sentence" sentence="3" predstart="12" predend="12" pos="VERB">
+    <candidate sentence="3" start="1" end="13"/>
+  </implicit>
+  <implicit role="arg1|attack.01" recoverable="True" implicit-role-type="same-sentence" sentence="1" predstart="2" predend="2" pos="NOUN">
+    <candidate sentence="1" start="7" end="7"/>
+  </implicit>
+  <implicit role="arg0|weekend.01" recoverable="False" implicit-role-type="missing" sentence="2" predstart="14" predend="14" pos="NOUN"/>
+  <implicit role="arg0|attack.01" recoverable="False" implicit-role-type="missing" sentence="2" predstart="10" predend="10" pos="NOUN"/>
+  <implicit role="arg1|weekend.01" recoverable="False" implicit-role-type="missing" sentence="2" predstart="14" predend="14" pos="NOUN"/>
+  <implicit role="arg0|weekend.01" recoverable="False" implicit-role-type="missing" sentence="3" predstart="10" predend="10" pos="NOUN"/>
+  <implicit role="arg0|bomb.01" recoverable="False" implicit-role-type="missing" sentence="3" predstart="4" predend="4" pos="NOUN"/>
+  <implicit role="arg1|weekend.01" recoverable="False" implicit-role-type="missing" sentence="3" predstart="10" predend="10" pos="NOUN"/>
+</ISRLSPANS>

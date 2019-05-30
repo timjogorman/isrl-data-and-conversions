@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<!DOCTYPE ISRLSPANS SYSTEM "isrl.dtd">
+<ISRLSPANS sourcefile="wsj_0290">
+<implicit role="arg1|price.01" recoverable="True" implicit-role-type="same-sentence" predstart="8" predend="8" sentence="27">
+			<candidate sentence="2" start="16" end="18"/>
+			<candidate sentence="2" start="16" end="23"/>
+			<candidate sentence="3" start="14" end="15"/>
+			<candidate sentence="4" start="30" end="31"/>
+			<candidate sentence="6" start="8" end="9"/>
+			<candidate sentence="6" start="8" end="14"/>
+			<candidate sentence="10" start="4" end="6"/>
+			<candidate sentence="11" start="10" end="12"/>
+			<candidate sentence="14" start="0" end="1"/>
+			<candidate sentence="14" start="0" end="6"/>
+			<candidate sentence="15" start="6" end="8"/>
+			<candidate sentence="24" start="1" end="3"/>
+			<candidate sentence="25" start="5" end="18"/>
+			<candidate sentence="26" start="9" end="14"/>
+			<candidate sentence="27" start="0" end="1"/>
+</implicit>
+
+<implicit role="arg0|price.01" recoverable="False" implicit-role-type="missing" predstart="8" predend="8" sentence="27"/>
+
+<implicit role="arg3|price.01" recoverable="False" implicit-role-type="missing" predstart="8" predend="8" sentence="27"/>
+
+<implicit role="arg0|price.01" recoverable="False" implicit-role-type="missing" predstart="5" predend="5" sentence="26"/>
+
+<implicit role="arg3|price.01" recoverable="False" implicit-role-type="missing" predstart="5" predend="5" sentence="26"/>
+
+
+</ISRLSPANS>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ISRLSPANS sourcefile="msamr_dfa_040">
+  <implicit role="arg1|amaze.01" recoverable="False" implicit-role-type="missing" sentence="3" predstart="2" predend="2" pos="ADJ"/>
+  <implicit role="arg2|take.01" recoverable="False" implicit-role-type="missing" sentence="3" predstart="9" predend="9" pos="VERB"/>
+  <implicit role="arg3|lose.02" recoverable="False" implicit-role-type="missing" sentence="4" predstart="6" predend="6" pos="VERB"/>
+  <implicit role="arg0|time.02" recoverable="False" implicit-role-type="missing" sentence="4" predstart="13" predend="13" pos="NOUN"/>
+  <implicit role="arg2|debate.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="9" predend="9" pos="NOUN"/>
+  <implicit role="arg3|mean.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="13" predend="13" pos="VERB"/>
+  <implicit role="arg1|debate.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="9" predend="9" pos="NOUN"/>
+  <implicit role="arg0|mean.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="13" predend="13" pos="VERB"/>
+  <implicit role="arg4|want.01" recoverable="False" implicit-role-type="missing" sentence="1" predstart="13" predend="13" pos="VERB"/>
+  <implicit role="arg2|want.01" recoverable="False" implicit-role-type="missing" sentence="1" predstart="13" predend="13" pos="VERB"/>
+  <implicit role="arg0|mainstream.02" recoverable="False" implicit-role-type="missing" sentence="1" predstart="9" predend="9" pos="NOUN"/>
+  <implicit role="arg2|right.06" recoverable="False" implicit-role-type="missing" sentence="1" predstart="3" predend="3" pos="ADJ"/>
+  <implicit role="arg2|talk.01" recoverable="False" implicit-role-type="missing" sentence="1" predstart="19" predend="19" pos="NOUN"/>
+  <implicit role="arg1|talk.01" recoverable="False" implicit-role-type="missing" sentence="1" predstart="19" predend="19" pos="NOUN"/>
+  <implicit role="arg3|want.01" recoverable="False" implicit-role-type="missing" sentence="1" predstart="13" predend="13" pos="VERB"/>
+</ISRLSPANS>

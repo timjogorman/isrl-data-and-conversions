@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ISRLSPANS sourcefile="msamr_dfa_017">
+  <implicit role="arg0|lose.02" recoverable="False" implicit-role-type="missing" sentence="3" predstart="11" predend="11" pos="VERB"/>
+  <implicit role="arg3|lose.02" recoverable="False" implicit-role-type="missing" sentence="3" predstart="11" predend="11" pos="VERB"/>
+  <implicit role="arg0|disappear.01" recoverable="False" implicit-role-type="missing" sentence="3" predstart="7" predend="7" pos="VERB"/>
+  <implicit role="arg1|mix.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="9" predend="9" pos="ADJ"/>
+  <implicit role="arg1|report.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="13" predend="13" pos="VERB"/>
+  <implicit role="arg0|mix.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="9" predend="9" pos="ADJ"/>
+  <implicit role="arg2|mix.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="9" predend="9" pos="ADJ"/>
+  <implicit role="arg2|report.01" recoverable="False" implicit-role-type="missing" sentence="0" predstart="13" predend="13" pos="VERB"/>
+  <implicit role="arg0|couple.01" recoverable="False" implicit-role-type="missing" sentence="2" predstart="0" predend="0" pos="VERB"/>
+  <implicit role="arg1|couple.01" recoverable="False" implicit-role-type="missing" sentence="2" predstart="0" predend="0" pos="VERB"/>
+  <implicit role="arg0|establish.01" recoverable="False" implicit-role-type="missing" sentence="2" predstart="5" predend="5" pos="VERB"/>
+  <implicit role="arg2|mix.01" recoverable="False" implicit-role-type="missing" sentence="1" predstart="7" predend="7" pos="ADJ"/>
+  <implicit role="arg1|mix.01" recoverable="False" implicit-role-type="missing" sentence="1" predstart="7" predend="7" pos="ADJ"/>
+  <implicit role="arg0|mix.01" recoverable="False" implicit-role-type="missing" sentence="1" predstart="7" predend="7" pos="ADJ"/>
+</ISRLSPANS>

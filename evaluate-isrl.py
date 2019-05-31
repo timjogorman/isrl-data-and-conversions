@@ -1,16 +1,17 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
 import typing
 import pathlib
 import json
 import argparse
 import logging
 import numpy as np
-
-
 import xml.etree.ElementTree as ET
-
 from collections import namedtuple
-implicitrole = namedtuple("Implicit", "file sentence index arg")
 from typing import List, Dict
+
+implicitrole = namedtuple("Implicit", "file sentence index arg")
 
 class Candidate:
     def __init__(self, file, sentence, start, end, heads=None):
@@ -27,15 +28,14 @@ class Candidate:
     def score(self, gold_other_candidate)-> float:
         '''
         I'm assuming the commonly assumed relaxation of Ruppenhofer et al. 2010 -- dice overlap between gold span and 
-        predicted span.  This returns that score.
+        predicted span.  
 
-        Technical quibble: Laparra and Rigau's scorer used the additional headedness constraint, which we aren't currently applying. 
-        That returns partial overlap if the syntactic head of the gold span is within predicted partial span, and 0 otherwise. 
-        
-        Issue: It hasn't been consistently used, gives roughly the same scores as simple dice score, requires consistent notion/annotation of 
-        a head, and headedness over BeyondNomBank was a bit of a wreck (annotated on PTB3, before the addition of hieararchical adnominal structure of 
-        Vadas and Curran '07').  
-
+        Technical note: I believe that all major recent systems (Cheng and Erk and Do and Bethard) report scores 
+        with simple dice overlap as used here.  For the sake of historical record: the Laparra and Rigau scorer  (and maybe Ruppenhofer et al.?)
+        uses an additional "headedness" constraint. This requires one (or more) "heads" for each gold mention as well as a span: predicted 
+        spans are scored by dice when the predicted span also contains the head, and 0 otherwise.   This results in an almost identical score
+        to the normal dice, but is occasionally stricter.  If people feel that this is important to
+        revert to, open an issue and I can try to add it as an option.
         '''
         if self.sentence == gold_other_candidate.sentence:
             pred_candidate_tokens = set(range(self.start, self.inclusive_end+1))
@@ -48,17 +48,33 @@ class Candidate:
 
 
 class ComparisonSet:
+    """ 
+    A list of assertions about a set of roles. 
+    """
+
     def __init__(self, is_gold=False):
+        """ 
+        Implicit roles are stored as a uniqe named tuple ("implicit") combining predicate location and argument.
+        """
+
         self.implicit_role_candidates = {}
         self.gold = is_gold
-    def process_arg(self, predicate, candidate):
-        self.implicit_role_candidates[predicate] = self.implicit_role_candidates.get(predicate, []) + [candidate]
-        if not self.gold and len(self.implicit_role_candidates[predicate]) > 1:
+    def process_arg(self, role_in_question, candidate):
+        """ 
+        Add a candidate referent to the current role. 
+        Candidates are stored in a list, but the Ruppenhofer et al. 2010 scoring assumes that prediction is only scored on a single role. 
+        """
+        self.implicit_role_candidates[role_in_question] = self.implicit_role_candidates.get(role_in_question, []) + [candidate]
+        if not self.gold and len(self.implicit_role_candidates[role_in_question]) > 1:
             logging.error("multiple candidates predicted for the same role -- we assume only the first!!")
 
     def size_of_recoverable_mentions(self):
+
         return len(self.implicit_role_candidates)
     def evaluate_candidate(self, implicit_role_id, candidate):
+        """ 
+        evaluate a predicted mention against a set of gold mentions
+        """
         if not self.gold:
             logging.error("wrong direction, treating predicted arguments as gold")
         best:float = 0.0
@@ -69,7 +85,35 @@ class ComparisonSet:
 
             best = max(partial_overlap, best)
         return best
+    def add_xml_file(self, some_gold_path):
+        """
+        Load annotations of predictions (or gold annotations) from a XML file; the annotated corpora in ``data`` are in this format.
+        But each implicit role has a `recoverable` field that is a true or false string, and a `sentence` and `predstart` entry, 
+        and the filename encodes the actual file. 
+        We also normalized roles to be of the form A0, A1, A3 etc.
+        """
+        with some_gold_path.open() as gold_file:
+            tree = ET.parse(gold_file)
+            root = tree.getroot()
+            for implicit in root:
+                if implicit.attrib['recoverable'].lower() == 'true':
+                    file, sentence, index, arg = str(some_gold_path.name.split(".")[0]), implicit.attrib['sentence'], implicit.attrib['predstart'], implicit.attrib['role']
+                    if "|" in arg:
+                        arg = "A"+arg.split("|")[0][-1]    
+                    elif "arg" in arg.lower() and arg[-1].isdigit():
+                        arg = "A"+arg[-1]
+                    its_role = implicitrole(file, int(sentence), int(index), arg)
+                    for candidate in implicit:
+                        c= Candidate(file, int(candidate.attrib['sentence']), int(candidate.attrib['start']), int(candidate.attrib['end']))
+                        self.process_arg(its_role,c)
+
     def add_txt_file(self, some_gold_path, has_head=False):
+        """ 
+        Load annotations of predictions (or gold annotations) from a txt file format, as used in the Laparra and Rigau scripts
+        Format is <filename>:<sentence>:<index>:0 <roleset> <arg> (head) <list of tokens>
+        Each token is <filename>:<sentence>:<index>:0
+        If a head is listed (not currently used in evaluation, it's a list of tokens separated by "#")
+        """
         with some_gold_path.open() as gold_file:
             for line in gold_file:
                 predloc = line.split(" ")[0]
@@ -87,10 +131,19 @@ class ComparisonSet:
                 self.process_arg(its_role,c)
     
     def add_json_file(self, some_gold_path):
+        """
+        Load annotations of predictions (or gold annotations) from a JSON file.
+        Assumes each role to be defined by ``predicate-sentence`` and ``predicate-start-inclusive``, and an argument (normalizes to "A4", "A2", etc.)
+        """
+        
         with some_gold_path.open() as gold_file:
             for line in json.load(gold_file):
                 file, sentence, index, arg = str(some_gold_path.name.split(".")[0]), line['predicate-sentence'], line['predicate-start-inclusive'], line['role']
-                arg = "A"+arg.split("|")[0][-1]
+                if "|" in arg:
+                    arg = "A"+arg.split("|")[0][-1]    
+                elif "arg" in arg.lower() and arg[-1].isdigit():
+                    arg = "A"+arg[-1]
+
                 its_role = implicitrole(file, int(sentence), int(index), arg)
                 candidates = line.get("candidates",[])
                 if len(candidates) > 0:
@@ -98,20 +151,12 @@ class ComparisonSet:
                         c= Candidate(file, int(each_candidate['sentence']), int(each_candidate['start-inclusive']), int(each_candidate['end-inclusive']))
                         self.process_arg(its_role,c)
 
-    def add_xml_file(self, some_gold_path):
-        with some_gold_path.open() as gold_file:
-            tree = ET.parse(gold_file)
-            root = tree.getroot()
-            for implicit in root:
-                if implicit.attrib['recoverable'].lower() == 'true':
-                    file, sentence, index, arg = str(some_gold_path.name.split(".")[0]), implicit.attrib['sentence'], implicit.attrib['predstart'], implicit.attrib['role']
-                    arg = "A"+arg.split("|")[0][-1]    
-                    its_role = implicitrole(file, int(sentence), int(index), arg)
-                    for candidate in implicit:
-                        c= Candidate(file, int(candidate.attrib['sentence']), int(candidate.attrib['start']), int(candidate.attrib['end']))
-                        self.process_arg(its_role,c)
 
     def process_path(self, some_path):
+        """
+        Adds all annotations/predictions in a particular directory, guessing the parser using the file extension
+        """
+
         if some_path.is_dir():
             for each_indiv_path in some_path.iterdir():
                 if each_indiv_path.name.endswith(".json"):
@@ -130,7 +175,10 @@ class ComparisonSet:
             
         
 def score_predictions(golds, predictions) -> Dict:
-    
+    """
+    Iterate through the predicted implicit roles, evaluating each one against the gold data, using dice coefficient overlap. 
+    """
+    assert (golds.gold and not predictions.gold)
     total_score:float = 0
     for role_candidate in sorted(predictions.implicit_role_candidates):
         option = predictions.implicit_role_candidates[role_candidate][0]
@@ -155,7 +203,7 @@ def calculate_f1(precision, recall):
         return (2.0 * precision*recall )/(precision+recall)
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description='A nontrivial modular command')
+    parser = argparse.ArgumentParser(description='Evaluate a set of predicted implicit roles against a gold set ')
     parser.add_argument('gold', help='Gold file (or folder)')
     parser.add_argument('predicted', help='predicted file (or folder)')
     parser.add_argument("--verbose", help="print information ", default=False)

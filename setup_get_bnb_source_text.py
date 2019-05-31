@@ -1,4 +1,11 @@
-import nltk, os, sys, json, logging, argparse
+#!/usr/bin/env python3
+# -*- coding: utf-8; -*-
+import nltk
+import os
+import sys
+import json
+import logging
+import argparse
 
 def treebank2txt(treebank_location):
     trees = open(treebank_location).read()

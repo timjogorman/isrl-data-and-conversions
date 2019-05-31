@@ -8,7 +8,11 @@ The data is composed of:
 - A noisy, automatic conversion of some within-sentence AMR re-entrancies into iSRL annotations
 
 
-I can't post the source text for the AMR or Beyond NomBank data, but there are scripts for pulling the text out of their respective corpora and putting them into the right place -- using the AMR 2017 release and the PTB3, respectively (*not* OntoNotes 5.0 -- tokenization changed between PTB3 and ON5, so that would mess with the token offsets).  
+I can't post the source text for the AMR or Beyond NomBank data, but there are scripts for pulling the text out of their respective corpora and putting them into the right place -- using the AMR 2017 release and the PTB3, respectively (*not* OntoNotes 5.0 -- tokenization changed between PTB3 and ON5, so that would mess with the token offsets).  So you can get the raw text with:
+
+```python setup_pullamrsourcetext.py <path_to_amr_LDC2017T10 data>/data/alignments/unsplit/```
+
+```python setup_get_bnb_source_text.py <path_to_ptb3>/parsed/mrg/wsj/```
 
 I've also included a script, ```evaluate-isrl.py```, which implements the simple dice score evaluation.  It can deal with a number of formats -- either the big XMLs I used for the data, or simple json or txt files.  ``evaluation-examples'' contains a set of (poor) predictions which you should be able to run with this script, with commands like:
 

@@ -1,16 +1,16 @@
 # iSRL data!
 
-This is an attempt to provide a simple, replicable set of data for implicit semantic role labeling, with all of the dat annotated in -- or converted to -- the PropBank inventory. 
+This is an attempt to provide a simple version of the datasets involved with implicit SRL, and access to a surface-form conversion of the implicit role annotations from MS-AMR. These are all put into a somewhat simplistic format so that the input is the same for all sets -- a list of unstated implicit roles under consideration, PropBank arguments defining each role, and spans in the text that those roles refer to. 
 
 The data is composed of:
 - Conversions of two corpora (SemEval-2010-10 and Gerber and Chai 2012) into a simpler PropBank format, and into a simple format that marks spans in raw text files
-- Conversion of the MS-AMR annotations into more traditional iSRL annotations.  
+- Conversion of the MS-AMR annotations onto surface forms (slightly noisy due to automatic alignment)
 - A noisy, automatic conversion of some within-sentence AMR re-entrancies into iSRL annotations
 
-I can't post the source text for the AMR or NomBank data, but there are scripts for pulling out the correct text and putting it into the right place, with the AMR 2017 release and the PTB3 (*not* ontonotes 5.0 -- the tokenizations are different between the two).  
 
-I've also included a simple script '''evaluate-isrl.py''', which uses the simple dice score evaluation between a dataset and a set of predictions.  Since predicting into the XML is annoying, these will also accept a simple JSON format.  ``evaluation-examples'' contains a set of (poor) predictions which you should be able to run with:
+I can't post the source text for the AMR or Beyond NomBank data, but there are scripts for pulling the text out of their respective corpora and putting them into the right place -- using the AMR 2017 release and the PTB3, respectively (*not* OntoNotes 5.0 -- tokenization changed between PTB3 and ON5, so that would mess with the token offsets).  
 
+I've also included a script, ```evaluate-isrl.py```, which implements the simple dice score evaluation.  It can deal with a number of formats -- either the big XMLs I used for the data, or simple json or txt files.  ``evaluation-examples'' contains a set of (poor) predictions which you should be able to run with this script, which also provide examples of the format:
 
 python evaluate-isrl.py data/test/nombank/ evaluation-examples/test/nombank/
 
@@ -22,5 +22,10 @@ python evaluate-isrl.py data/test/semeval/ evaluation-examples/test/semeval/
 python evaluate-isrl.py data/test/nombank/wsj_2398.xml evaluation-examples/test/nombank/wsj_2398.predicted.json
 
 ```precision 0.15018315018315015, recall 0.15018315018315015, and f1 0.15018315018315015```
+
+python evaluate-isrl.py data/test/nombank/wsj_2398.xml evaluation-examples/wsj_2398.txt
+
+```precision 0.15018315018315015, recall 0.15018315018315015, and f1 0.15018315018315015```
+
 
 There is also an ugly simple viewer for skimming these examples, which takes one of these xml files in data/ as an argument (once you've loaded the corresponding source files).

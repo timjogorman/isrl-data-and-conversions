@@ -120,11 +120,11 @@ class ComparisonSet:
                 file, sentence, index, arg = predloc.split(":")[0], predloc.split(":")[1], predloc.split(":")[2], line.split(" ")[2]
                 its_role = implicitrole(file, int(sentence), int(index), arg)
                 if has_head:
-                    token_ids = [int(cand.split(":")[2]) for cand in line.strip("\n").split(" ")[4:]]
+                    token_ids = [int(cand.split(":")[2]) for cand in line.strip().split(" ")[4:]]
                     head_index = [int(x.split(":")[2]) for x in line.strip("\n").split(" ")[3].split("#")]
                     candidate_file, candidate_sent = line.strip("\n").split(" ")[4].split(":")[0], line.strip("\n").split(" ")[4].split(":")[1]
                 else:
-                    token_ids = [int(cand.split(":")[2]) for cand in line.strip("\n").split(" ")[3:]]
+                    token_ids = [int(cand.split(":")[2]) for cand in line.strip().split(" ")[3:]]
                     head_index = None
                     candidate_file, candidate_sent = line.strip("\n").split(" ")[3].split(":")[0], line.strip("\n").split(" ")[3].split(":")[1]
                 c = Candidate(candidate_file, int(candidate_sent), min(token_ids), max(token_ids), head_index)
